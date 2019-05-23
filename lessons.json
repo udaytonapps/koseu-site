@@ -76,6 +76,10 @@
         {
             "question" : "Can I save an Announcement as a draft?",
             "answer" : "Definitely. Choose the Hide option after writing your Announcement, then press the Post Announcement button. It will be hidden until you edit the Announcement and change that setting to Show."
+        },
+        {
+            "question" : "Can I delete an Announcement?",
+            "answer" : "For sure dude!"
         }
     ]
 }
