@@ -60,26 +60,24 @@
         }
     ],
     "aside2title" : "Potential Questions You May Have",
-    "aside2content" : {
-        "questions" : [
-            {
-                "question" : "Where do students see Announcements?",
-                "answer" : "Students have the option to see Announcements in multiple locations. By default, they can see links to all of their Announcements on their Isidore homepage. They would also see the links to the Announcements on your course site homepage. If you didn’t change the default behavior, students would receive an email notification including the text of the announcement."
-            },
-            {
-                "question" : "Do Announcements work if the site is unpublished?",
-                "answer" : "Not really. The Announcement gets posted, but an email will not be delivered to students’ inboxes, and they would have no way of seeing the Announcement until the site is published."
-            },
-            {
-                "question" : "Can I schedule Announcements?",
-                "answer" : "You bet! Just choose the Specify Dates option after writing the text for your Announcement. Pick the dates the Announcement should be visible, and it will appear (and disappear) on the selected dates."
-            },
-            {
-                "question" : "Can I save an Announcement as a draft?",
-                "answer" : "Definitely. Choose the Hide option after writing your Announcement, then press the Post Announcement button. It will be hidden until you edit the Announcement and change that setting to Show."
-            }
-        ]
-    }
+    "aside2questions" : [
+        {
+            "question" : "Where do students see Announcements?",
+            "answer" : "Students have the option to see Announcements in multiple locations. By default, they can see links to all of their Announcements on their Isidore homepage. They would also see the links to the Announcements on your course site homepage. If you didn’t change the default behavior, students would receive an email notification including the text of the announcement."
+        },
+        {
+            "question" : "Do Announcements work if the site is unpublished?",
+            "answer" : "Not really. The Announcement gets posted, but an email will not be delivered to students’ inboxes, and they would have no way of seeing the Announcement until the site is published."
+        },
+        {
+            "question" : "Can I schedule Announcements?",
+            "answer" : "You bet! Just choose the Specify Dates option after writing the text for your Announcement. Pick the dates the Announcement should be visible, and it will appear (and disappear) on the selected dates."
+        },
+        {
+            "question" : "Can I save an Announcement as a draft?",
+            "answer" : "Definitely. Choose the Hide option after writing your Announcement, then press the Post Announcement button. It will be hidden until you edit the Announcement and change that setting to Show."
+        }
+    ]
 }
 ]
 }
