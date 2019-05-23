@@ -1,70 +1,85 @@
 {
-"title": "Hosting Your Own MOOC with Koseu",
-"description" : "This is merely a sample lessons.json borrowed from www.tsugi.org.  You should edit this file with your own course materials, LTI tools, and videos.",
+"title": "I'm BRAND New! What Do I Do?",
+"description" : "If you're brand new to Isidore, or just need a complete refresher, pop into any of the lessons below to learn the fundamentals. The topics covered include background information about Isidore, basic navigation and layout of the system and the site creation process.",
 "modules": [
 {
-    "title": "Overview of Tsugi",
-    "anchor": "overview",
-    "icon" : "fa-clone",
-    "description": "This gives some context around what Tsugi is and why Tsugi is being developed.",
-    "slides": "lectures/00-Mini.pptx",
+    "title": "Announcements Basics",
+    "anchor": "announcements",
+    "icon" : "fa-bullhorn",
+    "description": "Basics about the announcements tool.",
     "videos" : [
         {
-            "title" : "Overview of Tsugi",
-            "youtube" : "OzrlFJNBFqY"
-        }
-    ]
-},
-{
-    "title": "Using Tsugi Apps in a Learning System",
-    "anchor": "tsugitools",
-    "icon" : "fa-cloud",
-    "description": "TsugiCloud provides free hosting for open source Tsugi tools.  Teachers can use TsugiCloud tools in their Learning Management Systems (LMS) or Google Classroom for free.  Developers can submit their tools to TsugiCloud for free hosting and use by teachers.   Developers can also host their own Tsugi app store if they like.",
-    "videos" : [
-        {
-            "title" : "Using TsugiCloud in Google Classroom",
-            "youtube" : "SeAsoA_fJo0"
-        },
-        {
-            "title" : "Using TsugiCloud in Sakai",
-            "youtube" : "au2_C_2PgIA"
+            "title" : "Quick Announcements",
+            "youtube" : "DZpMKb7HV0c"
         }
     ],
-    "references" : [
+    "overviewcontent" : "Use the Announcements tool to post messages for your students. You may attach documents or embed images. By default, Announcements are also sent to students’ emails, so you can be sure they see the message.",
+    "step1title" : "See it, learn it!",
+    "step1content" : "Watch this 1 minute video to see how to get started with the Announcements tool.",
+    "step2title" : "Test your knowledge:",
+    "lti" : {
+        "title" : "Link to quick quiz",
+        "launch" : "tools/quickquiz",
+        "resource_link_id": "announcements_quiz1"
+    },
+    "aside1title" : "Additional Resources",
+    "aside1content" : [
         {
-            "title" : "TsugiCloud (free Tsugi Hosting)",
-            "href" : "https://www.tsugicloud.org/"
+            "references" : [
+                {
+                    "title" : "Full Announcements Tool Help",
+                    "href" : "https://ewiki.udayton.edu/isidore/Announcements"
+                }
+            ]
         },
         {
-            "title" : "Using TsugiCloud with Google Classroom",
-            "href" : "https://www.tsugicloud.org/about/documentation/howto/classroom"
+            "header" : "Related Lessons",
+            "references" : [
+                {
+                    "title" : "Course Communication",
+                    "href" : "#"
+                },
+                {
+                    "title" : "Messages Tool",
+                    "href" : "#"
+                }
+            ]
         },
         {
-            "title" : "Using TsugiCloud with Canvas",
-            "href" : "https://www.tsugicloud.org/about/documentation/howto/canvas"
-        },
-        {
-            "title" : "Using TsugiCloud with Sakai",
-            "href" : "https://www.tsugicloud.org/about/documentation/howto/sakai"
+            "header" : "Additional Articles",
+            "references" : [
+                {
+                    "title" : "When you communicate with students, tone matters",
+                    "href" : "https://www.chronicle.com/article/When-You-Communicate-With/244756"
+                },
+                {
+                    "title" : "The need for balanced feedback",
+                    "href" : "https://www.facultyfocus.com/articles/online-education/the-need-for-balanced-feedback/"
+                }
+            ]
         }
-    ]
-},
-{
-    "title": "Pre-Requisite: Learning PHP and MySQL",
-    "anchor": "wa4e",
-    "icon" : "fa-clone",
-    "description": "If you don't know how to use PHP, MySQL, and JavaScript, to build web applications, we recommend you take 'Web Applications for Everybody'.  You can earn a certificate on Coursera or take the course at our free online web site.",
-    "references" : [
-        {
-            "title" : "Web Applications for Everybody Specialization (Coursera)",
-            "href" : "https://www.coursera.org/specializations/web-applications/"
-        },
-        {
-            "title" : "Web Applications for Everybody (WA4E)",
-            "href" : "https://www.wa4e.com/"
-        }
-    ]
+    ],
+    "aside2title" : "Potential Questions You May Have",
+    "aside2content" : {
+        "questions" : [
+            {
+                "question" : "Where do students see Announcements?",
+                "answer" : "Students have the option to see Announcements in multiple locations. By default, they can see links to all of their Announcements on their Isidore homepage. They would also see the links to the Announcements on your course site homepage. If you didn’t change the default behavior, students would receive an email notification including the text of the announcement."
+            },
+            {
+                "question" : "Do Announcements work if the site is unpublished?",
+                "answer" : "Not really. The Announcement gets posted, but an email will not be delivered to students’ inboxes, and they would have no way of seeing the Announcement until the site is published."
+            },
+            {
+                "question" : "Can I schedule Announcements?",
+                "answer" : "You bet! Just choose the Specify Dates option after writing the text for your Announcement. Pick the dates the Announcement should be visible, and it will appear (and disappear) on the selected dates."
+            },
+            {
+                "question" : "Can I save an Announcement as a draft?",
+                "answer" : "Definitely. Choose the Hide option after writing your Announcement, then press the Post Announcement button. It will be hidden until you edit the Announcement and change that setting to Show."
+            }
+        ]
+    }
 }
-
 ]
 }
