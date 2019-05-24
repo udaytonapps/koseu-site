@@ -27,6 +27,7 @@
         {
             "references" : [
                 {
+                    "icon" : "fa-external-link",
                     "title" : "Full Announcements Tool Help",
                     "href" : "https://ewiki.udayton.edu/isidore/Announcements"
                 }
@@ -36,10 +37,12 @@
             "header" : "Related Lessons",
             "references" : [
                 {
+                    "icon" : "fa-bullhorn",
                     "title" : "Course Communication",
                     "href" : "#"
                 },
                 {
+                    "icon" : "fa-inbox",
                     "title" : "Messages Tool",
                     "href" : "#"
                 }
@@ -49,10 +52,12 @@
             "header" : "Additional Articles",
             "references" : [
                 {
+                    "icon" : "fa-external-link",
                     "title" : "When you communicate with students, tone matters",
                     "href" : "https://www.chronicle.com/article/When-You-Communicate-With/244756"
                 },
                 {
+                    "icon" : "fa-external-link",
                     "title" : "The need for balanced feedback",
                     "href" : "https://www.facultyfocus.com/articles/online-education/the-need-for-balanced-feedback/"
                 }
