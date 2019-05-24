@@ -108,7 +108,7 @@
             "lti" : {
                 "title" : "Link to quick quiz",
                 "launch" : "tools/quickquiz",
-                "resource_link_id": "announcements_quiz1"
+                "resource_link_id": "announcements_quiz2"
             },
             "aside2title" : "Potential Questions You May Have",
             "aside2questions" : [
@@ -154,7 +154,7 @@
             "lti" : {
                 "title" : "Link to quick quiz",
                 "launch" : "tools/quickquiz",
-                "resource_link_id": "announcements_quiz1"
+                "resource_link_id": "announcements_quiz3"
             },
             "aside1title" : "Additional Resources",
             "aside1content" : [
