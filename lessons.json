@@ -81,7 +81,9 @@
             "question" : "Can I delete an Announcement?",
             "answer" : "For sure dude!"
         }
-    ]
+    ],
+    "aside3title" : "Did you know?",
+    "aside3content" : "Did you know that we can add another type of box over here to include a short paragraph of text for people to read."
 }
 ]
 }
