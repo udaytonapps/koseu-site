@@ -13,7 +13,7 @@
                     "warpwire" : "1_kAAA"
                 }
             ],
-            "overviewcontent" : "Use the Announcements tool to post messages for your students. You may attach documents or embed images. By default, Announcements are also sent to students’ emails, so you can be sure they see the message.",
+            "overviewcontent" : "Use the <strong>Announcements tool</strong> to post messages for your students. You may attach documents or embed images. By default, Announcements are also sent to students’ emails, so you can be sure they see the message.",
             "step1title" : "See it, learn it!",
             "step1content" : "Watch this 1 minute video to see how to get started with the Announcements tool.",
             "step2title" : "Test your knowledge:",
@@ -25,6 +25,7 @@
             "aside1title" : "Additional Resources",
             "aside1content" : [
                 {
+                    "header" : "Wiki Resources",
                     "references" : [
                         {
                             "icon" : "fa-external-link",
