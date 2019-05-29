@@ -201,6 +201,27 @@
             ],
             "aside3title" : "Did you know?",
             "aside3content" : "Did you know that we can add another type of box over here to include a short paragraph of text for people to read."
+        },
+        {
+            "title": "Assignments Basics",
+            "anchor": "assignments",
+            "icon" : "fa-file",
+            "description": "Basics about the assignments tool.",
+            "videos" : [
+                {
+                    "title" : "Isidore - Announcements",
+                    "warpwire" : "1_kAAA"
+                }
+            ],
+            "overviewcontent" : "Here is some content.",
+            "step1title" : "See it, learn it!",
+            "step1content" : "Watch this 1 minute video to see how to get started with the Announcements tool.",
+            "step2title" : "Test your knowledge:",
+            "lti" : {
+                "title" : "Link to quick quiz",
+                "launch" : "tools/quickquiz",
+                "resource_link_id": "assignments_quiz"
+            }
         }
     ]
 }
