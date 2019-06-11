@@ -37,6 +37,7 @@
             "aside1title" : "Additional Resources",
             "aside1content" : [
                 {
+                    "header" : "Wiki Resources",
                     "references" : [
                         {
                             "icon" : "fa-external-link",
