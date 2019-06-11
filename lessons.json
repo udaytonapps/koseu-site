@@ -14,9 +14,21 @@
                 }
             ],
             "overviewcontent" : "Use the Announcements tool to post messages for your students. You may attach documents or embed images. By default, Announcements are also sent to students’ emails, so you can be sure they see the message.",
-            "step1title" : "See it, learn it!",
-            "step1content" : "Watch this 1 minute video to see how to get started with the Announcements tool.",
-            "step2title" : "Test your knowledge:",
+            "section1title" : "Step 1: See it, Learn it!",
+            "section1content" : "Watch this 1 minute video to see how to get started with the Announcements tool.",
+            "section2title" : "Step 2: Try It!",
+            "section2content" : "It's now time for you to do stuff...",
+            "section2prereq" : "To complete this you must do a thing.",
+            "section2steps" : [
+                {
+                    "step" : "Log into Isidore"
+                },
+                {
+                    "step" : "Do something else"
+                }
+            ],
+            "section3title" : "Step 3: Test your knowledge",
+            "section3content" : "Now that you've done something ....",
             "lti" : {
                 "title" : "Link to quick quiz",
                 "launch" : "tools/quickquiz",
@@ -85,117 +97,6 @@
                 {
                     "question" : "Can I delete an Announcement?",
                     "answer" : "For sure dude!"
-                }
-            ],
-            "aside3title" : "Did you know?",
-            "aside3content" : "Did you know that we can add another type of box over here to include a short paragraph of text for people to read."
-        },
-        {
-            "title": "Announcements Basics 2",
-            "anchor": "announcements2",
-            "icon" : "fa-bullhorn",
-            "description": "Basics about the announcements tool.",
-            "videos" : [
-                {
-                    "title" : "Isidore - Announcements",
-                    "warpwire" : "1_kAAA"
-                }
-            ],
-            "overviewcontent" : "Use the Announcements tool to post messages for your students. You may attach documents or embed images. By default, Announcements are also sent to students’ emails, so you can be sure they see the message.",
-            "step1title" : "See it, learn it!",
-            "step1content" : "Watch this 1 minute video to see how to get started with the Announcements tool.",
-            "step2title" : "Test your knowledge:",
-            "lti" : {
-                "title" : "Link to quick quiz",
-                "launch" : "tools/quickquiz",
-                "resource_link_id": "announcements_quiz2"
-            },
-            "aside2title" : "Potential Questions You May Have",
-            "aside2questions" : [
-                {
-                    "question" : "Where do students see Announcements?",
-                    "answer" : "Students have the option to see Announcements in multiple locations. By default, they can see links to all of their Announcements on their Isidore homepage. They would also see the links to the Announcements on your course site homepage. If you didn’t change the default behavior, students would receive an email notification including the text of the announcement."
-                },
-                {
-                    "question" : "Do Announcements work if the site is unpublished?",
-                    "answer" : "Not really. The Announcement gets posted, but an email will not be delivered to students’ inboxes, and they would have no way of seeing the Announcement until the site is published."
-                },
-                {
-                    "question" : "Can I schedule Announcements?",
-                    "answer" : "You bet! Just choose the Specify Dates option after writing the text for your Announcement. Pick the dates the Announcement should be visible, and it will appear (and disappear) on the selected dates."
-                },
-                {
-                    "question" : "Can I save an Announcement as a draft?",
-                    "answer" : "Definitely. Choose the Hide option after writing your Announcement, then press the Post Announcement button. It will be hidden until you edit the Announcement and change that setting to Show."
-                },
-                {
-                    "question" : "Can I delete an Announcement?",
-                    "answer" : "For sure dude!"
-                }
-            ],
-            "aside3title" : "Did you know?",
-            "aside3content" : "Did you know that we can add another type of box over here to include a short paragraph of text for people to read."
-        },
-        {
-            "title": "Announcements Basics 3",
-            "anchor": "announcements3",
-            "icon" : "fa-bullhorn",
-            "description": "Basics about the announcements tool.",
-            "videos" : [
-                {
-                    "title" : "Isidore - Announcements",
-                    "warpwire" : "1_kAAA"
-                }
-            ],
-            "overviewcontent" : "Use the Announcements tool to post messages for your students. You may attach documents or embed images. By default, Announcements are also sent to students’ emails, so you can be sure they see the message.",
-            "step1title" : "See it, learn it!",
-            "step1content" : "Watch this 1 minute video to see how to get started with the Announcements tool.",
-            "step2title" : "Test your knowledge:",
-            "lti" : {
-                "title" : "Link to quick quiz",
-                "launch" : "tools/quickquiz",
-                "resource_link_id": "announcements_quiz3"
-            },
-            "aside1title" : "Additional Resources",
-            "aside1content" : [
-                {
-                    "references" : [
-                        {
-                            "icon" : "fa-external-link",
-                            "title" : "Full Announcements Tool Help",
-                            "href" : "https://ewiki.udayton.edu/isidore/Announcements"
-                        }
-                    ]
-                },
-                {
-                    "header" : "Related Lessons",
-                    "references" : [
-                        {
-                            "icon" : "fa-bullhorn",
-                            "title" : "Course Communication",
-                            "href" : "#"
-                        },
-                        {
-                            "icon" : "fa-inbox",
-                            "title" : "Messages Tool",
-                            "href" : "#"
-                        }
-                    ]
-                },
-                {
-                    "header" : "Additional Articles",
-                    "references" : [
-                        {
-                            "icon" : "fa-external-link",
-                            "title" : "When you communicate with students, tone matters",
-                            "href" : "https://www.chronicle.com/article/When-You-Communicate-With/244756"
-                        },
-                        {
-                            "icon" : "fa-external-link",
-                            "title" : "The need for balanced feedback",
-                            "href" : "https://www.facultyfocus.com/articles/online-education/the-need-for-balanced-feedback/"
-                        }
-                    ]
                 }
             ],
             "aside3title" : "Did you know?",
