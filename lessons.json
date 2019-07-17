@@ -3,6 +3,23 @@
     "description" : "If you're brand new to Isidore, or just need a complete refresher, pop into any of the lessons below to learn the fundamentals. The topics covered include background information about Isidore, basic navigation and layout of the system and the site creation process.",
     "modules": [
         {
+            "title": "What is Isidore?",
+            "anchor": "whatisisidore",
+            "icon" : "fa-question",
+            "description": "And what does it do?",
+            "videos" : [
+                {
+                    "title" : "What is Isidore, And What Does It Do?"
+                    "warpwire" : "pwcBAA"
+                }
+             ],
+            "overviewcontent" : "Isidore is UD's open-source Learning Management System or LMS. Isidore is based on the Sakai LMS, but why did UD go this direction? Find out it in this lesson."
+            "section1title" : "Step 1: Learn Why Isidore is So Great!",
+            "section1content" : "Watch this 2 minute video for an introduction to Isidore.",
+            "section2title" : "Step 2: Test Your Knowledge",
+            "section2content" : "Now it's time to prove you watched the video. Complete the Quick Quiz below and earn a badge.",  
+        },
+        {
             "title": "Announcements Basics",
             "anchor": "announcements",
             "icon" : "fa-bullhorn",
