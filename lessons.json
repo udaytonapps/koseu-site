@@ -9,11 +9,11 @@
             "description": "And what does it do?",
             "videos" : [
                 {
-                    "title" : "What is Isidore, And What Does It Do?"
+                    "title" : "What is Isidore, And What Does It Do?",
                     "warpwire" : "pwcBAA"
                 }
              ],
-            "overviewcontent" : "Isidore is UD's open-source Learning Management System or LMS. Isidore is based on the Sakai LMS, but why did UD go this direction? Find out it in this lesson."
+            "overviewcontent" : "Isidore is UD's open-source Learning Management System or LMS. Isidore is based on the Sakai LMS, but why did UD go this direction? Find out it in this lesson.",
             "section1title" : "Step 1: Learn Why Isidore is So Great!",
             "section1content" : "Watch this 2 minute video for an introduction to Isidore.",
             "section2title" : "Step 2: Test Your Knowledge",
