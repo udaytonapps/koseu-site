@@ -38,7 +38,7 @@ if ( $loggedin ) {
     }
     $submenu->addLink('Logout', $R.'logout');
     if ( isset($_SESSION['avatar']) ) {
-        $set->addRight('<img src="'.$_SESSION['avatar'].'" style="height: 2em;"/>', $submenu);
+        $set->addRight('<img src="'.$_SESSION['avatar'].'" alt="'.htmlentities($_SESSION['displayname']).'" class="img-circle"/>', $submenu);
         // htmlentities($_SESSION['displayname']), $submenu);
     } else {
         $set->addRight(htmlentities($_SESSION['displayname']), $submenu);
