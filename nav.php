@@ -13,19 +13,17 @@ if ( isset($CFG->lessons) ) {
 }
 if ( $loggedin ) {
 	$set->addLeft('Assignments', $R.'assignments');
-}
 
-$set->addLeft('Privacy', $R.'privacy');
-$set->addLeft('Free App Store', 'https://www.tsugicloud.org');
+    if ( isset($CFG->badge_encrypt_password) && $CFG->badge_encrypt_password ) {
+        $set->addLeft('Badges', $R.'badges');
+    }
+}
 
 if ( $loggedin ) {
     $submenu = new \Tsugi\UI\Menu();
     $submenu->addLink('Profile', $R.'profile');
-    if ( isset($CFG->google_map_api_key) ) {
+    if ( isset($CFG->google_map_api_key) && $CFG->google_map_api_key ) {
         $submenu->addLink('Map', $R.'map');
-    }
-    if ( isset($CFG->badge_encrypt_password) && $CFG->badge_encrypt_password ) {
-        $submenu->addLink('Badges', $R.'badges');
     }
     if ( $CFG->providekeys ) {
         $submenu->addLink('LMS Integration', $T . 'settings');
@@ -47,7 +45,7 @@ if ( $loggedin ) {
     $set->addRight('Login', $T.'login.php');
 }
 
-$set->addRight('Instructor', 'https://www.dr-chuck.com');
+$set->addRight('Isidore <span class="fas fa-external-link-alt" aria-hidden="true"></span>', 'https://isidore.udayton.edu/portal');
 
 // Set the topNav for the session
 $OUTPUT->topNavSession($set);
