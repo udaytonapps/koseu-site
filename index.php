@@ -6,41 +6,15 @@ use \Tsugi\UI\Output;
 require "top.php";
 require "nav.php";
 
+$OUTPUT->pageTitle('Welcome to the Learn Training Platform');
 ?>
-<div id="container">
-<h1>Hosting Your Own MOOC</h1>
+<p class="lead">Welcome to the Office of eLearning's training platform, "Learn." Here you will find self-paced lessons on a variety of topics and technologies supported by the Office of eLearning.</p>
 <?php if ( isset($_SESSION['id']) ) { ?>
-<p>
-Welcome to our Massive Open Online Course (MOOC). Now that you have logged in, you have access to 
-course-style features of this web site.
-<?php } else { ?>
-<p>
-Hello and welcome to this MOOC web site.
-<ul>
-<li>
-You can add structures videos, course materials, and LTI tools under <a href="lessons">Lessons</a>.
-You do this by editing the file <a href="lessons.json" target="_blank">lessons.json</a>.
-</li>
-<li>
-Once you have login configured, you can 
-<a href="tsugi/login.php">log in</a> to this site and get 
-a grade book, access to autograded assignments, see a map of your fellow students and maybe earn a badge or two.
-</li>
-<li>
-Privacy is important so there is a sample
-<a href="privacy">Privacy Policy</a> that is provided as a starting point.
-</li>
-</ul>
+    <h2>Welcome, <?= $USER->displayName ?>!</h2>
 <?php } ?>
-This site uses <a href="http://www.tsugi.org" target="_blank">Tsugi</a> 
-framework to embed a learning 
-management system into this site.
-If you are interested in collaborating
-to build these kinds of sites for yourself, please see the
-<a href="http://www.tsugi.org" target="_blank">tsugi.org</a> website.
-The skelton content for this site is available in
-<a href="https://github.com/tsugiproject/koseu-site" target="_blank">GitHub</a>.
-</p>
+<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusamus aut culpa doloribus expedita iste iusto minus necessitatibus, nesciunt, nisi officiis quas quisquam temporibus veritatis! Dolores explicabo maiores maxime nisi voluptatum.</p>
+<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. A, accusantium blanditiis consectetur ea expedita fuga iure.</p>
+<p><a href="<?=addSession($CFG->apphome.'/lessons')?>" title="Get Started" class="btn btn-primary">Get Started</a></p>
 <!--
 <?php
 echo("IP Address: ".Net::getIP()."\n");
@@ -48,6 +22,5 @@ echo(Output::safe_var_dump($_SESSION));
 var_dump($USER);
 ?>
 -->
-</div>
 <?php 
 require "foot.php";
