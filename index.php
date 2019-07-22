@@ -14,6 +14,6 @@ $OUTPUT->pageTitle('Welcome to the Learn Training Platform');
 <?php } ?>
 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusamus aut culpa doloribus expedita iste iusto minus necessitatibus, nesciunt, nisi officiis quas quisquam temporibus veritatis! Dolores explicabo maiores maxime nisi voluptatum.</p>
 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. A, accusantium blanditiis consectetur ea expedita fuga iure.</p>
-<p><a href="<?=addSession($CFG->apphome.'/lessons')?>" title="Get Started" class="btn btn-primary">Get Started</a></p>
+<p><a href="<?=addSession($CFG->apphome.'/lessons')?>" title="Get Started" class="btn btn-primary">Get Started <span class="fas fa-arrow-right" aria-hidden="true"></span></a></p>
 <?php
 require "foot.php";
