@@ -1,9 +1,9 @@
 <?php
 
 $foot = '
-<p style="font-size: 75%; margin-top: 5em;">
-Copyright Creative Commons Attribution 3.0 - Charles R. Severance
-</p>';
+<div class="footer">
+<p class="text-center small">Copyright <span class="far fa-copyright" aria-hidden="true"></span> '.date("Y").' University of Dayton</p>
+</div>';
 
 $OUTPUT->setAppFooter($foot);
 
