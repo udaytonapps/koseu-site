@@ -1,24 +1,193 @@
 {
-    "title": "I'm BRAND New! What Do I Do?",
+    "title": "I'm Brand New! What Do I Do?",
     "description" : "If you're brand new to Isidore, or just need a complete refresher, pop into any of the lessons below to learn the fundamentals. The topics covered include background information about Isidore, basic navigation and layout of the system and the site creation process.",
     "modules": [
         {
-            "title": "What is Isidore?",
+            "title": "What Is Isidore?",
             "anchor": "whatisisidore",
             "icon" : "fa-question",
             "description": "And what does it do?",
             "videos" : [
                 {
-                    "title" : "What is Isidore, And What Does It Do?",
+                    "title" : "What Is Isidore, And What Does It Do?",
                     "warpwire" : "pwcBAA"
                 }
              ],
-            "overviewcontent" : "Isidore is UD's open-source Learning Management System or LMS. Isidore is based on the Sakai LMS, but why did UD go this direction? Find out it in this lesson.",
-            "section1title" : "Step 1: Learn Why Isidore is So Great!",
+            "overviewcontent" : "Isidore is UD's open-source Learning Management System or LMS. Isidore is based on the Sakai LMS, but why did UD go this direction? Find out in this lesson.",
+            "section1title" : "Step 1: What is Isidore?",
             "section1content" : "Watch this 2 minute video for an introduction to Isidore.",
             "section2title" : "Step 2: Test Your Knowledge",
             "section2content" : "Now it's time to prove you watched the video. Complete the Quick Quiz below and earn a badge."
-        },
+            "lti" : {
+                "title" : "Link to quick quiz",
+                "launch" : "tools/quickquiz",
+                "resource_link_id": "brandnew_quiz1"
+            },
+            "aside1title" : "Additional Resources",
+            "aside1content" : [
+                {
+                    "header" : "Wiki Resources",
+                    "references" : [
+                        {
+                            "icon" : "fa-external-link",
+                            "title" : "I'm New to Isidore",
+                            "href" : "https://ewiki.udayton.edu/isidore/New_To_Isidore"
+                        }
+                    ]
+                },
+                {
+                    "header" : "Related Lessons",
+                    "references" : [
+                        {
+                            "icon" : "fa-sign-in-alt",
+                            "title" : "Getting Started with Isidore",
+                            "href" : "#"
+                        },
+                        {
+                            "icon" : "fa-plus",
+                            "title" : "Creating Course Sites",
+                            "href" : "#"
+                        }
+                    ]
+                },
+                {
+                    "header" : "Additional Articles",
+                    "references" : [
+                        {
+                            "icon" : "fa-external-link",
+                            "title" : "Wiki Page for St. Isidore of Seville",
+                            "href" : "https://en.wikipedia.org/wiki/Isidore_of_Seville"
+                        },
+                         {
+                            "icon" : "fa-external-link",
+                            "title" : "Why Open Source? - Written by eLearning Staff",
+                            "href" : "https://docs.google.com/document/d/14JHtHVA8zVAzH9Jjo2KhjBlRGhN06AJK3szM64v-6vU/edit?usp=sharing"
+                        },
+                        {
+                            "icon" : "fa-external-link",
+                            "title" : "The Sakai LMS Homepage",
+                            "href" : "https://www.sakailms.org/"
+                        }
+                    ]
+                }
+            ],
+            "aside2title" : "Potential Questions You May Have",
+            "aside2questions" : [
+                {
+                    "question" : "So Isidore is open-source. What features have you built?",
+                    "answer" : "The Attendance tool, Tsugi learning apps, the Checklist tool, and this very training platform! We share these features with the broader open-source community so they are used worldwide. If you want to see all of our work, check out our Isidore Releases page: https://ewiki.udayton.edu/isidore/Isidore_releases."
+                },
+                {
+                    "question" : "I have a feature request! How do I let you know?",
+                    "answer" : "Just call or email the Office of eLearning! We are available at 937-229-5039 and elearning@udayton.edu. We'll make a ticket for you, then we'll be sure to let you know when the feature is added to Isidore."
+                },
+                {
+                    "question" : "How is 'Isidore' pronounced?",
+                    "answer" : "Is-a-door."
+                },
+                {
+                    "question" : "Why is Arnold Schwarzeneggar in your video?",
+                    "answer" : "In his feature role as John Kimble in Kindergarten Cop, Arnold transforms from a one-dimensional, gruff police officer into a passionate teaher dedicated to learning. We feel this character is a perfect introduction to our learning management system (but mostly we just really like the movie)."
+                }
+            ],
+            "aside3title" : "Did you know?",
+            "aside3content" : "St. Isidore of Seville sought to compile all knowledge into an encyclopedia known as 'Etymologiae.' In the 20 books composing the encylopedia, St. Isidore covers math, music, law, languages, atoms, elements, agriculture, metals, animals, and more. You can find ALL these topics covered within the Isidore LMS. UD is carrying on Isidore's legacy!"
+        },{
+            "title": "Getting Started with Isidore",
+            "anchor": "gettingstarted",
+            "icon" : "fa-sign-in-alt",
+            "description": "Logging in and adding a profile picture.",
+            "videos" : [
+                {
+                    "title" : "What Is Isidore, And What Does It Do?",
+                    "warpwire" : "pwcBAA"
+                }
+             ],
+            "overviewcontent" : "If you’ve never used Isidore before, fear not! This lesson will help you get started.",
+            "section1title" : "Step 1: What is Isidore?",
+            "section1content" : "Watch this 1 minute video to learn how to log in and add a profile picture.",
+            "section2title" : "Step 2: Test Your Knowledge",
+            "section2content" : "Now it's time to prove you watched the video. Complete the Quick Quiz below to earn a badge. Earn an elite badge by going above and beyond by recording your name pronunciation."
+            "lti" : {
+                "title" : "Link to quick quiz",
+                "launch" : "tools/quickquiz",
+                "resource_link_id": "gettingstarted_quiz1"
+            },
+            "aside1title" : "Additional Resources",
+            "aside1content" : [
+                {
+                    "header" : "Wiki Resources",
+                    "references" : [
+                        {
+                            "icon" : "fa-external-link",
+                            "title" : "I'm New to Isidore",
+                            "href" : "https://ewiki.udayton.edu/isidore/New_To_Isidore"
+                        },
+                        {
+                            "icon" : "fa-external-link",
+                            "title" : "Profile",
+                            "href" : "https://ewiki.udayton.edu/isidore/View_Profile"
+                        }
+                    ]
+                },
+                {
+                    "header" : "Related Lessons",
+                    "references" : [
+                        {
+                            "icon" : "fa-question",
+                            "title" : "What Is Isidore?",
+                            "href" : "#"
+                        },
+                        {
+                            "icon" : "fa-plus",
+                            "title" : "Creating Course Sites",
+                            "href" : "#"
+                        }
+                    ]
+                },
+                {
+                    "header" : "Additional Articles",
+                    "references" : [
+                        {
+                            "icon" : "fa-external-link",
+                            "title" : "Isidore Log In Page",
+                            "href" : "https://isidore.udayton.edu"
+                        },
+                         {
+                            "icon" : "fa-external-link",
+                            "title" : "University of Dayton: Using NameCoach to Create an Environment of Inclusivity and Respect for Every Student",
+                            "href" : "https://name-coach.com/blog/case-study-using-namecoach-create-environment-inclusivity-respect-every-student/"
+                        },
+                        {
+                            "icon" : "fa-external-link",
+                            "title" : "2-Factor Authentication at UD",
+                            "href" : "https://udayton.teamdynamix.com/TDClient/Requests/ServiceDet?ID=14394"
+                        }
+                    ]
+                }
+            ],
+            "aside2title" : "Potential Questions You May Have",
+            "aside2questions" : [
+                {
+                    "question" : "I don't have a UD account yet. How can I log in?",
+                    "answer" : "Please contact the IT Service Center to obtain your credentials. You can reach them at itservicecenter@udayton.edu or at 937-229-3888. If your credentials are 'in-the-works', contact eLearning to obtain 'guest' logins."
+                },
+                {
+                    "question" : "What browsers work best with Isidore?",
+                    "answer" : "We recommend Chrome and Firefox, though Edge and Safari are also supported."
+                },
+                {
+                    "question" : "Why is 2-factor authentication needed?",
+                    "answer" : "As a part of the campus community, you play a part in keeping our campus safe - this includes from cyber attacks. Your password is the easiest way for attacks on our systems to happen, so the additional step of approving log ins on a secondary device is a critical step for safety."
+                }
+            ],
+            "aside3title" : "Did you know?",
+            "aside3content" : "Our Isidore homagepage has looked mighty different over the years. See all of Isidore's looks: https://drive.google.com/file/d/1YkDqB6d2oNHEmxASZ1dErPHdlRmwJU9V/view?usp=sharing"
+        } 
+   ],
+ "title": "Isidore 101",
+    "description" : "These lessons cover the basics of the most commonly (and easily) used tools.",
+    "modules": [
         {
             "title": "Announcements Basics",
             "anchor": "announcements",
@@ -30,22 +199,25 @@
                     "warpwire" : "1_kAAA"
                 }
             ],
-            "overviewcontent" : "Use the Announcements tool to post messages for your students. You may attach documents or embed images. By default, Announcements are also sent to students’ emails, so you can be sure they see the message.",
-            "section1title" : "Step 1: See it, Learn it!",
+            "overviewcontent" : "Use the Announcements tool to post messages for your students. You may attach document and add links. By default, Announcements are also sent to students’ emails, so you can be sure they see the message.",
+            "section1title" : "Step 1: See It, Learn It",
             "section1content" : "Watch this 1 minute video to see how to get started with the Announcements tool.",
-            "section2title" : "Step 2: Try It!",
-            "section2content" : "It's now time for you to do stuff...",
-            "section2prereq" : "To complete this you must do a thing.",
+            "section2title" : "Step 2: Try It",
+            "section2content" : "It's now time for you to try posting your own Announcement.",
+            "section2prereq" : "To complete this step, you must first create a test site as instructed in the Creating Course Sites lesson..",
             "section2steps" : [
                 {
-                    "step" : "Log into Isidore"
+                    "step" : "Log in to Isidore."
                 },
                 {
-                    "step" : "Do something else"
+                    "step" : "Navigate to your testing site."
+                },
+                {
+                    "step" : "Post an Announcement."
                 }
             ],
             "section3title" : "Step 3: Test your knowledge",
-            "section3content" : "Now that you've done something ....",
+            "section3content" : "Now that you've practiced posting an Announcement . . .",
             "lti" : {
                 "title" : "Link to quick quiz",
                 "launch" : "tools/quickquiz",
@@ -102,23 +274,27 @@
                 },
                 {
                     "question" : "Do Announcements work if the site is unpublished?",
-                    "answer" : "Not really. The Announcement gets posted, but an email will not be delivered to students’ inboxes, and they would have no way of seeing the Announcement until the site is published."
+                    "answer" : "Not really. The Announcement will be posted, but an email will not be delivered to students’ inboxes, and they would have no way of seeing the Announcement until the site is published."
+                },
+                {
+                    "question" : "Will I receive an email notification about the Announcement as the instructor?",
+                    "answer" : "Yes. Other instructors in your site, if any,  will also receive the email notification."
                 },
                 {
                     "question" : "Can I schedule Announcements?",
-                    "answer" : "You bet! Just choose the Specify Dates option after writing the text for your Announcement. Pick the dates the Announcement should be visible, and it will appear (and disappear) on the selected dates."
+                    "answer" : "You bet! Just choose the 'Specify Dates' option after writing the text for your Announcement. Pick the dates the Announcement should be visible, and it will appear (and disappear) on the selected dates."
                 },
                 {
                     "question" : "Can I save an Announcement as a draft?",
-                    "answer" : "Definitely. Choose the Hide option after writing your Announcement, then press the Post Announcement button. It will be hidden until you edit the Announcement and change that setting to Show."
+                    "answer" : "Definitely. Choose the 'Hide' option after writing your Announcement, then press the Post Announcement button. It will be hidden until you edit the Announcement and change that setting to Show."
                 },
                 {
                     "question" : "Can I delete an Announcement?",
-                    "answer" : "For sure dude!"
+                    "answer" : "Yes - but you cannot delete the email notification from students' inboxes once sent, so proofread before you post!"
                 }
             ],
             "aside3title" : "Did you know?",
-            "aside3content" : "Did you know that we can add another type of box over here to include a short paragraph of text for people to read."
+            "aside3content" : "432,000 Announcements have been posted in Isidore since 2008. Y'all do a lot of announcing."
         }
     ]
 }
