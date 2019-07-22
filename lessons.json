@@ -17,7 +17,7 @@
             "section1title" : "Step 1: What is Isidore?",
             "section1content" : "Watch this 2 minute video for an introduction to Isidore.",
             "section2title" : "Step 2: Test Your Knowledge",
-            "section2content" : "Now it's time to prove you watched the video. Complete the Quick Quiz below and earn a badge."
+            "section2content" : "Now it's time to prove you watched the video. Complete the Quick Quiz below and earn a badge.",
             "lti" : {
                 "title" : "Link to quick quiz",
                 "launch" : "tools/quickquiz",
@@ -107,7 +107,7 @@
             "section1title" : "Step 1: What is Isidore?",
             "section1content" : "Watch this 1 minute video to learn how to log in and add a profile picture.",
             "section2title" : "Step 2: Test Your Knowledge",
-            "section2content" : "Now it's time to prove you watched the video. Complete the Quick Quiz below to earn a badge. Earn an elite badge by going above and beyond by recording your name pronunciation."
+            "section2content" : "Now it's time to prove you watched the video. Complete the Quick Quiz below to earn a badge. Earn an elite badge by going above and beyond by recording your name pronunciation.",
             "lti" : {
                 "title" : "Link to quick quiz",
                 "launch" : "tools/quickquiz",
@@ -184,8 +184,10 @@
             "aside3title" : "Did you know?",
             "aside3content" : "Our Isidore homagepage has looked mighty different over the years. See all of Isidore's looks: https://drive.google.com/file/d/1YkDqB6d2oNHEmxASZ1dErPHdlRmwJU9V/view?usp=sharing"
         } 
-   ],
- "title": "Isidore 101",
+   ]
+},
+{
+    "title": "Isidore 101",
     "description" : "These lessons cover the basics of the most commonly (and easily) used tools.",
     "modules": [
         {
