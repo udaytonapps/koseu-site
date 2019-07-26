@@ -5,7 +5,7 @@
         {
             "title": "I'm Brand New! What Do I Do?",
             "description": "If you're brand new to Isidore, or just need a complete refresher, pop into any of the lessons below to learn the fundamentals. The topics covered include background information about Isidore, basic navigation and layout of the system and the site creation process.",
-            "modules": [
+            "lessons": [
                 {
                     "title": "What Is Isidore?",
                     "anchor": "whatisisidore",
@@ -194,7 +194,7 @@
         {
             "title": "Isidore 101",
             "description" : "These lessons cover the basics of the most commonly (and easily) used tools.",
-            "modules": [
+            "lessons": [
                 {
                     "title": "Announcements Basics",
                     "anchor": "announcements",
