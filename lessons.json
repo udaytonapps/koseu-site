@@ -1,6 +1,7 @@
 {
     "title" : "Office of eLearning Training",
     "description" : "This is the overall description",
+    "badges" : [],
     "modules": [
         {
             "title": "I'm Brand New! What Do I Do?",
