@@ -1,6 +1,6 @@
 {
     "title" : "Office of eLearning Training",
-    "description" : "This is the overall description",
+    "description" : "Below are training lessons developed by the Office of eLearning to help folks use Isidore, UD's learning management system.",
     "badges" : [],
     "modules": [
         {
@@ -24,7 +24,7 @@
                         }
                     ],
                     "overviewcontent": "Isidore is UD's open-source Learning Management System or LMS. Isidore is based on the Sakai LMS, but why did UD go this direction? Find out in this lesson.",
-                    "section1title": "Step 1: What is Isidore?",
+                    "section1title": "Step 1: See It, Learn It",
                     "section1content": "Watch this 2 minute video for an introduction to Isidore.",
                     "section2title": "Step 2: Test Your Knowledge",
                     "section2content": "Now it's time to prove you watched the video. Complete the Quick Quiz below and earn a badge.",
@@ -115,7 +115,7 @@
                         }
                     ],
                     "overviewcontent": "If you’ve never used Isidore before, fear not! This lesson will help you get started.",
-                    "section1title": "Step 1: What is Isidore?",
+                    "section1title": "Step 1: See It, Learn It",
                     "section1content": "Watch this 1 minute video to learn how to log in and add a profile picture.",
                     "section2title": "Step 2: Test Your Knowledge",
                     "section2content": "Now it's time to prove you watched the video. Complete the Quick Quiz below to earn a badge. Earn an elite badge by going above and beyond by recording your name pronunciation.",
@@ -194,6 +194,123 @@
                     ],
                     "aside3title": "Did you know?",
                     "aside3content": "Our Isidore homagepage has looked mighty different over the years. See all of Isidore's looks: https://drive.google.com/file/d/1YkDqB6d2oNHEmxASZ1dErPHdlRmwJU9V/view?usp=sharing"
+                },
+                {
+                    "title": "Course Site Creation",
+                    "anchor": "sitecreation",
+                    "icon": "fa-plus",
+                    "description": "Create Isidore sites for your classes.",
+                    "videos": [
+                        {
+                            "title": "What Is Isidore, And What Does It Do?",
+                            "warpwire": "pwcBAA"
+                        }
+                    ],
+                    "overviewcontent": "In this lesson, you will learn how to cite a site at first sight. *ba dum tsh* Well, maybe not precisely, but you will learn what Isidore sites are and how to create, organize, and manage them. At UD, instructors are responsible for creating their own sites for their courses, but eLearning staff is always happy to help if you get stuck.",
+                    "section1title": "Step 1: See It, Learn It",
+                    "section1content": "Watch this 2 minute video to learn about Isidore sites.",
+                    "section2title": "Step 2: Try It",
+                    "section2content": "You will now create your own Isidore site. If you would like to create a site for an actual course, you can follow the steps shown in the video. If you prefer to create a test site with a roster of fake students, follow the steps in the Creating a Test Site article listed in the Wiki Resources to the right. Don't be afraid, we promise you won't hurt anything!",
+                    "section2steps":[
+                        {
+                            "step": "Log in to Isidore."
+                        },
+                        {
+                            "step": "Create an Isidore site."
+                        },
+                        {
+                            "step": "Let us know your site's title by completing the Quick Write below these steps."
+                        },
+                        {
+                            "step": "Boom! You earned a Cited Site Sighted badge!"
+                        }
+                        ],
+                    "lti": {
+                        "title": "Link to quick write - but leaving it as quick quiz until quick write is ready",
+                        "launch": "tools/quickquiz",
+                        "resource_link_id": "testsite_quiz1"
+                    },
+                    "section3title": "Step 3: Test Your Knowledge",
+                    "section3content": "Are you now a site creation whiz? Complete the Quick Quiz below to earn your Sites Sighted badge. Yes, we know, we really killed this joke.",
+                    "lti": {
+                        "title": "Link to quick quiz",
+                        "launch": "tools/quickquiz",
+                        "resource_link_id": "sitecreation_quiz1"
+                    },
+                    "aside1title": "Additional Resources",
+                    "aside1content": [
+                        {
+                            "header": "Wiki Resources",
+                            "references": [
+                                {
+                                    "icon": "fa-external-link",
+                                    "title": "Site Creation Steps",
+                                    "href": "https://ewiki.udayton.edu/isidore/Site_Creation"
+                                },
+                                {
+                                    "icon": "fa-external-link",
+                                    "title": "Create a Test Site",
+                                    "href": "https://ewiki.udayton.edu/isidore/Create_a_Test_Site"
+                                }
+                            ]
+                        },
+                        {
+                            "header": "Related Lessons",
+                            "references": [
+                                {
+                                    "icon": "fa-question",
+                                    "title": "What Is Isidore?",
+                                    "href": "#"
+                                },
+                                {
+                                    "icon": "fa-sign-in-alt",
+                                    "title": "Getting Started with Isidore",
+                                    "href": "#"
+                                }
+                            ]
+                        },
+                        {
+                            "header": "Additional Articles",
+                            "references": [
+                                {
+                                    "icon": "fa-external-link",
+                                    "title": "Wiki Page for St. Isidore of Seville",
+                                    "href": "https://en.wikipedia.org/wiki/Isidore_of_Seville"
+                                },
+                                {
+                                    "icon": "fa-external-link",
+                                    "title": "Why Open Source? - Written by eLearning Staff",
+                                    "href": "https://docs.google.com/document/d/14JHtHVA8zVAzH9Jjo2KhjBlRGhN06AJK3szM64v-6vU/edit?usp=sharing"
+                                },
+                                {
+                                    "icon": "fa-external-link",
+                                    "title": "The Sakai LMS Homepage",
+                                    "href": "https://www.sakailms.org/"
+                                }
+                            ]
+                        }
+                    ],
+                    "aside2title": "Potential Questions You May Have",
+                    "aside2questions": [
+                        {
+                            "question": "So Isidore is open-source. What features have you built?",
+                            "answer": "The Attendance tool, Tsugi learning apps, the Checklist tool, and this very training platform! We share these features with the broader open-source community so they are used worldwide. If you want to see all of our work, check out our Isidore Releases page: https://ewiki.udayton.edu/isidore/Isidore_releases."
+                        },
+                        {
+                            "question": "I have a feature request! How do I let you know?",
+                            "answer": "Just call or email the Office of eLearning! We are available at 937-229-5039 and elearning@udayton.edu. We'll make a ticket for you, then we'll be sure to let you know when the feature is added to Isidore."
+                        },
+                        {
+                            "question": "How is 'Isidore' pronounced?",
+                            "answer": "Is-a-door."
+                        },
+                        {
+                            "question": "Why is Arnold Schwarzeneggar in your video?",
+                            "answer": "In his feature role as John Kimble in Kindergarten Cop, Arnold transforms from a one-dimensional, gruff police officer into a passionate teaher dedicated to learning. We feel this character is a perfect introduction to our learning management system (but mostly we just really like the movie)."
+                        }
+                    ],
+                    "aside3title": "Did you know?",
+                    "aside3content": "St. Isidore of Seville sought to compile all knowledge into an encyclopedia known as 'Etymologiae.' In the 20 books composing the encylopedia, St. Isidore covers math, music, law, languages, atoms, elements, agriculture, metals, animals, and more. You can find ALL these topics covered within the Isidore LMS. UD is carrying on Isidore's legacy!"
                 }
             ]
         },
