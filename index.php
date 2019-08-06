@@ -12,7 +12,7 @@ $OUTPUT->pageTitle('Welcome to the Learn Training Platform');
 <div class="row">
     <div class="col-sm-7">
         <div class="videoWrapper">
-            <iframe allowfullscreen src="https://udayton.warpwire.com/w/pwcBAA/"></iframe>
+            <iframe allowfullscreen src="https://udayton.warpwire.com/w/fw4BAA/"></iframe>
         </div>
         <h4>A Message from Ryan Allen, Director of the Office of eLearning</h4>
     </div>
