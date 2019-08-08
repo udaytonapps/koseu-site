@@ -18,10 +18,13 @@ $OUTPUT->pageTitle('Welcome to the Learn Training Platform');
     </div>
     <div class="col-sm-5">
 <?php if ( isset($_SESSION['id']) ) { ?>
-    <h2>Welcome, <?= $_SESSION['displayname'] ?>!</h2>
-<?php } ?>
-        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusamus aut culpa doloribus expedita iste iusto minus necessitatibus, nesciunt, nisi officiis quas quisquam temporibus veritatis! Dolores explicabo maiores maxime nisi voluptatum.</p>
-        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. A, accusantium blanditiis consectetur ea expedita fuga iure.</p>
+        <h2>Welcome, <?= $_SESSION['displayname'] ?>!</h2>
+        <p>Click on the 'Get Started' link below to see the list of training modules available to you.</p>
+        <p>The training will be delivered through videos, text, links, and hands-on experiences. You'll have the opportunites to test your knowledge at he end of each lesson with an assessment and you will be awarded badges along the way as an acknowledge of your newly mastered skills and as a reward for your time.</p>
+<?php } else { ?>
+        <p>Click on the 'Get Started' link below to see the list of training modules available to you.</p>
+        <p>The training will be delivered through videos, text, links, and hands-on experiences. Once you're logged in (hint: upper right corner) you'll have the opportunites to test your knowledge at he end of each lesson with an assessment and you will be awarded badges along the way as an acknowledge of your newly mastered skills and as a reward for your time.</p>
+    <?php } ?>
         <p><a href="<?=addSession($CFG->apphome.'/lessons')?>" title="Get Started" class="btn btn-primary">Get Started <span class="fas fa-arrow-right" aria-hidden="true"></span></a></p>
     </div>
 </div>
