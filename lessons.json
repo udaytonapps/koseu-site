@@ -8,8 +8,8 @@
             "description": "If you're brand new to Isidore, or just need a complete refresher, pop into any of the lessons below to learn the fundamentals. The topics covered include background information about Isidore, basic navigation and layout of the system and the site creation process.",
             "anchor": "onboarding",
             "video": {
-                "title": "I'm Brand New! What Do I Do?",
-                "warpwire": "pwcBAA"
+                "title": "I'm Brand New! What Do I Do? Teaser",
+                "warpwire": "sQ8BAA"
             },
             "lessons": [
                 {
@@ -110,8 +110,8 @@
                     "description": "Logging in and adding a profile picture.",
                     "videos": [
                         {
-                            "title": "What Is Isidore, And What Does It Do?",
-                            "warpwire": "pwcBAA"
+                            "title": "Getting Started with Isidore",
+                            "warpwire": "uw8BAA"
                         }
                     ],
                     "overviewcontent": "If you’ve never used Isidore before, fear not! This lesson will help you get started.",
@@ -321,8 +321,8 @@
             "description" : "These lessons cover the basics of the most commonly (and easily) used tools.",
             "anchor": "isidore101",
             "video": {
-                "title": "I'm Brand New! What Do I Do?",
-                "warpwire": "pwcBAA"
+                "title": "Isidore 101 Teaser",
+                "warpwire": "xQ8BAA"
             },
             "lessons": [
                  {
