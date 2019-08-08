@@ -466,7 +466,7 @@
                     "lti" : {
                         "title" : "Link to quick quiz",
                         "launch" : "tools/quickquiz",
-                        "resource_link_id": "announcements_quiz1"
+                        "resource_link_id": "announcements_quiz2"
                     },
                     "aside1title" : "Additional Resources",
                     "aside1content" : [
@@ -574,7 +574,7 @@
                     "lti" : {
                         "title" : "Link to quick quiz",
                         "launch" : "tools/quickquiz",
-                        "resource_link_id": "announcements_quiz1"
+                        "resource_link_id": "announcements_quiz3"
                     },
                     "aside1title" : "Additional Resources",
                     "aside1content" : [
@@ -682,7 +682,7 @@
                     "lti" : {
                         "title" : "Link to quick quiz",
                         "launch" : "tools/quickquiz",
-                        "resource_link_id": "announcements_quiz1"
+                        "resource_link_id": "announcements_quiz4"
                     },
                     "aside1title" : "Additional Resources",
                     "aside1content" : [
@@ -790,7 +790,7 @@
                     "lti" : {
                         "title" : "Link to quick quiz",
                         "launch" : "tools/quickquiz",
-                        "resource_link_id": "announcements_quiz1"
+                        "resource_link_id": "announcements_quiz5"
                     },
                     "aside1title" : "Additional Resources",
                     "aside1content" : [
@@ -898,7 +898,7 @@
                     "lti" : {
                         "title" : "Link to quick quiz",
                         "launch" : "tools/quickquiz",
-                        "resource_link_id": "announcements_quiz1"
+                        "resource_link_id": "announcements_quiz6"
                     },
                     "aside1title" : "Additional Resources",
                     "aside1content" : [
@@ -1006,7 +1006,7 @@
                     "lti" : {
                         "title" : "Link to quick quiz",
                         "launch" : "tools/quickquiz",
-                        "resource_link_id": "announcements_quiz1"
+                        "resource_link_id": "announcements_quiz7"
                     },
                     "aside1title" : "Additional Resources",
                     "aside1content" : [
@@ -1114,7 +1114,7 @@
                     "lti" : {
                         "title" : "Link to quick quiz",
                         "launch" : "tools/quickquiz",
-                        "resource_link_id": "announcements_quiz1"
+                        "resource_link_id": "announcements_quiz8"
                     },
                     "aside1title" : "Additional Resources",
                     "aside1content" : [
