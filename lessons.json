@@ -1,7 +1,14 @@
 {
     "title" : "Office of eLearning Training",
     "description" : "Below are training lessons developed by the Office of eLearning to help folks use Isidore, UD's learning management system.",
-    "badges" : [],
+    "badges" : [{
+        "title": "What is Isidore?",
+        "image": "isidorethelms.png",
+        "threshold": "1.0",
+        "assignments": [
+            "bn_whatisisidore"
+        ]
+    }],
     "modules": [
         {
             "title": "I'm Brand New! What Do I Do?",
@@ -29,9 +36,11 @@
                     "section2title": "Step 2: Test Your Knowledge",
                     "section2content": "Now it's time to prove you watched the video. Complete the Quick Quiz below and earn a badge.",
                     "lti": {
-                        "title": "Testing QW Installation",
-                        "launch": "mod/modquickwrite/",
-                        "resource_link_id": "brandnew_qw1"
+                        "header": "Quick Quiz",
+                        "description": "Take the three question quiz below to test your Isidore knowledge.",
+                        "title": "Assessment",
+                        "launch": "mod/learnquiz/index.php?quiz=bn_whatisisidore",
+                        "resource_link_id": "bn_whatisisidore"
                     },
                     "aside1title": "Additional Resources",
                     "aside1content": [
