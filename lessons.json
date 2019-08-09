@@ -30,7 +30,7 @@
                     "section2content": "Now it's time to prove you watched the video. Complete the Quick Quiz below and earn a badge.",
                     "lti": {
                         "title": "Testing QW Installation",
-                        "launch": "mod/modquickwrite/",
+                        "launch": "https://learningapps-dev.udayton.edu/mod/modquickwrite/",
                         "resource_link_id": "brandnew_qw1"
                     },
                     "aside1title": "Additional Resources",
