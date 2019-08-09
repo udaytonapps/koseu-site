@@ -38,7 +38,7 @@
                     "lti": {
                         "header": "Quick Quiz",
                         "description": "Take the three question quiz below to test your Isidore knowledge.",
-                        "title": "Assessment",
+                        "title": "What is Isidore? Quiz",
                         "launch": "mod/learnquiz/index.php?quiz=bn_whatisisidore",
                         "resource_link_id": "bn_whatisisidore"
                     },
