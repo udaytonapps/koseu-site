@@ -120,7 +120,10 @@
                     "section2title": "Step 2: Test Your Knowledge",
                     "section2content": "Now it's time to prove you watched the video. Complete the Quick Quiz below to earn a badge. Earn an elite badge by going above and beyond by recording your name pronunciation.",
                     "lti": {
+                        "header" : "Level I Something",
+                        "description" : "Answer the three question quiz below to test your knowledge or something...",
                         "title": "Testing QW Installation 2",
+                        "icon" : "fa-pencil-square",
                         "launch": "mod/modquickwrite/",
                         "resource_link_id": "brandnew_qw2"
                     },
