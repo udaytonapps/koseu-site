@@ -29,9 +29,9 @@
                     "section2title": "Step 2: Test Your Knowledge",
                     "section2content": "Now it's time to prove you watched the video. Complete the Quick Quiz below and earn a badge.",
                     "lti": {
-                        "title": "Link to quick quiz",
-                        "launch": "tools/quickquiz",
-                        "resource_link_id": "brandnew_quiz1"
+                        "title": "Testing QW Installation",
+                        "launch": "mod/quickwrite",
+                        "resource_link_id": "brandnew_qw1"
                     },
                     "aside1title": "Additional Resources",
                     "aside1content": [
