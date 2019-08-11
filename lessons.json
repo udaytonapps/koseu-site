@@ -38,6 +38,7 @@
                     "lti": {
                         "header": "Quick Quiz",
                         "description": "Take the three question quiz below to test your Isidore knowledge.",
+                        "icon": "fa-list-ol",
                         "title": "What is Isidore? Quiz",
                         "launch": "mod/learnquiz/index.php?quiz=bn_whatisisidore",
                         "resource_link_id": "bn_whatisisidore"
@@ -129,12 +130,12 @@
                     "section2title": "Step 2: Test Your Knowledge",
                     "section2content": "Now it's time to prove you watched the video. Complete the Quick Quiz below to earn a badge. Earn an elite badge by going above and beyond by recording your name pronunciation.",
                     "lti": {
-                        "header" : "Level I Something",
-                        "description" : "Answer the three question quiz below to test your knowledge or something...",
-                        "title": "Testing QW Installation 2",
-                        "icon" : "fa-pencil-square",
-                        "launch": "mod/modquickwrite/",
-                        "resource_link_id": "brandnew_qw2"
+                        "header": "Quick Quiz",
+                        "description": "Take the three question quiz below to test your Isidore knowledge.",
+                        "icon": "fa-list-ol",
+                        "title": "Getting Started with Isidore Quiz",
+                        "launch": "mod/learnquiz/index.php?quiz=bn_gettingstarted",
+                        "resource_link_id": "bn_gettingstarted"
                     },
                     "aside1title": "Additional Resources",
                     "aside1content": [
@@ -241,14 +242,12 @@
                     "section3content": "Are you now a site creation whiz? Complete the Quick Quiz below to earn your Sites Sighted badge. Yes, we know, we really killed this joke.",
                     "lti": [
                         {
-                            "title": "Link to quick write - but leaving it as quick quiz until quick write is ready",
-                            "launch": "tools/quickquiz",
-                            "resource_link_id": "testsite_quiz1"
-                        },
-                        {
-                            "title": "Link to quick quiz",
-                            "launch": "tools/quickquiz",
-                            "resource_link_id": "sitecreation_quiz1"
+                            "header": "Quick Quiz",
+                            "description": "Take the three question quiz below to test your Isidore knowledge.",
+                            "icon": "fa-list-ol",
+                            "title": "Course Site Creation Quiz",
+                            "launch": "mod/learnquiz/index.php?quiz=bn_sitecreation",
+                            "resource_link_id": "bn_sitecreation"
                         }
                     ],
                     "aside1title": "Additional Resources",
