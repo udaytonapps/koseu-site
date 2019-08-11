@@ -61,12 +61,12 @@
                                 {
                                     "icon": "fa-sign-in-alt",
                                     "title": "Getting Started with Isidore",
-                                    "href": "#"
+                                    "href": "/lessons/gettingstarted"
                                 },
                                 {
                                     "icon": "fa-plus",
                                     "title": "Creating Course Sites",
-                                    "href": "#"
+                                    "href": "/lessons/sitecreation"
                                 }
                             ]
                         },
@@ -160,12 +160,12 @@
                                 {
                                     "icon": "fa-question",
                                     "title": "What Is Isidore?",
-                                    "href": "#"
+                                    "href": "/lessons/whatisisidore"
                                 },
                                 {
                                     "icon": "fa-plus",
                                     "title": "Creating Course Sites",
-                                    "href": "#"
+                                    "href": "/lessons/sitecreation"
                                 }
                             ]
                         },
@@ -273,12 +273,12 @@
                                 {
                                     "icon": "fa-question",
                                     "title": "What Is Isidore?",
-                                    "href": "#"
+                                    "href": "/lessons/whatisisidore"
                                 },
                                 {
                                     "icon": "fa-sign-in-alt",
                                     "title": "Getting Started with Isidore",
-                                    "href": "#"
+                                    "href": "/lessons/gettingstarted"
                                 }
                             ]
                         },
