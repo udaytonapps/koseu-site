@@ -31,7 +31,7 @@ $OUTPUT->pageTitle('Office of eLearning');
                 <h3>Hours</h3>
                 <dl>
                     <dt>Monday - Friday</dt>
-                    <dd>8:30 AM - 5:00 PM</dd>
+                    <dd>8:30 AM - 4:30 PM</dd>
                 </dl>
             </div>
         </div>
