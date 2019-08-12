@@ -248,6 +248,14 @@
                             "title": "Course Site Creation Quiz",
                             "launch": "mod/learnquiz/index.php?quiz=bn_sitecreation",
                             "resource_link_id": "bn_sitecreation"
+                        },
+                        {
+                            "header": "Quick Write",
+                            "description": "Use the steps above to create a course site and then use the link below to submit your site to eLearning for credit.",
+                            "icon": "fa-pencil-square",
+                            "title": "Check My Work",
+                            "launch": "mod/modquickwrite",
+                            "resource_link_id": "bn_sitecreation2"
                         }
                     ],
                     "aside1title": "Additional Resources",
