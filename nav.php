@@ -47,6 +47,8 @@ if ( $loggedin ) {
 
 $set->addRight('Isidore <span class="fas fa-external-link-alt" aria-hidden="true"></span>', 'https://isidore.udayton.edu/portal');
 
+$set->addRight('Contact Us', $R.'contact');
+
 // Set the topNav for the session
 $OUTPUT->topNavSession($set);
 
