@@ -1,14 +1,65 @@
 {
     "title" : "Office of eLearning Training",
     "description" : "Below are training lessons developed by the Office of eLearning to help folks use Isidore, UD's learning management system.",
-    "badges" : [{
-        "title": "What is Isidore?",
-        "image": "isidorethelms.png",
-        "threshold": "1.0",
-        "assignments": [
-            "bn_whatisisidore"
-        ]
-    }],
+    "badges" : [
+        {
+            "title": "Logged In",
+            "image": "LoggedIn.png",
+            "threshold": "1.0",
+            "assignments": []
+        },
+        {
+            "title": "What is Isidore?",
+            "image": "isidorethelms.png",
+            "threshold": "1.0",
+            "assignments": [
+                "bn_whatisisidore"
+            ]
+        },
+        {
+            "title": "Brand New",
+            "image": "BrandNew.png",
+            "threshold": "1.0",
+            "assignments": [
+                "bn_whatisisidore",
+                "bn_gettingstarted",
+                "bn_sitecreation"
+            ]
+        },
+        {
+            "title": "Isidore 101",
+            "image": "101.png",
+            "threshold": "1.0",
+            "assignments": [
+                "101_overview",
+                "101_syllabus",
+                "101_announcements",
+                "101_resources",
+                "101_roster",
+                "101_attendance",
+                "101_calendar",
+                "101_ckeditor"
+            ]
+        },
+        {
+            "title": "Ya Basic",
+            "image": "YaBasic.png",
+            "threshold": "1.0",
+            "assignments": [
+                "bn_whatisisidore",
+                "bn_gettingstarted",
+                "bn_sitecreation",
+                "101_overview",
+                "101_syllabus",
+                "101_announcements",
+                "101_resources",
+                "101_roster",
+                "101_attendance",
+                "101_calendar",
+                "101_ckeditor"
+            ]
+        }
+    ],
     "modules": [
         {
             "title": "I'm Brand New! What Do I Do?",
@@ -374,11 +425,16 @@
                     ],
                     "section3title" : "Step 3: Test your knowledge",
                     "section3content" : "Now that you've practiced posting an Announcement . . .",
-                    "lti" : {
-                        "title" : "Link to quick quiz",
-                        "launch" : "tools/quickquiz",
-                        "resource_link_id": "announcements_quiz1"
-                    },
+                    "lti" : [
+                        {
+                            "header": "Quick Quiz",
+                            "description": "Take the three question quiz below to test your Isidore knowledge.",
+                            "icon": "fa-list-ol",
+                            "title": "Overview Quiz",
+                            "launch": "mod/learnquiz/index.php?quiz=101_overview",
+                            "resource_link_id": "101_overview"
+                        }
+                    ],
                     "aside1title" : "Additional Resources",
                     "aside1content" : [
                         {
@@ -482,11 +538,16 @@
                     ],
                     "section3title" : "Step 3: Test your knowledge",
                     "section3content" : "Now that you've practiced posting an Announcement . . .",
-                    "lti" : {
-                        "title" : "Link to quick quiz",
-                        "launch" : "tools/quickquiz",
-                        "resource_link_id": "announcements_quiz2"
-                    },
+                    "lti" : [
+                        {
+                            "header": "Quick Quiz",
+                            "description": "Take the three question quiz below to test your Isidore knowledge.",
+                            "icon": "fa-list-ol",
+                            "title": "Syllabus Quiz",
+                            "launch": "mod/learnquiz/index.php?quiz=101_syllabus",
+                            "resource_link_id": "101_syllabus"
+                        }
+                    ],
                     "aside1title" : "Additional Resources",
                     "aside1content" : [
                         {
@@ -590,11 +651,16 @@
                     ],
                     "section3title" : "Step 3: Test your knowledge",
                     "section3content" : "Now that you've practiced posting an Announcement . . .",
-                    "lti" : {
-                        "title" : "Link to quick quiz",
-                        "launch" : "tools/quickquiz",
-                        "resource_link_id": "announcements_quiz3"
-                    },
+                    "lti" : [
+                        {
+                            "header": "Quick Quiz",
+                            "description": "Take the three question quiz below to test your Isidore knowledge.",
+                            "icon": "fa-list-ol",
+                            "title": "Announcements Quiz",
+                            "launch": "mod/learnquiz/index.php?quiz=101_announcements",
+                            "resource_link_id": "101_announcements"
+                        }
+                    ],
                     "aside1title" : "Additional Resources",
                     "aside1content" : [
                         {
@@ -698,11 +764,16 @@
                     ],
                     "section3title" : "Step 3: Test your knowledge",
                     "section3content" : "Now that you've practiced posting an Announcement . . .",
-                    "lti" : {
-                        "title" : "Link to quick quiz",
-                        "launch" : "tools/quickquiz",
-                        "resource_link_id": "announcements_quiz4"
-                    },
+                     "lti" : [
+                         {
+                             "header": "Quick Quiz",
+                             "description": "Take the three question quiz below to test your Isidore knowledge.",
+                             "icon": "fa-list-ol",
+                             "title": "Resources Quiz",
+                             "launch": "mod/learnquiz/index.php?quiz=101_resources",
+                             "resource_link_id": "101_resources"
+                         }
+                     ],
                     "aside1title" : "Additional Resources",
                     "aside1content" : [
                         {
@@ -806,11 +877,16 @@
                     ],
                     "section3title" : "Step 3: Test your knowledge",
                     "section3content" : "Now that you've practiced posting an Announcement . . .",
-                    "lti" : {
-                        "title" : "Link to quick quiz",
-                        "launch" : "tools/quickquiz",
-                        "resource_link_id": "announcements_quiz5"
-                    },
+                     "lti" : [
+                         {
+                             "header": "Quick Quiz",
+                             "description": "Take the three question quiz below to test your Isidore knowledge.",
+                             "icon": "fa-list-ol",
+                             "title": "Roster Quiz",
+                             "launch": "mod/learnquiz/index.php?quiz=101_roster",
+                             "resource_link_id": "101_roster"
+                         }
+                     ],
                     "aside1title" : "Additional Resources",
                     "aside1content" : [
                         {
@@ -914,11 +990,16 @@
                     ],
                     "section3title" : "Step 3: Test your knowledge",
                     "section3content" : "Now that you've practiced posting an Announcement . . .",
-                    "lti" : {
-                        "title" : "Link to quick quiz",
-                        "launch" : "tools/quickquiz",
-                        "resource_link_id": "announcements_quiz6"
-                    },
+                     "lti" : [
+                         {
+                             "header": "Quick Quiz",
+                             "description": "Take the three question quiz below to test your Isidore knowledge.",
+                             "icon": "fa-list-ol",
+                             "title": "Attendance Quiz",
+                             "launch": "mod/learnquiz/index.php?quiz=101_attendance",
+                             "resource_link_id": "101_attendance"
+                         }
+                     ],
                     "aside1title" : "Additional Resources",
                     "aside1content" : [
                         {
@@ -1022,11 +1103,16 @@
                     ],
                     "section3title" : "Step 3: Test your knowledge",
                     "section3content" : "Now that you've practiced posting an Announcement . . .",
-                    "lti" : {
-                        "title" : "Link to quick quiz",
-                        "launch" : "tools/quickquiz",
-                        "resource_link_id": "announcements_quiz7"
-                    },
+                     "lti" : [
+                         {
+                             "header": "Quick Quiz",
+                             "description": "Take the three question quiz below to test your Isidore knowledge.",
+                             "icon": "fa-list-ol",
+                             "title": "Calendar Quiz",
+                             "launch": "mod/learnquiz/index.php?quiz=101_calendar",
+                             "resource_link_id": "101_calendar"
+                         }
+                     ],
                     "aside1title" : "Additional Resources",
                     "aside1content" : [
                         {
@@ -1130,11 +1216,16 @@
                     ],
                     "section3title" : "Step 3: Test your knowledge",
                     "section3content" : "Now that you've practiced posting an Announcement . . .",
-                    "lti" : {
-                        "title" : "Link to quick quiz",
-                        "launch" : "tools/quickquiz",
-                        "resource_link_id": "announcements_quiz8"
-                    },
+                     "lti" : [
+                         {
+                             "header": "Quick Quiz",
+                             "description": "Take the three question quiz below to test your Isidore knowledge.",
+                             "icon": "fa-list-ol",
+                             "title": "Text Editor Quiz",
+                             "launch": "mod/learnquiz/index.php?quiz=101_ckeditor",
+                             "resource_link_id": "101_ckeditor"
+                         }
+                     ],
                     "aside1title" : "Additional Resources",
                     "aside1content" : [
                         {
