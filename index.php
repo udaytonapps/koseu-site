@@ -10,13 +10,13 @@ $OUTPUT->pageTitle('Welcome to the Learn Training Platform');
 ?>
 <p class="lead">Explore self-paced lessons on a variety of topics and technologies supported by the Office of eLearning.</p>
 <div class="row">
-    <div class="col-sm-7 col-sm-push-5">
+    <div class="col-sm-5 col-sm-push-7">
         <div class="videoWrapper">
             <iframe allowfullscreen src="https://udayton.warpwire.com/w/fw4BAA/"></iframe>
         </div>
         <h4>A Message from Ryan Allen, Director of the Office of eLearning</h4>
     </div>
-    <div class="col-sm-5 col-sm-push-7">
+    <div class="col-sm-7 col-sm-pull-5">
 <?php if ( isset($_SESSION['id']) ) { ?>
         <h2 style="margin-top:0;">Welcome, <?= $_SESSION['displayname'] ?>!</h2>
         <p>You can choose to complete the entire training packages or individual lessons. The training will be delivered through videos, text, links, and hands-on experiences. At the end of each lesson you will have the opportunity to prove your mastery and test your knowledge through built-in assignments.</p>
