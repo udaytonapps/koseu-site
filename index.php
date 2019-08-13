@@ -6,7 +6,7 @@ use \Tsugi\UI\Output;
 require "top.php";
 require "nav.php";
 
-$OUTPUT->pageTitle('Welcome to the Learn Training Platform');
+$OUTPUT->pageTitle('Welcome to the LEARN Training Platform');
 ?>
 <p class="lead">Explore self-paced lessons on a variety of topics and technologies supported by the Office of eLearning.</p>
 <div class="row">
