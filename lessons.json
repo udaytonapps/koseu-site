@@ -42,8 +42,8 @@
             ]
         },
         {
-            "title": "Ya Basic",
-            "image": "YaBasic.png",
+            "title": "The Basics",
+            "image": "TheBasics.png",
             "threshold": "1.0",
             "assignments": [
                 "bn_whatisisidore",
@@ -266,8 +266,8 @@
                     "description": "Create Isidore sites for your classes.",
                     "videos": [
                         {
-                            "title": "What Is Isidore, And What Does It Do?",
-                            "warpwire": "pwcBAA"
+                            "title": "Isidore Course Sites",
+                            "warpwire": "QxABAA"
                         }
                     ],
                     "overviewcontent": "In this lesson, you will learn how to cite a site at first sight. *ba dum tsh* Well, maybe not precisely, but you will learn what Isidore sites are and how to create, organize, and manage them. At UD, instructors are responsible for creating their own sites for their courses, but eLearning staff is always happy to help if you get stuck.",
@@ -515,8 +515,8 @@
                     "description": "Don't add it as a Word Doc.",
                     "videos" : [
                         {
-                            "title" : "Isidore - Announcements",
-                            "warpwire" : "1_kAAA"
+                            "title" : "Isidore - Syllabus",
+                            "warpwire" : "zQ8BAA"
                         }
                     ],
                     "overviewcontent" : "Use the Announcements tool to post messages for your students. You may attach document and add links. By default, Announcements are also sent to students’ emails, so you can be sure they see the message.",
