@@ -8,4 +8,12 @@ The Office of eLearning is committed to ensuring digital accessibility for all l
 
 $OUTPUT->setAppFooter($foot);
 
-$OUTPUT->footer();
+$OUTPUT->footerStart();
+?>
+<script type="text/javascript">
+    $(document).ready(function(){
+        $('.nav-popover').popover();
+    });
+</script>
+<?php
+$OUTPUT->footerEnd();

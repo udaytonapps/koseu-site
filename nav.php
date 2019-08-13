@@ -17,6 +17,12 @@ if ( $loggedin ) {
     if ( isset($CFG->badge_encrypt_password) && $CFG->badge_encrypt_password ) {
         $set->addLeft('Badges', $R.'badges');
     }
+} else {
+    $set->addLeft('Assignments', 'javascript:void(0);', false, true, 'Log in to access the Assignments page');
+
+    if ( isset($CFG->badge_encrypt_password) && $CFG->badge_encrypt_password ) {
+        $set->addLeft('Badges', 'javascript:void(0);', false, true, 'Log in to access the Badges page');
+    }
 }
 
 if ( $loggedin ) {

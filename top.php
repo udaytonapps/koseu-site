@@ -35,4 +35,17 @@ $OUTPUT->header();
         width: 100%;
         height: 100%;
     }
+    .navbar-inverse .nav > li > a.disabled,
+    .navbar-inverse .nav > li > a.disabled:hover {
+        cursor: not-allowed;
+        border-bottom-color: transparent;
+        opacity: 0.6;
+    }
+    .popover-content {
+        font-style: italic;
+        color: var(--text-light);
+        width: max-content;
+        width: -moz-max-content;
+        width: -webkit-max-content;
+    }
 </style>
