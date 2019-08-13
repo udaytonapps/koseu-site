@@ -151,11 +151,11 @@
                     "aside2questions": [
                         {
                             "question": "So Isidore is open-source. What features have you built or customized for UD?",
-                            "answer": "The Attendance tool, the Checklist feature in Lessons, various Learning Apps, and this very training platform! We share these features with the broader open-source community so they are used worldwide. If you want to see all of our work, check out our Isidore Releases page linked in \"Additional Articles\" above."
+                            "answer": "The Attendance tool, the Checklist feature in Lessons, various Learning Apps, and this very training platform! We share these features with the broader open-source community so they are used worldwide. If you want to see all of our work, check out our Isidore Releases page linked in 'Additional Articles' above."
                         },
                         {
                             "question": "I have a feature request! How do I let you know?",
-                            "answer": "Just call or email the Office of eLearning! We are available at 937-229-5039 and elearning@udayton.edu. We'll make a ticket for you, and we'll be sure to let you know when the feature is added to Isidore."
+                            "answer": "Just call or email the Office of eLearning! We are available at (937) 229-5039 and elearning@udayton.edu. We'll make a ticket for you, and we'll be sure to let you know when the feature is added to Isidore."
                         },
                         {
                             "question": "How is 'Isidore' pronounced?",
@@ -264,7 +264,7 @@
                         }
                     ],
                     "aside3title": "Did you know?",
-                    "aside3content": "Our Isidore homepage has looked mighty different over the years. <a href=\"/assets/homepage_gallery.pdf\" target=\"_blank\">See all of Isidore's looks <span class=\"fa fa-external-link\" aria-hidden=\"true\"></span></a>"
+                    "aside3content": "Our Isidore homepage has looked mighty different over the years. <a href=\"https://learn.udayton.edu/assets/homepage_gallery.pdf\" target=\"_blank\">See all of Isidore's looks</a>"
                 },
                 {
                     "title": "Course Site Creation",
