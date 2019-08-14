@@ -84,6 +84,7 @@
         {
             "title": "I'm Brand New! What Do I Do?",
             "description": "If you're brand new to Isidore, or just need a complete refresher, pop into any of the lessons below to learn the fundamentals. The topics covered include background information about Isidore, basic navigation and layout of the system, and the site creation process.",
+            "time": "Est. 15 min",
             "anchor": "onboarding",
             "video": {
                 "title": "I'm Brand New! What Do I Do? Teaser",
