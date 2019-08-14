@@ -376,6 +376,7 @@
         {
             "title": "Isidore 101",
             "description" : "These lessons cover the basics of the most commonly (and easily) used tools.",
+            "time": "Est. 45 min",
             "anchor": "isidore101",
             "video": {
                 "title": "Isidore 101 Teaser",
