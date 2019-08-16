@@ -49,14 +49,14 @@
             "anchor": "gened",
             "threshold": "1.0",
             "assignments": [
+                "101_ckeditor",
                 "101_overview",
                 "101_syllabus",
                 "101_announcements",
                 "101_resources",
                 "101_roster",
                 "101_attendance",
-                "101_calendar",
-                "101_ckeditor"
+                "101_calendar"
             ]
         },
         {
@@ -69,14 +69,14 @@
                 "bn_whatisisidore",
                 "bn_gettingstarted",
                 "bn_sitecreation",
+                "101_ckeditor",
                 "101_overview",
                 "101_syllabus",
                 "101_announcements",
                 "101_resources",
                 "101_roster",
                 "101_attendance",
-                "101_calendar",
-                "101_ckeditor"
+                "101_calendar"
             ]
         }
     ],
