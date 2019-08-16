@@ -13,7 +13,7 @@
         {
             "title": "Is-A-Door",
             "description": "Isidore. If you know what it is and you know what it does, it will open all kinds of doors for your teaching career here at UD. The name of the badge will also serve as a reminder of the proper pronunciation. eLearning hears a lot of \"eyes-a-dore\" and \"Isadora\" type stuff. No good! You wouldn't want to bring dishonor on Saint Isidore of Seville, the patron saint of students and the Internet, would you? This badge is awarded for completing the What Is Isidore? lesson.",
-            "image": "Is-A-Door.png",
+            "image": "IsADoor.png",
             "anchor": "isadoor",
             "threshold": "1.0",
             "assignments": [
