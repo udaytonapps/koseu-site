@@ -390,8 +390,8 @@
                     "description": "Your course landing page. Use it well.",
                     "videos" : [
                         {
-                            "title" : "Isidore - Announcements",
-                            "warpwire" : "1_kAAA"
+                            "title" : "Isidore 101: Overview",
+                            "warpwire" : "ARIBAA"
                         }
                     ],
                     "overviewcontent" : "Use the Announcements tool to post messages for your students. You may attach document and add links. By default, Announcements are also sent to students’ emails, so you can be sure they see the message.",
@@ -503,7 +503,7 @@
                     "description": "Don't add it as a Word Doc.",
                     "videos" : [
                         {
-                            "title" : "Isidore - Syllabus",
+                            "title" : "Isidore 101: Syllabus",
                             "warpwire" : "zQ8BAA"
                         }
                     ],
@@ -616,7 +616,7 @@
                     "description": "Basics about the announcements tool.",
                     "videos" : [
                         {
-                            "title" : "Isidore - Announcements",
+                            "title" : "Isidore 101: Announcements",
                             "warpwire" : "1_kAAA"
                         }
                     ],
@@ -729,8 +729,8 @@
                     "description": "Keep this tool organized!",
                     "videos" : [
                         {
-                            "title" : "Isidore - Announcements",
-                            "warpwire" : "1_kAAA"
+                            "title" : "Isidore 101: Resources",
+                            "warpwire" : "ZRIBAA"
                         }
                     ],
                     "overviewcontent" : "Use the Announcements tool to post messages for your students. You may attach document and add links. By default, Announcements are also sent to students’ emails, so you can be sure they see the message.",
@@ -842,8 +842,8 @@
                     "description": "Get to know your students.",
                     "videos" : [
                         {
-                            "title" : "Isidore - Announcements",
-                            "warpwire" : "1_kAAA"
+                            "title" : "Isidore 101: Roster",
+                            "warpwire" : "exEBAA"
                         }
                     ],
                     "overviewcontent" : "Use the Announcements tool to post messages for your students. You may attach document and add links. By default, Announcements are also sent to students’ emails, so you can be sure they see the message.",
@@ -955,8 +955,8 @@
                     "description": "Track your students' attendance.",
                     "videos" : [
                         {
-                            "title" : "Isidore - Announcements",
-                            "warpwire" : "1_kAAA"
+                            "title" : "Isidore 101: Attendance",
+                            "warpwire" : "qxIBAA"
                         }
                     ],
                     "overviewcontent" : "Use the Announcements tool to post messages for your students. You may attach document and add links. By default, Announcements are also sent to students’ emails, so you can be sure they see the message.",
@@ -1068,8 +1068,8 @@
                     "description": "You should add this one. Students like it.",
                     "videos" : [
                         {
-                            "title" : "Isidore - Announcements",
-                            "warpwire" : "1_kAAA"
+                            "title" : "Isidore 101: Calendar",
+                            "warpwire" : "pxIBAA"
                         }
                     ],
                     "overviewcontent" : "Use the Announcements tool to post messages for your students. You may attach document and add links. By default, Announcements are also sent to students’ emails, so you can be sure they see the message.",
@@ -1181,8 +1181,8 @@
                     "description": "Many useful features are hidden in this magic box.",
                     "videos" : [
                         {
-                            "title" : "Isidore - Announcements",
-                            "warpwire" : "1_kAAA"
+                            "title" : "Isidore 101: Text Editor",
+                            "warpwire" : "pRIBAA"
                         }
                     ],
                     "overviewcontent" : "Use the Announcements tool to post messages for your students. You may attach document and add links. By default, Announcements are also sent to students’ emails, so you can be sure they see the message.",
