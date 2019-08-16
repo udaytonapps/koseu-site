@@ -5,7 +5,7 @@
         {
             "title": "Participation Trophy",
             "description": "Do you earn this badge for doing anything impressive? Nope. All you do is log into the system, and poof! You get the badge. You participated. Take your trophy. You are now prepared for your first steps in the Office of E-Learning's online training. DISCLAIMER: Always consult your physician before beginning any online training program. This is not intended to diagnose any medical condition or to replace your healthcare professional. If you experience any pain or shortness of breath with these online modules, stop and consult your physician.",
-            "image": "ParticipationTrophy.png",
+            "image": "ParticipationTrophy",
             "anchor": "participationtrophy",
             "threshold": "1.0",
             "assignments": []
@@ -13,7 +13,7 @@
         {
             "title": "Is-A-Door",
             "description": "Isidore. If you know what it is and you know what it does, it will open all kinds of doors for your teaching career here at UD. The name of the badge will also serve as a reminder of the proper pronunciation. eLearning hears a lot of \"eyes-a-dore\" and \"Isadora\" type stuff. No good! You wouldn't want to bring dishonor on Saint Isidore of Seville, the patron saint of students and the Internet, would you? This badge is awarded for completing the What Is Isidore? lesson.",
-            "image": "IsADoor.png",
+            "image": "IsADoor",
             "anchor": "isadoor",
             "threshold": "1.0",
             "assignments": [
@@ -23,7 +23,7 @@
         {
             "title": "Onboarded",
             "description": "Earning this badge proves that you are onboard. You're not the captain of the ship. Heck. You're not even a crew member. But you're on the boat, and you earned your spot by completing the I'm Brand New module.",
-            "image": "Onboarded.png",
+            "image": "Onboarded",
             "anchor": "onboarded",
             "threshold": "1.0",
             "assignments": [
@@ -35,7 +35,7 @@
         {
             "title": "Site Sighted",
             "description": "Creating a site in Isidore is the most important thing you will ever do. At any point of your life. No matter what. It may even save your life. This badge is awarded following a validation (or observational sighting) of an Isidore site you created as part of the Course Site Creation lesson.",
-            "image": "SiteSighted.png",
+            "image": "SiteSighted",
             "anchor": "sitesighted",
             "threshold": "1.0",
             "assignments": [
@@ -45,7 +45,7 @@
         {
             "title": "Gen Ed",
             "description": "Like the general ed courses for undergrads, this badge is awarded for those that have completed the Isidore 101 modules, which teaches on the fundamental tools of Isidore. And just like those general ed, Isidore 101 prepares you for your next steps in learning Isidore, your next steps in teaching, and your next steps in becoming the best instructor this institution has ever seen!",
-            "image": "GenEd.png",
+            "image": "GenEd",
             "anchor": "gened",
             "threshold": "1.0",
             "assignments": [
@@ -62,7 +62,7 @@
         {
             "title": "Feelin' Dangerous",
             "description": "Have you ever heard the expression, \"You know enough to be dangerous\"? Well, that's you right now. This badge is earned following the completion of both the I'm Brand New and Isidore 101 modules. At this point you're ready to start doing some great things with Isidore. But we need to be clear that the \"dangerous\" thing is just an expression. We don't suggest you ever put yourself in a position where you feel or create true danger. Just be cool, ok?",
-            "image": "FeelinDangerous.png",
+            "image": "FeelinDangerous",
             "anchor": "feelindangerous",
             "threshold": "1.0",
             "assignments": [
