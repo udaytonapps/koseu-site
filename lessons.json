@@ -153,7 +153,7 @@
                                 {
                                     "icon": "fa-external-link",
                                     "title": "Why Open Source? - Written by eLearning Staff",
-                                    "href": "https://udayton.edu/0/elearning/learn/homepages_gallery.pdf"
+                                    "href": "https://udayton.edu/0/elearning/learn/whyopensource.pdf"
                                 },
                                 {
                                     "icon": "fa-external-link",
@@ -203,13 +203,29 @@
                     ],
                     "overviewcontent": "If you’ve never used Isidore before, fear not! This lesson will help you get started.",
                     "section1title": "Step 1: See It, Learn It",
-                    "section1content": "Watch this 1-minute video to learn how to log in and add a profile picture.",
-                    "section2title": "Step 2: Test Your Knowledge",
-                    "section2content": "Now it's time to prove you watched the video. Complete the Quick Quiz below to earn credit for completing this lesson.",
+                    "section1content": "Watch this 1-minute video to learn how to log in and add a profile picture. While adding a profile picture may not seem important, there are places within Isidore where your picture will display, so we recommend changing it so your students can quickly identify and differentiate messages from you.",
+                    "section2title": "Step 2: Try It",
+                    "section2content": "Log in and add your profile picture and name pronunciation."
+                        "section2steps" : [
+                        {
+                            "step" : "Log in to Isidore."
+                        },
+                        {
+                            "step" : "Click on your name in the top right corner. Click on 'Profile'."
+                        },
+                        {
+                            "step" : "Add picture: Click 'Edit Profile Picture' and add a picture of yourself. Make sure you remember to choose which sharing option you want so students can see your picture!"
+                        },
+                        {   
+                            "step" : "Add name pronunciation: Click 'Create Name Pronunciation' and follow the steps to record your name.
+                        }
+                    ],
+                    "section2title": "Step 3: Test Your Knowledge",
+                    "section2content": "Complete the Quick Quiz below to earn credit for completing this lesson.",
                     "lti": [
                         {
                             "header": "Quick Quiz",
-                            "description": "Take the three question quiz below to test your Isidore knowledge.",
+                            "description": "Tt's a quick quiz, but you still wil have needed to watch the video to get the answers right. So go watch if you haven't!",
                             "icon": "fa-list-ol",
                             "title": "Getting Started with Isidore Quiz",
                             "launch": "mod/learnquiz/index.php?quiz=bn_gettingstarted",
@@ -253,7 +269,7 @@
                             "references": [
                                 {
                                     "icon": "fa-external-link",
-                                    "title": "Isidore Log In Page",
+                                    "title": "Isidore Login Page",
                                     "href": "https://isidore.udayton.edu"
                                 },
                                 {
@@ -282,7 +298,15 @@
                         {
                             "question": "Why is 2-factor authentication needed?",
                             "answer": "As a part of the campus community, you play a part in keeping our campus safe - this includes from cyber attacks. Your password is the easiest way for attacks on our systems to happen, so the additional step of approving log ins on a secondary device is a critical step for safety."
-                        }
+                        },
+                        {
+                            "question": "What was that screen the presenter was writing on at the end of the video?",
+                            "answer": "That's the 'Canvas', a giant touch-sensitive video wall in the LTC Studio. Contact the LTC to learn how you can teach your class in that room in a future semester."
+                        },
+                        {
+                            "question": "Who was the scary person in the 'horrific driver license photo'?"
+                            "answer": "That was the presenter, aged 15. The point is that the photo that is taken of you in the Flyer Card office for your ID somehow looks WORSE than driver license photos. Amazing."
+                        } 
                     ],
                     "aside3title": "Did you know?",
                     "aside3content": "Our Isidore homepage has looked mighty different over the years. <a href=\"https://udayton.edu/0/elearning/learn/homepages_gallery.pdf\" target=\"_blank\">See all of Isidore's looks</a>"
