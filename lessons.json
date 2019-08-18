@@ -205,8 +205,8 @@
                     "section1title": "Step 1: See It, Learn It",
                     "section1content": "Watch this 1-minute video to learn how to log in and add a profile picture. While adding a profile picture may not seem important, there are places within Isidore where your picture will display, so we recommend changing it so your students can quickly identify and differentiate messages from you.",
                     "section2title": "Step 2: Try It",
-                    "section2content": "Log in and add your profile picture and name pronunciation."
-                        "section2steps" : [
+                    "section2content": "Log in and add your profile picture and name pronunciation.",
+                    "section2steps": [
                         {
                             "step" : "Log in to Isidore."
                         },
@@ -304,7 +304,7 @@
                             "answer": "That's the 'Canvas', a giant touch-sensitive video wall in the LTC Studio. Contact the LTC to learn how you can teach your class in that room in a future semester."
                         },
                         {
-                            "question": "Who was the scary person in the 'horrific driver license photo'?"
+                            "question": "Who was the scary person in the 'horrific driver license photo'?",
                             "answer": "That was the presenter, aged 15. The point is that the photo that is taken of you in the Flyer Card office for your ID somehow looks WORSE than driver license photos. Amazing."
                         } 
                     ],
