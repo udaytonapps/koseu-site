@@ -399,7 +399,7 @@
         },
         {
             "title": "Isidore 101",
-            "description" : "These lessons cover the basics of the most commonly (and easily) used tools.",
+            "description" : "These lessons cover the basics of the most commonly (and easily) used tools in Isidore. We recommend including all of these tools in your course sites -- BUT only if you really do plan on using them. Don't add tools that you won't use!",
             "time": "Est. 45 min",
             "anchor": "isidore101",
             "video": {
@@ -418,29 +418,15 @@
                             "warpwire" : "pRIBAA"
                         }
                     ],
-                    "overviewcontent" : "Use the Announcements tool to post messages for your students. You may attach document and add links. By default, Announcements are also sent to students’ emails, so you can be sure they see the message.",
+                    "overviewcontent" : "We're starting out with something that's not actually a definitive \"tool\" in Isidore, so sorry for the trick on this one. The rich-text editor, though, is a really important place to start because it has features that we'd hate for you to miss. These features will help you make your content accessible for all learners, as well as link your material to UD's Catholic heritage. We also think it's important to add your personality and YOUR expert voice whenever possible, so these features will help you do so.",
                     "section1title" : "Step 1: See It, Learn It",
-                    "section1content" : "Watch this 1 minute video to see how to get started with the Announcements tool.",
-                    "section2title" : "Step 2: Try It",
-                    "section2content" : "It's now time for you to try posting your own Announcement.",
-                    "section2prereq" : "To complete this step, you must first create a test site as instructed in the Creating Course Sites lesson..",
-                    "section2steps" : [
-                        {
-                            "step" : "Log in to Isidore."
-                        },
-                        {
-                            "step" : "Navigate to your testing site."
-                        },
-                        {
-                            "step" : "Post an Announcement."
-                        }
-                    ],
-                    "section3title" : "Step 3: Test your knowledge",
-                    "section3content" : "Now that you've practiced posting an Announcement . . .",
+                    "section1content" : "A 2 minute overview of some of the features in the text editor.",
+                    "section2title" : "Step 2: Test your knowledge",
+                    "section2content" : "The video was just a sample of all that is possible with the rich-text editor. Play around with the buttons yourself to see all that's possible.",
                      "lti" : [
                          {
                              "header": "Quick Quiz",
-                             "description": "Take the three question quiz below to test your Isidore knowledge.",
+                             "description": "Check out the CK Editor article in the Wiki resources to help you answer the questions in the quiz.",
                              "icon": "fa-list-ol",
                              "title": "Text Editor Quiz",
                              "launch": "mod/learnquiz/index.php?quiz=101_ckeditor",
@@ -454,24 +440,13 @@
                             "references" : [
                                 {
                                     "icon" : "fa-external-link",
-                                    "title" : "Full Announcements Tool Help",
-                                    "href" : "https://ewiki.udayton.edu/isidore/Announcements"
-                                }
-                            ]
-                        },
-                        {
-                            "header" : "Related Lessons",
-                            "references" : [
-                                {
-                                    "icon" : "fa-bullhorn",
-                                    "title" : "Course Communication",
-                                    "href" : "#"
+                                    "title" : "Rich-text Editor Help",
+                                    "href" : "https://ewiki.udayton.edu/isidore/CK_Editor"
                                 },
                                 {
-                                    "icon" : "fa-inbox",
-                                    "title" : "Messages Tool",
-                                    "href" : "#"
-                                }
+                                    "icon": "fa-external-link",
+                                    "title" : "Example of the Templates",
+                                    "href": "https://ewiki.udayton.edu/isidore/Templates"
                             ]
                         },
                         {
@@ -479,13 +454,23 @@
                             "references" : [
                                 {
                                     "icon" : "fa-external-link",
-                                    "title" : "When you communicate with students, tone matters",
-                                    "href" : "https://www.chronicle.com/article/When-You-Communicate-With/244756"
+                                    "title" : "The human touch and your digital personality",
+                                    "href" : "https://secure.onlinelearningconsortium.org/effective_practices/human-touch-and-your-digital-personality"
                                 },
                                 {
                                     "icon" : "fa-external-link",
-                                    "title" : "The need for balanced feedback",
-                                    "href" : "https://www.facultyfocus.com/articles/online-education/the-need-for-balanced-feedback/"
+                                    "title" : "Introduction to web accessibility",
+                                    "href" : "https://webaim.org/intro/"
+                                },
+                                {
+                                    "icon": "fa-external-link",
+                                    "title" : "Common Themes in the Mission and Identity at the University of Dayton",
+                                    "href" : "https://udayton.edu/rector/_resources/files/common_themes_brochure.pdf"
+                                },
+                                {
+                                    "icon" : "fa-external-link",
+                                    "title" : "Universal design principles and guidlines",
+                                    "href": "http://www.artbeyondsight.org/dic/module-4-museum-access-accessible-physical-space/universal-design-principles-and-guidelines/"
                                 }
                             ]
                         }
@@ -493,32 +478,16 @@
                     "aside2title" : "Potential Questions You May Have",
                     "aside2questions" : [
                         {
-                            "question" : "Where do students see Announcements?",
-                            "answer" : "Students have the option to see Announcements in multiple locations. By default, they can see links to all of their Announcements on their Isidore homepage. They would also see the links to the Announcements on your course site homepage. If you didn’t change the default behavior, students would receive an email notification including the text of the announcement."
+                            "question" : "Are all text editors in Isidore rich-text editors?",
+                            "answer" : "No. There are places where only plain-text editors are available, so you'll just have to be boring in those places."
                         },
                         {
-                            "question" : "Do Announcements work if the site is unpublished?",
-                            "answer" : "Not really. The Announcement will be posted, but an email will not be delivered to students’ inboxes, and they would have no way of seeing the Announcement until the site is published."
-                        },
-                        {
-                            "question" : "Will I receive an email notification about the Announcement as the instructor?",
-                            "answer" : "Yes. Other instructors in your site, if any,  will also receive the email notification."
-                        },
-                        {
-                            "question" : "Can I schedule Announcements?",
-                            "answer" : "You bet! Just choose the 'Specify Dates' option after writing the text for your Announcement. Pick the dates the Announcement should be visible, and it will appear (and disappear) on the selected dates."
-                        },
-                        {
-                            "question" : "Can I save an Announcement as a draft?",
-                            "answer" : "Definitely. Choose the 'Hide' option after writing your Announcement, then press the Post Announcement button. It will be hidden until you edit the Announcement and change that setting to Show."
-                        },
-                        {
-                            "question" : "Can I delete an Announcement?",
-                            "answer" : "Yes - but you cannot delete the email notification from students' inboxes once sent, so proofread before you post!"
+                            "question" : "Is it okay to just have black text on a white background? I'm not really into all this extra stuff.",
+                            "answer" : "Sure thing! In fact, having too much color or crazy distractions is actually BAD for student learning. We do recommend adding pictures, at least, when they make sense to use (e.g. diagrams, pictures of the textbook, etc.)."
                         }
                     ],
-                    "aside3title" : "Did you know?",
-                    "aside3content" : "432,000 Announcements have been posted in Isidore since 2008. Y'all do a lot of announcing."
+                    "aside3title" : "What's eLearning's favorite rich-text editor tool?",
+                    "aside3content" : "We all answered differently, so the author gets to answer on behalf of the team, mwahaha. Our favorite is the remove format button in the top row of the editor. This tool lets us remove all formatting from the text box, meaning we don't have to individually un-bold and un-italicize everything. Huge timesaver!"
                 },
                  {
                     "title": "Overview",
