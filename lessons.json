@@ -338,7 +338,7 @@
                             "step": "Let us know your site's title by completing the Quick Write below these steps."
                         },
                         {
-                            "step": "Boom! You earned a Cited Site Sighted badge!"
+                            "step": "An eLearning staff member will verify that you created a site, then, boom! You earned a Site Sighted badge!"
                         }
                     ],
                     "section3title": "Step 3: Test Your Knowledge",
@@ -346,7 +346,7 @@
                     "lti": [
                         {
                             "header": "Quick Quiz",
-                            "description": "Take the three question quiz below to test your Isidore knowledge.",
+                            "description": "Take the three question quiz below to show us you know how to create Isidore sites.",
                             "icon": "fa-list-ol",
                             "title": "Course Site Creation Quiz",
                             "launch": "mod/learnquiz/index.php?quiz=bn_sitecreation",
@@ -393,7 +393,36 @@
                                 }
                             ]
                         }
-                    ]
+                    ],
+                    "aside2title": "Potential Questions You May Have",
+                    "aside2questions": [
+                        {
+                            "question": "Why do instructors need to create Isidore sites themselves?",
+                            "answer": "UD does not require instructors to use Isidore, so we have no way of knowing who is using Isidore and who isn't any given term; thus, we ask that instructors create their own sites. Plus, you know better than we do what content should be copied over every semester!"
+                        },
+                        {
+                            "question": "What's the difference between an Isidore site and an Isidore tab?",
+                            "answer": "Lots of people call their Isidore sites, \"tabs\". They might also refer to the tools in their Isidore site (e.g. Syllabus, Announcements, Assignments, etc.) as tabs."
+                        },
+                        {
+                            "question": "When are Isidore sites published to students?",
+                            "answer": "Isidore sites for the current term are published automatically at 8 AM on the first day of the term. At that time, we also unpublish all Isidore sites from the previous term."
+                        },
+                        {
+                            "question": "I'm teaching this coming semester, but I don't see a roster available to me to create. What do I do?",
+                            "answer": "It could be a number of things. You may have selected the wrong term when beginning the site creation process (most classes are in terms that are called something like \"Spring 2020\" or \"Fall 2020\"). More likely is that you are not listed as the instructor of record for the class. Don't worry, you can still create the Isidore site for your roster! You just have to request it, then eLearning will review the request and approve the roster once we determine that you are indeed the instructor."
+                        },
+                        {
+                            "question": "How soon before the term begins can I create my Isidore site?",
+                            "answer": "The rosters for the upcoming term become available in Isidore ten weeks prior to the start of the semester. If you want to create the site before then, just contact eLearning - we can set it up."
+                        },
+                        {
+                            "question": "Oops! I goofed. How can I delete the site that I made?",
+                            "answer": "On Isidore homepage, click on the \"My Sites\" tool. Check the box next to the site you want to delete, then press the \"Delete\" button."
+                        }    
+                    ],
+                    "aside3title": "Did you know?",
+                    "aside3content": "Approximately 90% of faculty members at UD use Isidore for at least one course."
                 }
             ]
         },
