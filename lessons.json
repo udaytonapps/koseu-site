@@ -220,12 +220,12 @@
                             "step" : "Add name pronunciation: Click 'Create Name Pronunciation' and follow the steps to record your name.
                         }
                     ],
-                    "section2title": "Step 3: Test Your Knowledge",
-                    "section2content": "Complete the Quick Quiz below to earn credit for completing this lesson.",
+                    "section3title": "Step 3: Test Your Knowledge",
+                    "section3content": "Complete the Quick Quiz below to earn credit for completing this lesson.",
                     "lti": [
                         {
                             "header": "Quick Quiz",
-                            "description": "Tt's a quick quiz, but you still wil have needed to watch the video to get the answers right. So go watch if you haven't!",
+                            "description": "It's a quick quiz, but you still will have needed to watch the video to get the answers right. So go watch if you haven't!",
                             "icon": "fa-list-ol",
                             "title": "Getting Started with Isidore Quiz",
                             "launch": "mod/learnquiz/index.php?quiz=bn_gettingstarted",
