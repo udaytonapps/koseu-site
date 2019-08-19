@@ -560,11 +560,11 @@
                         },
                         {
                             "header": "Quick Write",
-                            "description": "Make your Overview page something different than the course descrpition, then use the link below to submit your site to eLearning for credit.",
+                            "description": "Make your Overview page something different than the course description, then use the link below to submit your site to eLearning for credit.",
                             "icon": "fa-pencil-square",
                             "title": "Review my Overview",
                             "launch": "mod/modquickwrite/",
-                            "resource_link_id": "bn_sitecreation2"
+                            "resource_link_id": "101_overview2"
                         }
                     ],
                     "aside1title" : "Additional Resources",
