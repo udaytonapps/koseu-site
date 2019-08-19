@@ -704,6 +704,7 @@
                         {
                             "question" : "Okay, I get the point, no Word Docs. I don't want to fool around with formatting though, so how do I save it as a PDF?",
                             "answer" : "This is a great question as it's really not immediately clear that this is possible to do. If you have your Word Doc open, press the File button, then the Save As option. Find a location on your computer to save the file. Then, on the same screen where you can rename the document while saving, there is a \"Save as type\" menu. Click that and choose \"PDF\". Press save, and you're done!"
+                        }
                     ],
                     "aside3title" : "Did you know?",
                     "aside3content" : "Isidore is designed to be responsive, which means that it works well on mobile devices like phones. You know what doesn't work well on phones? Word Docs."
