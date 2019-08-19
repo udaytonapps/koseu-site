@@ -530,127 +530,6 @@
                             "warpwire" : "ARIBAA"
                         }
                     ],
-                    "overviewcontent" : "We beg you. Do something, ANYTHING, with your Overview. Please add something other than the catalog description of the class.",
-                    "section1title" : "Step 1: See It, Learn It",
-                    "section1content" : "See some examples of different faculty members' Overviews in the 1 minute video below.",
-                    "section2title" : "Step 2: Try It",
-                    "section2content" : "Have a creative idea for an Overview? Show us!",
-                    "section2prereq" : "To complete this step, you must either have an existing site that you can use, or you must first create a test site as instructed in the Creating Course Sites lesson.",
-                    "section2steps" : [
-                        {
-                            "step" : "Log in to Isidore."
-                        },
-                        {
-                            "step" : "Navigate to the site where you'll add your cool Overview."
-                        },
-                        {
-                            "step" : "Create the best landing page in Isidore."
-                        }
-                    ],
-                    "section3title" : "Step 3: Test your knowledge",
-                    "section3content" : "We believe you now know everything required to make your Overview pop. Well, we'll believe you know everything AFTER you pass the quiz.",
-                    "lti" : [
-                        {
-                            "header": "Quick Quiz",
-                            "description": "Take the three question quiz below.",
-                            "icon": "fa-list-ol",
-                            "title": "Overview Quiz",
-                            "launch": "mod/learnquiz/index.php?quiz=101_overview",
-                            "resource_link_id": "101_overview"
-                        },
-                        {
-                            "header": "Quick Write",
-                            "description": "Make your Overview page something different than the course description, then use the link below to submit your site to eLearning for credit.",
-                            "icon": "fa-pencil-square",
-                            "title": "Review my Overview",
-                            "launch": "mod/modquickwrite/",
-                            "resource_link_id": "101_overview2"
-                        }
-                    ],
-                    "aside1title" : "Additional Resources",
-                    "aside1content" : [
-                        {
-                            "header" : "Wiki Resources",
-                            "references" : [
-                                {
-                                    "icon" : "fa-external-link",
-                                    "title" : "Full Announcements Tool Help",
-                                    "href" : "https://ewiki.udayton.edu/isidore/Announcements"
-                                }
-                            ]
-                        },
-                        {
-                            "header" : "Related Lessons",
-                            "references" : [
-                                {
-                                    "icon" : "fa-bullhorn",
-                                    "title" : "Course Communication",
-                                    "href" : "#"
-                                },
-                                {
-                                    "icon" : "fa-inbox",
-                                    "title" : "Messages Tool",
-                                    "href" : "#"
-                                }
-                            ]
-                        },
-                        {
-                            "header" : "Additional Articles",
-                            "references" : [
-                                {
-                                    "icon" : "fa-external-link",
-                                    "title" : "When you communicate with students, tone matters",
-                                    "href" : "https://www.chronicle.com/article/When-You-Communicate-With/244756"
-                                },
-                                {
-                                    "icon" : "fa-external-link",
-                                    "title" : "The need for balanced feedback",
-                                    "href" : "https://www.facultyfocus.com/articles/online-education/the-need-for-balanced-feedback/"
-                                }
-                            ]
-                        }
-                    ],
-                    "aside2title" : "Potential Questions You May Have",
-                    "aside2questions" : [
-                        {
-                            "question" : "Where do students see Announcements?",
-                            "answer" : "Students have the option to see Announcements in multiple locations. By default, they can see links to all of their Announcements on their Isidore homepage. They would also see the links to the Announcements on your course site homepage. If you didn’t change the default behavior, students would receive an email notification including the text of the announcement."
-                        },
-                        {
-                            "question" : "Do Announcements work if the site is unpublished?",
-                            "answer" : "Not really. The Announcement will be posted, but an email will not be delivered to students’ inboxes, and they would have no way of seeing the Announcement until the site is published."
-                        },
-                        {
-                            "question" : "Will I receive an email notification about the Announcement as the instructor?",
-                            "answer" : "Yes. Other instructors in your site, if any,  will also receive the email notification."
-                        },
-                        {
-                            "question" : "Can I schedule Announcements?",
-                            "answer" : "You bet! Just choose the 'Specify Dates' option after writing the text for your Announcement. Pick the dates the Announcement should be visible, and it will appear (and disappear) on the selected dates."
-                        },
-                        {
-                            "question" : "Can I save an Announcement as a draft?",
-                            "answer" : "Definitely. Choose the 'Hide' option after writing your Announcement, then press the Post Announcement button. It will be hidden until you edit the Announcement and change that setting to Show."
-                        },
-                        {
-                            "question" : "Can I delete an Announcement?",
-                            "answer" : "Yes - but you cannot delete the email notification from students' inboxes once sent, so proofread before you post!"
-                        }
-                    ],
-                    "aside3title" : "Did you know?",
-                    "aside3content" : "432,000 Announcements have been posted in Isidore since 2008. Y'all do a lot of announcing."
-                }, 
-                {
-                    "title": "Syllabus",
-                    "anchor": "syllabus",
-                    "icon" : "fa-map-o",
-                    "description": "Don't add it as a Word Doc.",
-                    "videos" : [
-                        {
-                            "title" : "Isidore 101: Syllabus",
-                            "warpwire" : "zQ8BAA"
-                        }
-                    ],
                     "overviewcontent" : "Use the Announcements tool to post messages for your students. You may attach document and add links. By default, Announcements are also sent to students’ emails, so you can be sure they see the message.",
                     "section1title" : "Step 1: See It, Learn It",
                     "section1content" : "Watch this 1 minute video to see how to get started with the Announcements tool.",
@@ -675,6 +554,87 @@
                             "header": "Quick Quiz",
                             "description": "Take the three question quiz below to test your Isidore knowledge.",
                             "icon": "fa-list-ol",
+                            "title": "Overview Quiz",
+                            "launch": "mod/learnquiz/index.php?quiz=101_overview",
+                            "resource_link_id": "101_overview"
+                        }
+                    ],
+                    "aside1title" : "Additional Resources",
+                    "aside1content" : [
+                        {
+                            "header" : "Wiki Resources",
+                            "references" : [
+                                {
+                                    "icon" : "fa-external-link",
+                                    "title" : "Adding an Image",
+                                    "href" : "https://ewiki.udayton.edu/isidore/Image"
+                                }
+                            ]
+                        },
+                        {
+                            "header" : "Related Lessons",
+                            "references" : [
+                                {
+                                    "icon" : "fa-indent",
+                                    "title" : "Text Editor",
+                                    "href" : "/lessons/texteditor"
+                                }
+                            ]
+                        },
+                        {
+                            "header" : "Additional Articles",
+                            "references" : [
+                                {
+                                    "icon" : "fa-external-link",
+                                    "title" : "UD Faculty Overview Examples",
+                                    "href" : "https://udayton.edu/0/elearning/learn/exampleoverviews.pdf"
+                                }
+                            ]
+                        }
+                    ],
+                    "aside2title" : "Potential Questions You May Have",
+                    "aside2questions" : [
+                        {
+                            "question" : "I only use Isidore to post resources and my syllabus. Why should I do anything with my Isidore site's landing page?",
+                            "answer" : "Instructors at UD use Isidore in such differing and oftentimes perplexing ways that it's really easy for students to be confused on where to look for course resources. We've seen people post the syllabus in, no joke, all of these tools: Announcements, Messages, Resources, Syllabus, Lessons, Calendar, and Chat Room. So while YOU may think it's obvious where everything is, your students might not, so it's helpful to, at the very least, tell them where to look in the site for your stuff. Secondly, because it's fun."
+                        },
+                        {
+                            "question" : "How do you know students make judgments about my Isidore site?",
+                            "answer" : "We ask them. Regularly."
+                        },
+                        {
+                            "question" : "I'd like to add something more interactive to my Overview. Is that possible?",
+                            "answer" : "You betcha. We recommend adding the Commons widget by clicking on the Manage Overview button in the top right corner of the tool. The Commons widget is similar to a social media style newsfeed where you and your students can post quick links to articles, comments, questions, etc."
+                        },
+                        {
+                            "question" : "Are there any examples I can look at?",
+                            "answer" : "Many faculty members have gratiously let us share their creative Overview pages. Check them out in the Additional Articles section above. If you want yours on this list, just let us know!"
+                        }
+                    ],
+                    "aside3title" : "Did you know?",
+                    "aside3content" : "The content on your Overview doesn't have to be static!! Change it throughout the semester. Put up a pumpkin joke or or a black cat for Halloween. Add an easter egg for Easter. Do something more interesting than those suggestions."
+                }, 
+                {
+                    "title": "Syllabus",
+                    "anchor": "syllabus",
+                    "icon" : "fa-map-o",
+                    "description": "Don't add it as a Word Doc.",
+                    "videos" : [
+                        {
+                            "title" : "Isidore 101: Syllabus",
+                            "warpwire" : "zQ8BAA"
+                        }
+                    ],
+                    "overviewcontent" : "You're going to be shocked to learn that this tool is for posting your syllabus. Who would have guessed from its name?",
+                    "section1title" : "Step 1: See It, Learn It",
+                    "section1content" : "Spoiler alert. Stop reading right now if you don't want to have the surprise spoiled which it already was on the main page for the Isidore 101 module. Hopefully by this point in the lengthy paragraph that this is you have stopped reading, thus making this a good enough prevention of spoilers. Okay, here is the spoiler: Don't post your Syllabus as a Word Doc.",
+                    "section2title" : "Step 2: Test Your Knowledge",
+                    "section2content" : "If you somehow missed it in literally 3 different areas prior to this quiz, we'll tell you again for some help on the quiz: do not post your syllabus as a Word Doc.",
+                    "lti" : [
+                        {
+                            "header": "Quick Quiz",
+                            "description": "Prove you know everything about syllabuses.",
+                            "icon": "fa-list-ol",
                             "title": "Syllabus Quiz",
                             "launch": "mod/learnquiz/index.php?quiz=101_syllabus",
                             "resource_link_id": "101_syllabus"
@@ -687,8 +647,13 @@
                             "references" : [
                                 {
                                     "icon" : "fa-external-link",
-                                    "title" : "Full Announcements Tool Help",
-                                    "href" : "https://ewiki.udayton.edu/isidore/Announcements"
+                                    "title" : "Finding the Syllabus Template in Isidore",
+                                    "href" : "https://ewiki.udayton.edu/isidore/Templates"
+                                },
+                                {
+                                    "icon" : "fa-external-link",
+                                    "title" : "Syllabus Tool Help",
+                                    "href" : "https://ewiki.udayton.edu/isidore/Syllabus"
                                 }
                             ]
                         },
@@ -696,14 +661,9 @@
                             "header" : "Related Lessons",
                             "references" : [
                                 {
-                                    "icon" : "fa-bullhorn",
-                                    "title" : "Course Communication",
-                                    "href" : "#"
-                                },
-                                {
-                                    "icon" : "fa-inbox",
-                                    "title" : "Messages Tool",
-                                    "href" : "#"
+                                    "icon" : "fa-indent",
+                                    "title" : "Text Editor",
+                                    "href" : "/lessons/texteditor"
                                 }
                             ]
                         },
@@ -712,13 +672,13 @@
                             "references" : [
                                 {
                                     "icon" : "fa-external-link",
-                                    "title" : "When you communicate with students, tone matters",
-                                    "href" : "https://www.chronicle.com/article/When-You-Communicate-With/244756"
+                                    "title" : "How to Create a Syllabus: Advice Guide from The Chronicle",
+                                    "href" : "https://www.chronicle.com/interactives/advice-syllabus"
                                 },
                                 {
                                     "icon" : "fa-external-link",
-                                    "title" : "The need for balanced feedback",
-                                    "href" : "https://www.facultyfocus.com/articles/online-education/the-need-for-balanced-feedback/"
+                                    "title" : "ReadTheSyllabus Twitter Account",
+                                    "href" : "https://twitter.com/readthesyllabus"
                                 }
                             ]
                         }
@@ -726,32 +686,28 @@
                     "aside2title" : "Potential Questions You May Have",
                     "aside2questions" : [
                         {
-                            "question" : "Where do students see Announcements?",
-                            "answer" : "Students have the option to see Announcements in multiple locations. By default, they can see links to all of their Announcements on their Isidore homepage. They would also see the links to the Announcements on your course site homepage. If you didn’t change the default behavior, students would receive an email notification including the text of the announcement."
+                            "question" : "How do you know students don't like the syllabus as a Word Doc?",
+                            "answer" : "We ask them. Regularly. Last time we asked, only 5% of students said they would want the syllabus posted as a Word Doc or PDF as opposed to have it pasted it in Isidore. To be fair, a large percentage also said they wanted it printed and distrubted in class, but we don't want to kill the trees."
                         },
                         {
-                            "question" : "Do Announcements work if the site is unpublished?",
-                            "answer" : "Not really. The Announcement will be posted, but an email will not be delivered to students’ inboxes, and they would have no way of seeing the Announcement until the site is published."
+                            "question" : "Copying and pasting my syllabus into Isidore messes up the formatting. How can I get it to look nice?",
+                            "answer" : "Really wish we had a snappy answer for this one. Like rocket science, maintaining formatting between things is just hard. But we can help. Shoot the Word Doc version of the Syllabus to elearning@udayton.edu, and we'll see what we can do."
                         },
                         {
-                            "question" : "Will I receive an email notification about the Announcement as the instructor?",
-                            "answer" : "Yes. Other instructors in your site, if any,  will also receive the email notification."
+                            "question" : "If my syllabus is 32 pages long, is it really still okay to just paste in to Isidore?",
+                            "answer" : "First, 32 pages seems . . . excessive. You might want to trim it down or choose a smaller font. If your syllabus is longer than average, then we do recommend adding multiple expandable/collapsible sections to the Syllabus tool (such as \"University Policies\", \"Course Information\", \"Schedule\", and \"Grading Policy\") so students can quickly jump to the sections they need most."
                         },
                         {
-                            "question" : "Can I schedule Announcements?",
-                            "answer" : "You bet! Just choose the 'Specify Dates' option after writing the text for your Announcement. Pick the dates the Announcement should be visible, and it will appear (and disappear) on the selected dates."
+                            "question" : "Where can I find imoprtant University dates while I'm making my course schedule?",
+                            "answer" : "<a href=\"https://udayton.edu/fss/important_dates/academic_calendar.php\" target=\"_blank\">UD's Academic Calendars</a>."
                         },
                         {
-                            "question" : "Can I save an Announcement as a draft?",
-                            "answer" : "Definitely. Choose the 'Hide' option after writing your Announcement, then press the Post Announcement button. It will be hidden until you edit the Announcement and change that setting to Show."
-                        },
-                        {
-                            "question" : "Can I delete an Announcement?",
-                            "answer" : "Yes - but you cannot delete the email notification from students' inboxes once sent, so proofread before you post!"
+                            "question" : "Okay, I get the point, no Word Docs. I don't want to fool around with formatting though, so how do I save it as a PDF?",
+                            "answer" : "This is a great question as it's really not immediately clear that this is possible to do. If you have your Word Doc open, press the File button, then the Save As option. Find a location on your computer to save the file. Then, on the same screen where you can rename the document while saving, there is a \"Save as type\" menu. Click that and choose \"PDF\". Press save, and you're done!"
                         }
                     ],
                     "aside3title" : "Did you know?",
-                    "aside3content" : "432,000 Announcements have been posted in Isidore since 2008. Y'all do a lot of announcing."
+                    "aside3content" : "Isidore is designed to be responsive, which means that it works well on mobile devices like phones. You know what doesn't work well on phones? Word Docs."
                 },
                 {
                     "title": "Announcements",
