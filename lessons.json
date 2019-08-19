@@ -244,7 +244,7 @@
                                 },
                                 {
                                     "icon": "fa-external-link",
-                                    "title": "Profile",
+                                    "title": "Profile Help",
                                     "href": "https://ewiki.udayton.edu/isidore/View_Profile"
                                 }
                             ]
@@ -450,8 +450,8 @@
                     "overviewcontent" : "We're starting out with something that's not actually a definitive \"tool\" in Isidore, so sorry for the trick on this one. The rich-text editor, though, is a really important place to start because it has features that we'd hate for you to miss. These features will help you make your content accessible for all learners, as well as link your material to UD's Catholic heritage. We also think it's important to add your personality and YOUR expert voice whenever possible, so these features will help you do so.",
                     "section1title" : "Step 1: See It, Learn It",
                     "section1content" : "A 2 minute overview of some of the features in the text editor.",
-                    "section2title" : "Step 2: Test your knowledge",
-                    "section2content" : "The video was just a sample of all that is possible with the rich-text editor. Play around with the buttons yourself to see all that's possible.",
+                    "section2title" : "Step 2: Test Your Knowledge",
+                    "section2content" : "The video was just a sample of all that is possible with the rich-text editor. Play around with the buttons yourself to see all that's possible. Only then will you be able to pass the quiz.",
                      "lti" : [
                          {
                              "header": "Quick Quiz",
@@ -474,7 +474,7 @@
                                 },
                                 {
                                     "icon": "fa-external-link",
-                                    "title" : "Example of the Templates",
+                                    "title" : "Examples of the Templates",
                                     "href": "https://ewiki.udayton.edu/isidore/Templates"
                                 }
                             ]
@@ -484,12 +484,12 @@
                             "references" : [
                                 {
                                     "icon" : "fa-external-link",
-                                    "title" : "The human touch and your digital personality",
+                                    "title" : "The Human Touch and Your Digital Personality",
                                     "href" : "https://secure.onlinelearningconsortium.org/effective_practices/human-touch-and-your-digital-personality"
                                 },
                                 {
                                     "icon" : "fa-external-link",
-                                    "title" : "Introduction to web accessibility",
+                                    "title" : "Introduction to Web Accessibility",
                                     "href" : "https://webaim.org/intro/"
                                 },
                                 {
@@ -499,7 +499,7 @@
                                 },
                                 {
                                     "icon" : "fa-external-link",
-                                    "title" : "Universal design principles and guidlines",
+                                    "title" : "Universal Design Principles and Guidelines",
                                     "href": "http://www.artbeyondsight.org/dic/module-4-museum-access-accessible-physical-space/universal-design-principles-and-guidelines/"
                                 }
                             ]
@@ -530,34 +530,42 @@
                             "warpwire" : "ARIBAA"
                         }
                     ],
-                    "overviewcontent" : "Use the Announcements tool to post messages for your students. You may attach document and add links. By default, Announcements are also sent to students’ emails, so you can be sure they see the message.",
+                    "overviewcontent" : "We beg you. Do something, ANYTHING, with your Overview tool. Please add something other than the catalog description of the class.",
                     "section1title" : "Step 1: See It, Learn It",
-                    "section1content" : "Watch this 1 minute video to see how to get started with the Announcements tool.",
+                    "section1content" : "See some examples of different faculty members' Overviews in the 1 minute video below.",
                     "section2title" : "Step 2: Try It",
-                    "section2content" : "It's now time for you to try posting your own Announcement.",
-                    "section2prereq" : "To complete this step, you must first create a test site as instructed in the Creating Course Sites lesson..",
+                    "section2content" : "Have a creative idea for an Overview? Show us!",
+                    "section2prereq" : "To complete this step, you must either have an existing site that you can use, or you must first create a test site as instructed in the Creating Course Sites lesson.",
                     "section2steps" : [
                         {
                             "step" : "Log in to Isidore."
                         },
                         {
-                            "step" : "Navigate to your testing site."
+                            "step" : "Navigate to the site where you'll add your cool Overview."
                         },
                         {
-                            "step" : "Post an Announcement."
+                            "step" : "Create the best landing page in Isidore using all the information you have learned."
                         }
                     ],
-                    "section3title" : "Step 3: Test your knowledge",
-                    "section3content" : "Now that you've practiced posting an Announcement . . .",
+                    "section3title" : "Step 3: Test Your Knowledge",
+                    "section3content" : "We believe you now know everything required to make your Overview pop. Well, we'll believe you know everything AFTER you pass the quiz.",
                     "lti" : [
                         {
                             "header": "Quick Quiz",
-                            "description": "Take the three question quiz below to test your Isidore knowledge.",
+                            "description": "Take the three question quiz below to show us you know how to add the Cheer Cup widget to your Overview.",
                             "icon": "fa-list-ol",
                             "title": "Overview Quiz",
                             "launch": "mod/learnquiz/index.php?quiz=101_overview",
                             "resource_link_id": "101_overview"
-                        }
+                        },
+                          {
+                            "header": "Quick Write",
+                            "description": "Make your Overview page something different than the course descrpition, then use the link below to submit your site to eLearning for credit.",
+                            "icon": "fa-pencil-square",
+                            "title": "Review my Overview",
+                            "launch": "mod/modquickwrite/",
+                            "resource_link_id": "101_overview2"
+                         }
                     ],
                     "aside1title" : "Additional Resources",
                     "aside1content" : [
@@ -568,6 +576,11 @@
                                     "icon" : "fa-external-link",
                                     "title" : "Adding an Image",
                                     "href" : "https://ewiki.udayton.edu/isidore/Image"
+                                },
+                                {
+                                    "icon" : "fa-external-link",
+                                    "title" : "Manage Overview",
+                                    "href" : "https://ewiki.udayton.edu/isidore/Manage_Overview"
                                 }
                             ]
                         },
@@ -608,7 +621,7 @@
                         },
                         {
                             "question" : "Are there any examples I can look at?",
-                            "answer" : "Many faculty members have gratiously let us share their creative Overview pages. Check them out in the Additional Articles section above. If you want yours on this list, just let us know!"
+                            "answer" : "Many faculty members have graciously let us share their creative Overview pages. Check them out in the Additional Articles section above. If you want yours on this list, just let us know!"
                         }
                     ],
                     "aside3title" : "Did you know?",
@@ -695,7 +708,7 @@
                         },
                         {
                             "question" : "If my syllabus is 32 pages long, is it really still okay to just paste in to Isidore?",
-                            "answer" : "First, 32 pages seems . . . excessive. You might want to trim it down or choose a smaller font. If your syllabus is longer than average, then we do recommend adding multiple expandable/collapsible sections to the Syllabus tool (such as \"University Policies\", \"Course Information\", \"Schedule\", and \"Grading Policy\") so students can quickly jump to the sections they need most."
+                            "answer" : "First, 32 pages seems . . . excessive. You might want to trim it down or choose a smaller font. If your syllabus is longer than average, then we do recommend adding multiple expandable/collapsible sections to the Syllabus tool (such as 'University Policies', 'Course Information', 'Schedule', and 'Grading Policy') so students can quickly jump to the sections they need most."
                         },
                         {
                             "question" : "Where can I find imoprtant University dates while I'm making my course schedule?",
@@ -713,36 +726,36 @@
                     "title": "Announcements",
                     "anchor": "announcements",
                     "icon" : "fa-bullhorn",
-                    "description": "Basics about the announcements tool.",
+                    "description": "More effective than yelling over students as they walk out the door.",
                     "videos" : [
                         {
                             "title" : "Isidore 101: Announcements",
                             "warpwire" : "1_kAAA"
                         }
                     ],
-                    "overviewcontent" : "Use the Announcements tool to post messages for your students. You may attach document and add links. By default, Announcements are also sent to students’ emails, so you can be sure they see the message.",
+                    "overviewcontent" : "Use the Announcements tool to post messages for your students. You may attach documents and add links. By default, Announcements are also sent to students’ emails, so you can be *sure they see the message.     *seeing the message still not guaranteed.",
                     "section1title" : "Step 1: See It, Learn It",
-                    "section1content" : "Watch this 1 minute video to see how to get started with the Announcements tool.",
+                    "section1content" : "No students were harmed by yelling in the making of this 1 minute video.",
                     "section2title" : "Step 2: Try It",
                     "section2content" : "It's now time for you to try posting your own Announcement.",
-                    "section2prereq" : "To complete this step, you must first create a test site as instructed in the Creating Course Sites lesson..",
+                    "section2prereq" : "To complete this step, you must either have an existing site that you can use, or you must first create a test site as instructed in the Creating Course Sites lesson.",
                     "section2steps" : [
                         {
                             "step" : "Log in to Isidore."
                         },
                         {
-                            "step" : "Navigate to your testing site."
+                            "step" : "Navigate to your testsite."
                         },
                         {
-                            "step" : "Post an Announcement."
+                            "step" : "Post an Announcement. WARNING: if you are testing this feature in a live course site, your students will receive an email."
                         }
                     ],
-                    "section3title" : "Step 3: Test your knowledge",
-                    "section3content" : "Now that you've practiced posting an Announcement . . .",
+                    "section3title" : "Step 3: Test Your Knowledge",
+                    "section3content" : "We hope you studied up for this one. It's a toughie.",
                     "lti" : [
                         {
                             "header": "Quick Quiz",
-                            "description": "Take the three question quiz below to test your Isidore knowledge.",
+                            "description": "Take the three question quiz below to establish your Announcements experitse.",
                             "icon": "fa-list-ol",
                             "title": "Announcements Quiz",
                             "launch": "mod/learnquiz/index.php?quiz=101_announcements",
@@ -756,37 +769,22 @@
                             "references" : [
                                 {
                                     "icon" : "fa-external-link",
-                                    "title" : "Full Announcements Tool Help",
+                                    "title" : "Announcements Help",
                                     "href" : "https://ewiki.udayton.edu/isidore/Announcements"
                                 }
                             ]
-                        },
-                        {
-                            "header" : "Related Lessons",
-                            "references" : [
-                                {
-                                    "icon" : "fa-bullhorn",
-                                    "title" : "Course Communication",
-                                    "href" : "#"
-                                },
-                                {
-                                    "icon" : "fa-inbox",
-                                    "title" : "Messages Tool",
-                                    "href" : "#"
-                                }
-                            ]
-                        },
+                        },         
                         {
                             "header" : "Additional Articles",
                             "references" : [
                                 {
                                     "icon" : "fa-external-link",
-                                    "title" : "When you communicate with students, tone matters",
+                                    "title" : "When You Communicate with Students, Tone Matters",
                                     "href" : "https://www.chronicle.com/article/When-You-Communicate-With/244756"
                                 },
                                 {
                                     "icon" : "fa-external-link",
-                                    "title" : "The need for balanced feedback",
+                                    "title" : "The Need for Balanced Feedback",
                                     "href" : "https://www.facultyfocus.com/articles/online-education/the-need-for-balanced-feedback/"
                                 }
                             ]
