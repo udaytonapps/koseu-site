@@ -41,7 +41,7 @@ $OUTPUT->header();
         border-bottom-color: transparent;
         opacity: 0.6;
     }
-    .popover-content {
+    .nav-popover+.popover .popover-content {
         font-style: italic;
         color: var(--text-light);
         width: max-content;
