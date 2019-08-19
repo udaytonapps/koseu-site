@@ -530,33 +530,41 @@
                             "warpwire" : "ARIBAA"
                         }
                     ],
-                    "overviewcontent" : "Use the Announcements tool to post messages for your students. You may attach document and add links. By default, Announcements are also sent to students’ emails, so you can be sure they see the message.",
+                    "overviewcontent" : "We beg you. Do something, ANYTHING, with your Overview. Please add something other than the catalog description of the class.",
                     "section1title" : "Step 1: See It, Learn It",
-                    "section1content" : "Watch this 1 minute video to see how to get started with the Announcements tool.",
+                    "section1content" : "See some examples of different faculty members' Overviews in the 1 minute video below.",
                     "section2title" : "Step 2: Try It",
-                    "section2content" : "It's now time for you to try posting your own Announcement.",
-                    "section2prereq" : "To complete this step, you must first create a test site as instructed in the Creating Course Sites lesson..",
+                    "section2content" : "Have a creative idea for an Overview? Show us!",
+                    "section2prereq" : "To complete this step, you must either have an existing site that you can use, or you must first create a test site as instructed in the Creating Course Sites lesson.",
                     "section2steps" : [
                         {
                             "step" : "Log in to Isidore."
                         },
                         {
-                            "step" : "Navigate to your testing site."
+                            "step" : "Navigate to the site where you'll add your cool Overview."
                         },
                         {
-                            "step" : "Post an Announcement."
+                            "step" : "Create the best landing page in Isidore."
                         }
                     ],
                     "section3title" : "Step 3: Test your knowledge",
-                    "section3content" : "Now that you've practiced posting an Announcement . . .",
+                    "section3content" : "We believe you now know everything required to make your Overview pop. Well, we'll believe you know everything AFTER you pass the quiz.",
                     "lti" : [
                         {
                             "header": "Quick Quiz",
-                            "description": "Take the three question quiz below to test your Isidore knowledge.",
+                            "description": "Take the three question quiz below.",
                             "icon": "fa-list-ol",
                             "title": "Overview Quiz",
                             "launch": "mod/learnquiz/index.php?quiz=101_overview",
                             "resource_link_id": "101_overview"
+                        },
+                        {
+                            "header": "Quick Write",
+                            "description": "Make your Overview page something different than the course descrpition, then use the link below to submit your site to eLearning for credit.",
+                            "icon": "fa-pencil-square",
+                            "title": "Review my Overview",
+                            "launch": "mod/modquickwrite/",
+                            "resource_link_id": "bn_sitecreation2"
                         }
                     ],
                     "aside1title" : "Additional Resources",
