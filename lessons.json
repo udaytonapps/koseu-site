@@ -712,7 +712,7 @@
                         },
                         {
                             "question" : "Where can I find imoprtant University dates while I'm making my course schedule?",
-                            "answer" : "<a href=\"https://udayton.edu/fss/important_dates/academic_calendar.php\" target=\"_blank\">UD's Academic Calendars</a>."
+                            "answer" : "UD's Academic Calendar at calendar.udayton.edu."
                         },
                         {
                             "question" : "Okay, I get the point, no Word Docs. I don't want to fool around with formatting though, so how do I save it as a PDF?",
@@ -747,7 +747,7 @@
                             "step" : "Navigate to your testsite."
                         },
                         {
-                            "step" : "Post an Announcement. WARNING: if you are testing this feature in a live course site, your students will receive an email."
+                            "step" : "Post an Announcement. WARNING: if you are testing this feature in a live course site that is published, your students will receive an email."
                         }
                     ],
                     "section3title" : "Step 3: Test Your Knowledge",
@@ -831,29 +831,15 @@
                             "warpwire" : "ZRIBAA"
                         }
                     ],
-                    "overviewcontent" : "Use the Announcements tool to post messages for your students. You may attach document and add links. By default, Announcements are also sent to students’ emails, so you can be sure they see the message.",
+                    "overviewcontent" : "The Resources tool is a required tool in your Isidore site, meaning you can't delete it. This is because any attachment, file, or cat picture you add to your site is actually stored in the Resources tool, whether you know it or not. While Resources isn't the only tool you can use to share course materials with your students, it's the easiest to get started with.",
                     "section1title" : "Step 1: See It, Learn It",
-                    "section1content" : "Watch this 1 minute video to see how to get started with the Announcements tool.",
-                    "section2title" : "Step 2: Try It",
-                    "section2content" : "It's now time for you to try posting your own Announcement.",
-                    "section2prereq" : "To complete this step, you must first create a test site as instructed in the Creating Course Sites lesson..",
-                    "section2steps" : [
-                        {
-                            "step" : "Log in to Isidore."
-                        },
-                        {
-                            "step" : "Navigate to your testing site."
-                        },
-                        {
-                            "step" : "Post an Announcement."
-                        }
-                    ],
-                    "section3title" : "Step 3: Test your knowledge",
-                    "section3content" : "Now that you've practiced posting an Announcement . . .",
+                    "section1content" : "Watch the 1 minute video overview of Resources tool below to learn the answer to the question your students will ask you the most.",
+                    "section2title" : "Step 2: Test Your Knowledge",
+                    "section2content" : "You now have the power to distribute course resources. Use your power wisely.",
                      "lti" : [
                          {
                              "header": "Quick Quiz",
-                             "description": "Take the three question quiz below to test your Isidore knowledge.",
+                             "description": "You know the drill! Answer 3 questions to prove you watched the video.",
                              "icon": "fa-list-ol",
                              "title": "Resources Quiz",
                              "launch": "mod/learnquiz/index.php?quiz=101_resources",
@@ -867,8 +853,8 @@
                             "references" : [
                                 {
                                     "icon" : "fa-external-link",
-                                    "title" : "Full Announcements Tool Help",
-                                    "href" : "https://ewiki.udayton.edu/isidore/Announcements"
+                                    "title" : "Resources Help",
+                                    "href" : "https://ewiki.udayton.edu/isidore/Resources"
                                 }
                             ]
                         },
@@ -892,13 +878,8 @@
                             "references" : [
                                 {
                                     "icon" : "fa-external-link",
-                                    "title" : "When you communicate with students, tone matters",
-                                    "href" : "https://www.chronicle.com/article/When-You-Communicate-With/244756"
-                                },
-                                {
-                                    "icon" : "fa-external-link",
-                                    "title" : "The need for balanced feedback",
-                                    "href" : "https://www.facultyfocus.com/articles/online-education/the-need-for-balanced-feedback/"
+                                    "title" : "UD Students Answer: What is the Single Most Important Thing an Instructor can do in Isidore?",
+                                    "href" : "https://udayton.edu/0/elearning/learn/studentsurveyresponses.pdf"
                                 }
                             ]
                         }
@@ -906,32 +887,20 @@
                     "aside2title" : "Potential Questions You May Have",
                     "aside2questions" : [
                         {
-                            "question" : "Where do students see Announcements?",
-                            "answer" : "Students have the option to see Announcements in multiple locations. By default, they can see links to all of their Announcements on their Isidore homepage. They would also see the links to the Announcements on your course site homepage. If you didn’t change the default behavior, students would receive an email notification including the text of the announcement."
+                            "question" : "I'm already using the Lessons tool to deliver course resources. Should I also make them organized in Resources?",
+                            "answer" : "No. We recommend that instructors use Resources OR Lessons - but never both. If you have everything all nicely organized in Lessons, we suggest hiding the Resources tool so students won't be looking in multiple locations for the materials."
                         },
                         {
-                            "question" : "Do Announcements work if the site is unpublished?",
-                            "answer" : "Not really. The Announcement will be posted, but an email will not be delivered to students’ inboxes, and they would have no way of seeing the Announcement until the site is published."
+                            "question" : "Is there a better way to deliver course resources than this tool?",
+                            "answer" : "The Lessons tool allows you to organize your Resources in more of a webpage format. In Lessons, you can add textual context above each resource, add images, add learning activities next to the resources, and more. However, the learning curve is higher with Lessons, so if you're just getting started, you should stick to Resources for the time being."
                         },
                         {
-                            "question" : "Will I receive an email notification about the Announcement as the instructor?",
-                            "answer" : "Yes. Other instructors in your site, if any,  will also receive the email notification."
-                        },
-                        {
-                            "question" : "Can I schedule Announcements?",
-                            "answer" : "You bet! Just choose the 'Specify Dates' option after writing the text for your Announcement. Pick the dates the Announcement should be visible, and it will appear (and disappear) on the selected dates."
-                        },
-                        {
-                            "question" : "Can I save an Announcement as a draft?",
-                            "answer" : "Definitely. Choose the 'Hide' option after writing your Announcement, then press the Post Announcement button. It will be hidden until you edit the Announcement and change that setting to Show."
-                        },
-                        {
-                            "question" : "Can I delete an Announcement?",
-                            "answer" : "Yes - but you cannot delete the email notification from students' inboxes once sent, so proofread before you post!"
+                            "question" : "Can I add Resources that are hidden from students?",
+                            "answer" : "Yes. We suggest create a folder in Resources in which you will store resources that students shouldn't see. Next to the folder, click on Actions -> Edit Details -> Hide this folder and its contents -> Update. BUT WE ARE WARNING YOU NOW. BE. CAREFUL. Instructors HAVE added test keys then mistakeningly made the folder visible to students, and students got the answers to exams. Consider yourself warned."
                         }
                     ],
                     "aside3title" : "Did you know?",
-                    "aside3content" : "432,000 Announcements have been posted in Isidore since 2008. Y'all do a lot of announcing."
+                    "aside3content" : "If you post an article in your Resources tool that looks like this: 'http://rave.ohiolink.edu/ejournals/article/345270862' -- your students (and YOU) have literally no idea what that is except that it's probably a journal article of some kind. You can rename the resources you post within Resources by clicking on Actions -> Edit Details -> Display Name. Please do this!!"
                 },
                  {
                     "title": "Roster",
