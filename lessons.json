@@ -906,36 +906,21 @@
                     "title": "Roster",
                     "anchor": "roster",
                     "icon" : "fa-id-card",
-                    "description": "Get to know your students.",
+                    "description": "Get to know your students. Well, at least their faces.",
                     "videos" : [
                         {
                             "title" : "Isidore 101: Roster",
                             "warpwire" : "exEBAA"
                         }
                     ],
-                    "overviewcontent" : "Use the Announcements tool to post messages for your students. You may attach document and add links. By default, Announcements are also sent to students’ emails, so you can be sure they see the message.",
+                    "overviewcontent" : "Your students will probably think you're a nerd if you come in on the first day and have all their names memorized. But with the roster tool, you could totally do this.",
                     "section1title" : "Step 1: See It, Learn It",
-                    "section1content" : "Watch this 1 minute video to see how to get started with the Announcements tool.",
-                    "section2title" : "Step 2: Try It",
-                    "section2content" : "It's now time for you to try posting your own Announcement.",
-                    "section2prereq" : "To complete this step, you must first create a test site as instructed in the Creating Course Sites lesson..",
-                    "section2steps" : [
-                        {
-                            "step" : "Log in to Isidore."
-                        },
-                        {
-                            "step" : "Navigate to your testing site."
-                        },
-                        {
-                            "step" : "Post an Announcement."
-                        }
-                    ],
-                    "section3title" : "Step 3: Test your knowledge",
-                    "section3content" : "Now that you've practiced posting an Announcement . . .",
+                    "section1content" : "There's more to the Roster tool than just seeing their faces. You can also see their academic years, majors, minors. You can also see who the honors students are, so you know who will be 'pulling a Hermione' during your lectures.",
+                    "section3title" : "Step 2: Test Your Knowledge",
                      "lti" : [
                          {
                              "header": "Quick Quiz",
-                             "description": "Take the three question quiz below to test your Isidore knowledge.",
+                             "description": "This quiz is easier than memorizing all your students' names, but you should probably do that, too.",
                              "icon": "fa-list-ol",
                              "title": "Roster Quiz",
                              "launch": "mod/learnquiz/index.php?quiz=101_roster",
@@ -949,24 +934,20 @@
                             "references" : [
                                 {
                                     "icon" : "fa-external-link",
-                                    "title" : "Full Announcements Tool Help",
-                                    "href" : "https://ewiki.udayton.edu/isidore/Announcements"
-                                }
-                            ]
-                        },
-                        {
-                            "header" : "Related Lessons",
-                            "references" : [
-                                {
-                                    "icon" : "fa-bullhorn",
-                                    "title" : "Course Communication",
-                                    "href" : "#"
+                                    "title" : "Roster Help",
+                                    "href" : "https://ewiki.udayton.edu/isidore/Roster"
                                 },
                                 {
-                                    "icon" : "fa-inbox",
-                                    "title" : "Messages Tool",
-                                    "href" : "#"
+                                    "icon" : "fa-external-link",
+                                    "title" : "Record Name Pronunciation",
+                                    "href": "https://ewiki.udayton.edu/isidore/Record_the_pronunciation_of_my_name"
+                                },
+                                {
+                                    "icon" : "fa-external-link",
+                                    "title" : "Changing Your Profile Picture",
+                                    "href": "https://ewiki.udayton.edu/isidore/View_Profile#Changing_your_Profile_Picture"
                                 }
+                                    
                             ]
                         },
                         {
@@ -974,13 +955,8 @@
                             "references" : [
                                 {
                                     "icon" : "fa-external-link",
-                                    "title" : "When you communicate with students, tone matters",
-                                    "href" : "https://www.chronicle.com/article/When-You-Communicate-With/244756"
-                                },
-                                {
-                                    "icon" : "fa-external-link",
-                                    "title" : "The need for balanced feedback",
-                                    "href" : "https://www.facultyfocus.com/articles/online-education/the-need-for-balanced-feedback/"
+                                    "title" : "Pronouncing Students' Names Correctly Should be a Big Deal",
+                                    "href" : "https://www.edweek.org/tm/articles/2017/11/15/pronouncing-students-names-correctly-should-be-a.html"
                                 }
                             ]
                         }
@@ -988,32 +964,25 @@
                     "aside2title" : "Potential Questions You May Have",
                     "aside2questions" : [
                         {
-                            "question" : "Where do students see Announcements?",
-                            "answer" : "Students have the option to see Announcements in multiple locations. By default, they can see links to all of their Announcements on their Isidore homepage. They would also see the links to the Announcements on your course site homepage. If you didn’t change the default behavior, students would receive an email notification including the text of the announcement."
+                            "question" : "What can students see in the Roster tool?",
+                            "answer" : "Students will see a list of their peers and instructors, as well as their name recordings. They CANNOT see their peers' profile pictures unless the other students have opted-in to sharing their pictures."
                         },
                         {
-                            "question" : "Do Announcements work if the site is unpublished?",
-                            "answer" : "Not really. The Announcement will be posted, but an email will not be delivered to students’ inboxes, and they would have no way of seeing the Announcement until the site is published."
+                            "question" : "My students haven't recorded their name pronunciations. Can I make them do so?",
+                            "answer" : "No. But I'd bet they would respond favorably to a bribe in the form of a bonus point or two."
                         },
                         {
-                            "question" : "Will I receive an email notification about the Announcement as the instructor?",
-                            "answer" : "Yes. Other instructors in your site, if any,  will also receive the email notification."
+                            "question": "What the heck do these major/minor abbreviations stand for?",
+                            "answer" : "I'm sorry this isn't a link you can click, but here is the most complete list of majors that we've come up with. It seems like new ones are always being made, so we may be missing some. https://udayton.edu/0/elearning/learn/studentsurveyresponses.pdf"
+                        {
+                            "question" : "What is a 'pulling a Hermione'?",
+                            "answer" : "A reference to a terribly bright literary character who often participates in class. Also, you should read Harry Potter!"
                         },
                         {
-                            "question" : "Can I schedule Announcements?",
-                            "answer" : "You bet! Just choose the 'Specify Dates' option after writing the text for your Announcement. Pick the dates the Announcement should be visible, and it will appear (and disappear) on the selected dates."
-                        },
-                        {
-                            "question" : "Can I save an Announcement as a draft?",
-                            "answer" : "Definitely. Choose the 'Hide' option after writing your Announcement, then press the Post Announcement button. It will be hidden until you edit the Announcement and change that setting to Show."
-                        },
-                        {
-                            "question" : "Can I delete an Announcement?",
-                            "answer" : "Yes - but you cannot delete the email notification from students' inboxes once sent, so proofread before you post!"
+                            "question" : "Because of the spelling of 'pronounce,' shouldn't 'pronunciation' really be spelled 'pronounciation'? With a 'u'?",
+                            "answer" : "100%. After typing this incorrectly ~47 times throughout this lesson, the author would like if you got on board to sign a petition to change the spelling of this word."
                         }
                     ],
-                    "aside3title" : "Did you know?",
-                    "aside3content" : "432,000 Announcements have been posted in Isidore since 2008. Y'all do a lot of announcing."
                 },
                  {
                     "title": "Attendance",
