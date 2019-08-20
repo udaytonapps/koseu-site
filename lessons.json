@@ -996,12 +996,12 @@
                             "warpwire" : "qxIBAA"
                         }
                     ],
-                    "overviewcontent" : "Use the Announcements tool to post messages for your students. You may attach document and add links. By default, Announcements are also sent to students’ emails, so you can be sure they see the message.",
+                    "overviewcontent" : "In my day, I had to track my own attendance by marking tallies on the back of my agenda. This was possibly not a foolproof system. My, my how times have changed. Record your students' attendance in Isidore so there are no discrepencies between your tracking and their tracking..",
                     "section1title" : "Step 1: See It, Learn It",
-                    "section1content" : "Watch this 1 minute video to see how to get started with the Announcements tool.",
+                    "section1content" : "Taking Attendance in Isidore is a choose-your-own adventure. Watch the 1 minute video to see all the adventure options. 'Adventure' is overselling the experience, but hey, at least you have options.",
                     "section2title" : "Step 2: Try It",
-                    "section2content" : "It's now time for you to try posting your own Announcement.",
-                    "section2prereq" : "To complete this step, you must first create a test site as instructed in the Creating Course Sites lesson..",
+                    "section2content" : "Go print a sign-in sheet!",
+                    "section2prereq" : "To complete this step, you must either have an existing site that you can use, or you must first create a test site as instructed in the Creating Course Sites lesson.",
                     "section2steps" : [
                         {
                             "step" : "Log in to Isidore."
@@ -1010,15 +1010,17 @@
                             "step" : "Navigate to your testing site."
                         },
                         {
-                            "step" : "Post an Announcement."
+                            "step" : "Create an attendance item."
+                        },
+                        {
+                            "step" : "Figure the rest out for yourself. ;)"
                         }
                     ],
-                    "section3title" : "Step 3: Test your knowledge",
-                    "section3content" : "Now that you've practiced posting an Announcement . . .",
+                    "section3title" : "Step 3: Test Your Knowledge",
                      "lti" : [
                          {
                              "header": "Quick Quiz",
-                             "description": "Take the three question quiz below to test your Isidore knowledge.",
+                             "description": "You might be tempted to skip this quiz, but you shouldn't. There's a big time-saving tip in it.",
                              "icon": "fa-list-ol",
                              "title": "Attendance Quiz",
                              "launch": "mod/learnquiz/index.php?quiz=101_attendance",
@@ -1032,23 +1034,8 @@
                             "references" : [
                                 {
                                     "icon" : "fa-external-link",
-                                    "title" : "Full Announcements Tool Help",
-                                    "href" : "https://ewiki.udayton.edu/isidore/Announcements"
-                                }
-                            ]
-                        },
-                        {
-                            "header" : "Related Lessons",
-                            "references" : [
-                                {
-                                    "icon" : "fa-bullhorn",
-                                    "title" : "Course Communication",
-                                    "href" : "#"
-                                },
-                                {
-                                    "icon" : "fa-inbox",
-                                    "title" : "Messages Tool",
-                                    "href" : "#"
+                                    "title" : "Attendance Help",
+                                    "href" : "https://ewiki.udayton.edu/isidore/Attendance"
                                 }
                             ]
                         },
@@ -1057,13 +1044,13 @@
                             "references" : [
                                 {
                                     "icon" : "fa-external-link",
-                                    "title" : "When you communicate with students, tone matters",
-                                    "href" : "https://www.chronicle.com/article/When-You-Communicate-With/244756"
+                                    "title" : "Why I Don't Take Attendance from The Chronicle",
+                                    "href" : "https://www.chronicle.com/article/Why-I-Don-t-Take-Attendance/241428"
                                 },
                                 {
                                     "icon" : "fa-external-link",
-                                    "title" : "The need for balanced feedback",
-                                    "href" : "https://www.facultyfocus.com/articles/online-education/the-need-for-balanced-feedback/"
+                                    "title" : "Class Attendance in College: A Review of the Relationship of Class Attendance with Grades",
+                                    "href" : "https://journals.sagepub.com/doi/full/10.3102/0034654310362998"
                                 }
                             ]
                         }
@@ -1071,32 +1058,28 @@
                     "aside2title" : "Potential Questions You May Have",
                     "aside2questions" : [
                         {
-                            "question" : "Where do students see Announcements?",
-                            "answer" : "Students have the option to see Announcements in multiple locations. By default, they can see links to all of their Announcements on their Isidore homepage. They would also see the links to the Announcements on your course site homepage. If you didn’t change the default behavior, students would receive an email notification including the text of the announcement."
+                            "question" : "I have 83 students in a single Isidore site. Is there a faster way to take attendance than clicking on each student?",
+                            "answer" : "Use the 'Mark Displayed Students As Present' feature to mark all students as present first. Then go back and make adjustments for the absent students. Nb: You might want to do the opposite of this on St. Patrick's Day . . ."
                         },
                         {
-                            "question" : "Do Announcements work if the site is unpublished?",
-                            "answer" : "Not really. The Announcement will be posted, but an email will not be delivered to students’ inboxes, and they would have no way of seeing the Announcement until the site is published."
+                            "question" : "I don't care if my students are late or if they left early. Can I get rid of those statuses?",
+                            "answer" : "Yes. Click on the 'Settings' tab at the top of the Attendance tool. Deselect any statuses you don't want to see and press 'Save Settings'."
                         },
                         {
-                            "question" : "Will I receive an email notification about the Announcement as the instructor?",
-                            "answer" : "Yes. Other instructors in your site, if any,  will also receive the email notification."
+                            "question" : "Do I have to take attendance?",
+                            "answer" : "Attendance is required for first-year students, so yes, please track their attendance. Otherwise, it's up to you. If you have a grade associated with attendance, though, you should keep track just so there are no grade complaints at the end of the semester."
                         },
                         {
-                            "question" : "Can I schedule Announcements?",
-                            "answer" : "You bet! Just choose the 'Specify Dates' option after writing the text for your Announcement. Pick the dates the Announcement should be visible, and it will appear (and disappear) on the selected dates."
+                            "question" : "Can I set up grading with Attendance?",
+                            "answer" : "Visit the 'Grading' tab at the top of the Attendance tool to set up grading for Attendance. If you want to define rules (such as if a student misses 3 classes, take 15 points off their attendance grade) for attendance, you can also set those up. If you get stuck with those, give us a call. It's a lot of logic."
                         },
                         {
                             "question" : "Can I save an Announcement as a draft?",
                             "answer" : "Definitely. Choose the 'Hide' option after writing your Announcement, then press the Post Announcement button. It will be hidden until you edit the Announcement and change that setting to Show."
-                        },
-                        {
-                            "question" : "Can I delete an Announcement?",
-                            "answer" : "Yes - but you cannot delete the email notification from students' inboxes once sent, so proofread before you post!"
                         }
                     ],
                     "aside3title" : "Did you know?",
-                    "aside3content" : "432,000 Announcements have been posted in Isidore since 2008. Y'all do a lot of announcing."
+                    "aside3content" : "We give you the freedom to name your attendance items ANYTHING you want. You all take that freedom and name most of your attendance items, 'Attendance.'"
                 },
                  {
                     "title": "Calendar",
@@ -1109,9 +1092,9 @@
                             "warpwire" : "pxIBAA"
                         }
                     ],
-                    "overviewcontent" : "Use the Announcements tool to post messages for your students. You may attach document and add links. By default, Announcements are also sent to students’ emails, so you can be sure they see the message.",
+                    "overviewcontent" : "Okay, now that you've added the tool to your course site, do nothing else. Don't touch.",
                     "section1title" : "Step 1: See It, Learn It",
-                    "section1content" : "Watch this 1 minute video to see how to get started with the Announcements tool.",
+                    "section1content" : "Watch this 1 minute video to see all the nothing you should do with this tool.",
                     "section2title" : "Step 2: Try It",
                     "section2content" : "It's now time for you to try posting your own Announcement.",
                     "section2prereq" : "To complete this step, you must first create a test site as instructed in the Creating Course Sites lesson..",
