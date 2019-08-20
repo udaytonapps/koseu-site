@@ -973,7 +973,8 @@
                         },
                         {
                             "question": "What the heck do these major/minor abbreviations stand for?",
-                            "answer" : "I'm sorry this isn't a link you can click, but here is the most complete list of majors that we've come up with. It seems like new ones are always being made, so we may be missing some. https://udayton.edu/0/elearning/learn/studentsurveyresponses.pdf"
+                            "answer": "I'm sorry this isn't a link you can click, but here is the most complete list of majors that we've come up with. It seems like new ones are always being made, so we may be missing some. https://udayton.edu/0/elearning/learn/studentsurveyresponses.pdf"
+                        },
                         {
                             "question" : "What is a 'pulling a Hermione'?",
                             "answer" : "A reference to a terribly bright literary character who often participates in class. Also, you should read Harry Potter!"
@@ -982,7 +983,7 @@
                             "question" : "Because of the spelling of 'pronounce,' shouldn't 'pronunciation' really be spelled 'pronounciation'? With a 'u'?",
                             "answer" : "100%. After typing this incorrectly ~47 times throughout this lesson, the author would like if you got on board to sign a petition to change the spelling of this word."
                         }
-                    ],
+                    ]
                 },
                  {
                     "title": "Attendance",
