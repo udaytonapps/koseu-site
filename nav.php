@@ -17,6 +17,10 @@ if ( $loggedin ) {
     if ( isset($CFG->badge_encrypt_password) && $CFG->badge_encrypt_password ) {
         $set->addLeft('Badges', $R.'badges');
     }
+
+    if ( isset($_SESSION["admin"])) {
+        $set->addLeft('Badge Admin', $R.'badgeadmin');
+    }
 } else {
     $set->addLeft('Assignments', 'javascript:void(0);', false, true, 'Log in to access the Assignments page');
 
