@@ -418,7 +418,7 @@
                         },
                         {
                             "question": "Oops! I goofed. How can I delete the site that I made?",
-                            "answer": "On Isidore homepage, click on the \"My Sites\" tool. Check the box next to the site you want to delete, then press the \"Delete\" button."
+                            "answer": "On Isidore homepage, click on the 'My Sites' tool. Check the box next to the site you want to delete, then press the 'Delete' button. On the next page, click the 'Mark for deletion' button."
                         }    
                     ],
                     "aside3title": "Did you know?",
@@ -444,7 +444,7 @@
                     "videos" : [
                         {
                             "title" : "Isidore 101: Text Editor",
-                            "warpwire" : "pRIBAA"
+                            "warpwire" : "DxwBAA"
                         }
                     ],
                     "overviewcontent" : "We're starting out with something that's not actually a definitive \"tool\" in Isidore, so sorry for the trick on this one. The rich-text editor, though, is a really important place to start because it has features that we'd hate for you to miss. These features will help you make your content accessible for all learners, as well as link your material to UD's Catholic heritage. We also think it's important to add your personality and YOUR expert voice whenever possible, so these features will help you do so.",
