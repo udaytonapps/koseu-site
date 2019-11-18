@@ -78,6 +78,39 @@
                 "101_attendance",
                 "101_calendar"
             ]
+        },
+        {
+            "title": "Header ",
+            "description": "Headers are important in soccer but this badge is awarded to those that know that headers are important in online content as well. Alt text and closed captions are important as well, but they are not used quite as often in soccer. Well, you could probably find some closed captions on a televised soccer match. ",
+            "image": "SoccerBall.png",
+            "anchor": "headerbadge",
+            "threshold": "1.0",
+            "assignments": [
+                "acc_visual",
+                "acc_auditory",
+                "acc_cog",
+                "acc_files",
+                "acc_materials"
+            ]
+        },
+        {
+            "title": "Creative Caring",
+            "description": "The CC symbol stands for Closed Captions, but those that earn this badge understand that accessibility is also about Creative Caring. Instructors do not need to suppress their creativity to keep their content accessible. In fact, universal design tends to be best for everyone. ",
+            "image": "CC-Open.png",
+            "anchor": "creativecaring",
+            "threshold": "1.0",
+            "assignments": [
+                "acc_visual",
+                "acc_auditory",
+                "acc_cog",
+                "acc_files",
+                "acc_materials",
+                "acc_visual_qw",
+                "acc_auditory_qw",
+                "acc_cog_qw",
+                "acc_files_qw",
+                "acc_materials_qw"
+            ]
         }
     ],
     "modules": [
@@ -1121,6 +1154,474 @@
                     ],
                     "aside3title" : "How do you describe someone who knows a lot about tech stuff? ",
                     "aside3content" : "Tech-knowledge-y!"
+                }
+            ]
+        },
+        {
+            "title": "Accessibility",
+            "description": "These lessons introduce the concepts of digital accessibility in the context of teaching here at the University of Dayton. There are Additional Resources provided to gain a very complete understanding of how to make all of your course content accessible.",
+
+            "time": "Est. 35 min",
+            "anchor": "accessibility",
+            "video": {
+                "title": "Accessibility Teaser",
+                "warpwire": "aScBAA"
+            },
+            "lessons": [
+                {
+                    "title": "Visual Disabilities",
+                    "anchor": "visualdisabilities",
+                    "icon": "fa-eye",
+                    "description": "How can you make your content accessible for students with visual impairments?",
+                    "videos": [
+                        {
+                            "title": "Accessibility: Visual Disabilities",
+                            "warpwire": "iyYBAA"
+                        }
+                    ],
+                    "overviewcontent": "Students with profound visual impairments use screen reading software to read files and web pages. How does this inform the way you construct and organize your content? And how does color-blindness affect your use of color?",
+                    "section1title": "Step 1",
+                    "section1content": "This video explains the essentials for producing content that is accessible to students with visual impairments.",
+                    "section2title": "Step 2: Test Your Knowledge",
+                    "section2content": "In addition to watching the video, please look through the Additional Resources. Then you will be ready for the following assessments.",
+                    "lti": [
+                        {
+                            "header": "Quick Quiz",
+                            "description": "The following quiz will measure your understanding of the essential elements described in the video.",
+                            "icon": "fa-list-ol",
+                            "title": "Visual Disabilities Quiz",
+                            "launch": "mod/learnquiz/index.php?quiz=acc_visual",
+                            "resource_link_id": "acc_visual"
+                        },
+                        {
+                            "header": "Quick Write",
+                            "description": "Complete the following assignment.",
+                            "icon": "fa-pencil-square",
+                            "title": "Visual Disabilities Assignment",
+                            "launch": "mod/modquickwrite/",
+                            "resource_link_id": "acc_visual_qw"
+                        }
+                    ],
+                    "aside1title": "Additional Resources",
+                    "aside1content": [
+                        {
+                            "header": "Resources",
+                            "references": [
+                                {
+                                    "icon": "fa-play-circle",
+                                    "title": "Robert Spangler Interview Video",
+                                    "href": "https://udayton.warpwire.com/w/gSoBAA/"
+                                },
+                                {
+                                    "icon": "fa-external-link",
+                                    "title": "Designing for Visual Disabilities",
+                                    "href": "https://webaim.org/articles/visual/"
+                                },
+                                {
+                                    "icon": "fa-external-link",
+                                    "title": "Introduction to Web Accessibility",
+                                    "href": "https://webaim.org/intro/"
+                                }
+                            ]
+                        },
+                        {
+                            "header": "Related Lessons",
+                            "references": [
+                                {
+                                    "icon": "fa-sign-in-alt",
+                                    "title": "Isidore Text Editor",
+                                    "href": "/lessons/texteditor"
+                                }
+                            ]
+                        }
+                    ],
+                    "aside2title": "Potential Questions You May Have",
+                    "aside2questions": [
+                        {
+                            "question": "How detailed should I be when writing alt text for an image?",
+                            "answer": "Be brief, but be sure to describe the essential elements of the image. If the graphic is supposed to make the audience think or feel something, be sure your alt text leads that direction."
+                        },
+                        {
+                            "question": "Should I always start with H1?",
+                            "answer": "This gets tricky. The main thing is that you use header tags. That's 99% of the battle. Often Isidore has existing headers already in place. In most cases in Isidore, it's recommended you start with H2."
+                        }
+                    ],
+                    "aside3title": "Did you know?",
+                    "aside3content": "The Office of eLearning has invited expert screen-reader users to evaluate Isidore. Additionally, Isidore is based on the open source LMS Sakai, which has accessibility as crucial foundation of the software."
+                },
+                {
+                    "title": "Auditory Disabilities",
+                    "anchor": "auditorydisabilities",
+                    "icon": "fa-volume",
+                    "description": "How can you make your content accessible for students with hearing impairments?",
+                    "videos": [
+                        {
+                            "title": "Accessibility: Auditory Disabilities",
+                            "warpwire": "JykBAA"
+                        }
+                    ],
+                    "overviewcontent": "Videos have two components, picture and sound. For students with hearing impairments, you will need to ensure there are captions. The bonus is that captions are actually beneficial to many more people. ",
+                    "section1title": "Step 1",
+                    "section1content": "This video explains the essentials for producing content that is accessible to students with hearing impairments, and it also explains how captions can be beneficial to students without hearing impairments.",
+                    "section2title": "Step 2: Test Your Knowledge",
+                    "section2content": "In addition to watching the video, please look through the Additional Resources. Then you will be ready for the following assessments.",
+                    "lti": [
+                        {
+                            "header": "Quick Quiz",
+                            "description": "The following quiz will measure your understanding of the essential elements described in the video.",
+                            "icon": "fa-list-ol",
+                            "title": "Auditory Disabilities Quiz",
+                            "launch": "mod/learnquiz/index.php?quiz=acc_auditory",
+                            "resource_link_id": "acc_auditory"
+                        },
+                        {
+                            "header": "Quick Write",
+                            "description": "Complete the following assignment.",
+                            "icon": "fa-pencil-square",
+                            "title": "Auditory Disabilities Assignment",
+                            "launch": "mod/modquickwrite/",
+                            "resource_link_id": "acc_auditory_qw"
+                        }
+                    ],
+                    "aside1title": "Additional Resources",
+                    "aside1content": [
+                        {
+                            "header": "Resources",
+                            "references": [
+                                {
+                                    "icon": "fa-external-link",
+                                    "title": "WebAIM Captions, Transcripts, and Audio",
+                                    "href": "https://webaim.org/techniques/captions/"
+                                },
+                                {
+                                    "icon": "fa-external-link",
+                                    "title": "How to Locate Captioned Videos and Create Your Own",
+                                    "href": "http://aem.cast.org/about/module-3-new-educator-training.html"
+                                },
+                                {
+                                    "icon": "fa-external-link",
+                                    "title": "National Center on Accessible Educational Materials: Closed Captioning",
+                                    "href": "http://aem.cast.org/about/events/2017/05/beginning-with-the-why-an-introduction-to-closed-captioning.html"
+                                },
+                                {
+                                    "icon": "fa-external-link",
+                                    "title": "UDayton eWiki on Accessibility",
+                                    "href": "https://ewiki.udayton.edu/isidore/Accessibility"
+                                },
+                                {
+                                    "icon": "fa-external-link",
+                                    "title": "Using Warpwire in Isidore",
+                                    "href": "https://ewiki.udayton.edu/isidore/Warpwire_Video"
+                                },
+                                {
+                                    "icon": "fa-external-link",
+                                    "title": "Closed Captions in YouTube",
+                                    "href": "https://support.google.com/youtube/answer/2734705?hl=en"
+                                }
+                            ]
+                        },
+                        {
+                            "header": "Related Lessons",
+                            "references": [
+                                {
+                                    "icon": "fa-sign-in-alt",
+                                    "title": "Isidore Text Editor",
+                                    "href": "/lessons/texteditor"
+                                }
+                            ]
+                        }
+                    ],
+                    "aside2title": "Potential Questions You May Have",
+                    "aside2questions": [
+                        {
+                            "question": "Do I have to pay for captions?",
+                            "answer": "Not if it's for a course. If you upload videos to Warpwire for the purpose of providing instructional content, the Office of eLearning will take care of the captions for you."
+                        },
+                        {
+                            "question": "How can I ensure the captions are accurate?",
+                            "answer": "You are still responsible for the accuracy of the captions, so please check them. If you find inaccuracies please contact the Office of eLearning."
+                        }
+                    ],
+                    "aside3title": "Did you know?",
+                    "aside3content": "Warpwire videos can actually be searched. For example, if you wanted to search a video for the moment the speaker says the word, 'Malaysia', you just click the search icon type 'Malaysia'. This is possible due to the presence of captions."
+                },
+                {
+                    "title": "Cognitive, Motor, & Other Disabilities",
+                    "anchor": "cogdisabilities",
+                    "icon": "fa-hand-pointer",
+                    "description": "How can you make your content accessible for students with cognitive, motor, and other disabilities?",
+                    "videos": [
+                        {
+                            "title": "Accessibility: Other Disabilities",
+                            "warpwire": "iyYBAA"
+                        }
+                    ],
+                    "overviewcontent": "Many of the accessibility techniques you use for people with visual disabilities are helpful for individuals with cognitive and motor disabilities, but putting extra attention on organization and clarity is definitely something you should prioritize.",
+                    "section1title": "Step 1",
+                    "section1content": "This video explains the essentials for producing content that is accessible to students with cognitive and motor disabilities. There also is discussion on content for students with seizure disorders.",
+                    "section2title": "Step 2: Test Your Knowledge",
+                    "section2content": "In addition to watching the video, please look through the Additional Resources. Then you will be ready for the following assessments.",
+                    "lti": [
+                        {
+                            "header": "Quick Quiz",
+                            "description": "The following quiz will measure your understanding of the essential elements described in the video.",
+                            "icon": "fa-list-ol",
+                            "title": "Other Disabilities Quiz",
+                            "launch": "mod/learnquiz/index.php?quiz=acc_cog",
+                            "resource_link_id": "acc_cog"
+                        },
+                        {
+                            "header": "Quick Write",
+                            "description": "Complete the following assignment.",
+                            "icon": "fa-pencil-square",
+                            "title": "Other Disabilities Assignment",
+                            "launch": "mod/modquickwrite/",
+                            "resource_link_id": "acc_cog_qw"
+                        }
+                    ],
+                    "aside1title": "Additional Resources",
+                    "aside1content": [
+                        {
+                            "header": "Resources",
+                            "references": [
+                                {
+                                    "icon": "fa-external-link",
+                                    "title": "WebAIM Cognitive Disabilities",
+                                    "href": "https://webaim.org/articles/cognitive/"
+                                },
+                                {
+                                    "icon": "fa-external-link",
+                                    "title": "WebAIM Motor Disabilities",
+                                    "href": "https://webaim.org/articles/motor/"
+                                },
+                                {
+                                    "icon": "fa-external-link",
+                                    "title": "WebAIM Seizure Disorders",
+                                    "href": "https://webaim.org/articles/seizure/"
+                                },
+                                {
+                                    "icon": "fa-external-link",
+                                    "title": "UDayton eWiki on Accessibility",
+                                    "href": "https://ewiki.udayton.edu/isidore/Accessibility"
+                                }
+                            ]
+                        },
+                        {
+                            "header": "Related Lessons",
+                            "references": [
+                                {
+                                    "icon": "fa-sign-in-alt",
+                                    "title": "Isidore Text Editor",
+                                    "href": "/lessons/texteditor"
+                                }
+                            ]
+                        }
+                    ],
+                    "aside2title": "Potential Questions You May Have",
+                    "aside2questions": [
+                        {
+                            "question": "What if my content is inherently complex?",
+                            "answer": "It's not about how complicated your content is, but rather how clearly you present it. Be organized. Use headers and spacing appropriately."
+                        },
+                        {
+                            "question": "What if a student is lacking in basic study skills?",
+                            "answer": "Direct them to contact the Office of Learning Resources or contact the Student Success Team."
+                        }
+                    ],
+                    "aside3title": "Did you know?",
+                    "aside3content": "A study revealed that simply presenting the same instructions in an easier to read font, caused students to see the tasks as easier. Clarity and organization make a difference."
+                },
+                {
+                    "title": "Accessible Documents",
+                    "anchor": "accessibledocs",
+                    "icon": "fa-file-image",
+                    "description": "How can you make your files, such as Word and Powerpoint, accessible for students with disabilities?",
+                    "videos": [
+                        {
+                            "title": "Accessibility: Accessible Documents",
+                            "warpwire": "iyYBAA"
+                        }
+                    ],
+                    "overviewcontent": "All documents utilized in class must be made available in electronic format to students. This is important not just for students with visual and hearing impairments but for all students who may have academic accommodations for attention issues and processing disorders. This impacts approximately 5-10 percent of students. What steps must you take to ensure that the electronic version is completely accessible?",
+                    "section1title": "Step 1",
+                    "section1content": "This video explains the essentials for delivering accessible files.",
+                    "section2title": "Step 2: Test Your Knowledge",
+                    "section2content": "In addition to watching the video, please look through the Additional Resources. Then you will be ready for the following assessments.",
+                    "lti": [
+                        {
+                            "header": "Quick Quiz",
+                            "description": "The following quiz will measure your understanding of the essential elements described in the video.",
+                            "icon": "fa-list-ol",
+                            "title": "Accessible Documents Quiz",
+                            "launch": "mod/learnquiz/index.php?quiz=acc_files",
+                            "resource_link_id": "acc_files"
+                        },
+                        {
+                            "header": "Quick Write",
+                            "description": "Complete the following assignment.",
+                            "icon": "fa-pencil-square",
+                            "title": "Accessible Documents Assignment",
+                            "launch": "mod/modquickwrite/",
+                            "resource_link_id": "acc_files_qw"
+                        }
+                    ],
+                    "aside1title": "Additional Resources",
+                    "aside1content": [
+                        {
+                            "header": "Resources",
+                            "references": [
+                                {
+                                    "icon": "fa-external-link",
+                                    "title": "Sensus Access Accessible Document Conversion",
+                                    "href": "https://udayton.edu/ltc/learningresources/disability/sensus-access-instructions.php"
+                                },
+                                {
+                                    "icon": "fa-external-link",
+                                    "title": "Microsoft Word Training on Accessibility in Word",
+                                    "href": "https://support.office.com/en-us/article/make-your-word-documents-accessible-to-people-with-disabilities-d9bf3683-87ac-47ea-b91a-78dcacb3c66d#bkmk_winlinksscreentips"
+                                },
+                                {
+                                    "icon": "fa-external-link",
+                                    "title": "Microsoft Word Training on Accessibility in PowerPoint",
+                                    "href": "https://support.office.com/en-us/article/make-your-powerpoint-presentations-accessible-to-people-with-disabilities-6f7772b2-2f33-4bd2-8ca7-dae3b2b3ef25"
+                                },
+                                {
+                                    "icon": "fa-external-link",
+                                    "title": "National Center on Accessible Educational Materials: Closed Captioning",
+                                    "href": "http://aem.cast.org/about/events/2017/05/beginning-with-the-why-an-introduction-to-closed-captioning.html"
+                                },
+                                {
+                                    "icon": "fa-external-link",
+                                    "title": "WebAIM Word, Powerpoint, and Acrobat",
+                                    "href": "https://webaim.org/training/docs/"
+                                },
+                                {
+                                    "icon": "fa-external-link",
+                                    "title": "National Center on Accessible Educational Materials: Accessible Documents",
+                                    "href": "http://aem.cast.org/about/module-2-new-educator-training.html"
+                                },
+                                {
+                                    "icon": "fa-external-link",
+                                    "title": "Adobe Acrobat Accessibility Overview",
+                                    "href": "https://www.adobe.com/accessibility/products/acrobat.html"
+                                }
+                            ]
+                        },
+                        {
+                            "header": "Related Lessons",
+                            "references": [
+                                {
+                                    "icon": "fa-sign-in-alt",
+                                    "title": "Isidore Text Editor",
+                                    "href": "/lessons/texteditor"
+                                }
+                            ]
+                        }
+                    ],
+                    "aside2title": "Potential Questions You May Have",
+                    "aside2questions": [
+                        {
+                            "question": "What do I do if my existing documents are not accessible?",
+                            "answer": "In the Additional Resources, you'll see a link to Sensus Access. This can be very useful in terms of converting text that is unreadable to readable text. It will not necessarily convert all headings and it certainly won't put alt text in there, but it gives you a good base to start from."
+                        },
+                        {
+                            "question": "I don't like the way the headers look in MS Word, can I change the look?",
+                            "answer": "You bet! In the ribbon you can right mouse click on the header you want to change and it will change it for all instances of the header."
+                        }
+                    ],
+                    "aside3title": "Did you know?",
+                    "aside3content": "Google Docs and Slides also have the same general accessible properties as their Microsoft Office counterparts."
+                },
+                {
+                    "title": "Accessibility of Outside Materials",
+                    "anchor": "accessiblematerials",
+                    "icon": "fa-globe",
+                    "description": "If you intend to use materials that you do not produce yourself, how can you be sure they are accessible?",
+                    "videos": [
+                        {
+                            "title": "Accessibility: Outside Materials",
+                            "warpwire": "8SgBAA"
+                        }
+                    ],
+                    "overviewcontent": "Most faculty include some externally produced content in their course required course materials. This could be articles from the web, YouTube videos, publisher resources, and software. If you are requiring your students to use it, you need to be sure it is accessible.",
+                    "section1title": "Step 1",
+                    "section1content": "This video explains the essentials for ensuring outside materials are accessible.",
+                    "section2title": "Step 2: Test Your Knowledge",
+                    "section2content": "In addition to watching the video, please look through the Additional Resources. Then you will be ready for the following assessments.",
+                    "lti": [
+                        {
+                            "header": "Quick Quiz",
+                            "description": "The following quiz will measure your understanding of the essential elements described in the video.",
+                            "icon": "fa-list-ol",
+                            "title": "Outside Materials Quiz",
+                            "launch": "mod/learnquiz/index.php?quiz=acc_materials",
+                            "resource_link_id": "acc_materials"
+                        },
+                        {
+                            "header": "Quick Write",
+                            "description": "Complete the following assignment.",
+                            "icon": "fa-pencil-square",
+                            "title": "Outside Materials Assignment",
+                            "launch": "mod/modquickwrite/",
+                            "resource_link_id": "acc_materials_qw"
+                        }
+                    ],
+                    "aside1title": "Additional Resources",
+                    "aside1content": [
+                        {
+                            "header": "Resources",
+                            "references": [
+                                {
+                                    "icon": "fa-external-link",
+                                    "title": "Sensus Access Accessible Document Conversion",
+                                    "href": "https://udayton.edu/ltc/learningresources/disability/sensus-access-instructions.php"
+                                },
+                                {
+                                    "icon": "fa-external-link",
+                                    "title": "How to Find Specialized Formats of Print Materials",
+                                    "href": "http://aem.cast.org/about/module-4-new-educator-training.html"
+                                },
+                                {
+                                    "icon": "fa-external-link",
+                                    "title": "How to Select Accessible Digital Materials",
+                                    "href": "http://aem.cast.org/about/module-5-new-educator-training.html"
+                                },
+                                {
+                                    "icon": "fa-external-link",
+                                    "title": "UDayton eWiki on Accessibility",
+                                    "href": "https://ewiki.udayton.edu/isidore/Accessibility"
+                                },
+                                {
+                                    "icon": "fa-external-link",
+                                    "title": "Rev Captioning YouTube Videos",
+                                    "href": "https://www.rev.com/blog/how-to-add-closed-captions-to-youtube-videos"
+                                }
+                            ]
+                        },
+                        {
+                            "header": "Related Lessons",
+                            "references": [
+                                {
+                                    "icon": "fa-sign-in-alt",
+                                    "title": "Isidore Text Editor",
+                                    "href": "/lessons/texteditor"
+                                }
+                            ]
+                        }
+                    ],
+                    "aside2title": "Potential Questions You May Have",
+                    "aside2questions": [
+                        {
+                            "question": "My chair picked my materials, what if they're not accessible?",
+                            "answer": "Say something, but be tactful about it. Offer to contact the vendor or publisher. Your chair can later decide whether you'll continue with those materials."
+                        },
+                        {
+                            "question": "How can I ensure the captions are accurate?",
+                            "answer": "You are still responsible for the accuracy of the captions, so please check them. If you find inaccuracies please contact the Office of eLearning."
+                        }
+                    ],
+                    "aside3title": "Did you know?",
+                    "aside3content": "Most electronic textbooks are accessible, and they also tend to be cheaper. Just remember to check before you buy."
                 }
             ]
         }
