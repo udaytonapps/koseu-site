@@ -1229,6 +1229,11 @@
                   "icon": "fa-sign-in-alt",
                   "title": "Isidore Text Editor",
                   "href": "/lessons/texteditor"
+                },
+                {
+                  "icon": "fa-sign-in-alt",
+                  "title": "Accessible Documents",
+                  "href": "/lessons/accessibledocs"
                 }
               ]
             }
@@ -1250,7 +1255,7 @@
         {
           "title": "Auditory Disabilities",
           "anchor": "auditorydisabilities",
-          "icon": "fa-volume",
+          "icon": "fa-file-sound-o",
           "description": "How can you make your content accessible for students with hearing impairments?",
           "videos": [
             {
@@ -1350,8 +1355,8 @@
           "description": "How can you make your content accessible for students with cognitive, motor, and other disabilities?",
           "videos": [
             {
-              "title": "Accessibility: Other Disabilities",
-              "warpwire": "iyYBAA"
+              "title": "Accessibility: Cognitive, Motor, & Other Disabilities",
+              "warpwire": "JSsBAA"
             }
           ],
           "overviewcontent": "Many of the accessibility techniques you use for people with visual disabilities are helpful for individuals with cognitive and motor disabilities, but putting extra attention on organization and clarity is definitely something you should prioritize.",
@@ -1411,6 +1416,11 @@
                   "icon": "fa-sign-in-alt",
                   "title": "Isidore Text Editor",
                   "href": "/lessons/texteditor"
+                },
+                {
+                  "icon": "fa-sign-in-alt",
+                  "title": "Accessible Documents",
+                  "href": "/lessons/accessibledocs"
                 }
               ]
             }
@@ -1437,7 +1447,7 @@
           "videos": [
             {
               "title": "Accessibility: Accessible Documents",
-              "warpwire": "iyYBAA"
+              "warpwire": "HykBAA"
             }
           ],
           "overviewcontent": "All documents utilized in class must be made available in electronic format to students. This is important not just for students with visual and hearing impairments but for all students who may have academic accommodations for attention issues and processing disorders. This impacts approximately 5-10 percent of students. What steps must you take to ensure that the electronic version is completely accessible?",
@@ -1603,6 +1613,11 @@
                   "icon": "fa-sign-in-alt",
                   "title": "Isidore Text Editor",
                   "href": "/lessons/texteditor"
+                },
+                {
+                  "icon": "fa-sign-in-alt",
+                  "title": "Accessible Documents",
+                  "href": "/lessons/accessibledocs"
                 }
               ]
             }
