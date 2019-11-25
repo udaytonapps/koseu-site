@@ -1,1629 +1,1627 @@
 {
-    "title" : "<small>Office of eLearning</small><br />Isidore Training Modules",
-    "description" : "Below are training modules and lessons developed by the Office of eLearning to help folks use Isidore, UD's learning management system.",
-    "badges" : [
+  "title": "<small>Office of eLearning</small><br />Isidore Training Modules",
+  "description": "Below are training modules and lessons developed by the Office of eLearning to help folks use Isidore, UD's learning management system.",
+  "badges": [
+    {
+      "title": "Participation Trophy",
+      "description": "Do you earn this badge for doing anything impressive? Nope. All you do is log into the system, and poof! You get the badge. You participated. Take your trophy. You are now prepared for your first steps in the Office of E-Learning's online training. DISCLAIMER: Always consult your physician before beginning any online training program. This is not intended to diagnose any medical condition or to replace your healthcare professional. If you experience any pain or shortness of breath with these online modules, stop and consult your physician.",
+      "image": "ParticipationTrophy.png",
+      "anchor": "participationtrophy",
+      "threshold": "1.0",
+      "assignments": []
+    },
+    {
+      "title": "Is-A-Door",
+      "description": "Isidore. If you know what it is and you know what it does, it will open all kinds of doors for your teaching career here at UD. The name of the badge will also serve as a reminder of the proper pronunciation. eLearning hears a lot of \"eyes-a-dore\" and \"Isadora\" type stuff. No good! You wouldn't want to bring dishonor on Saint Isidore of Seville, the patron saint of students and the Internet, would you? This badge is awarded for completing the What Is Isidore? lesson.",
+      "image": "IsADoor.png",
+      "anchor": "isadoor",
+      "threshold": "1.0",
+      "assignments": [
+        "bn_whatisisidore"
+      ]
+    },
+    {
+      "title": "Onboarded",
+      "description": "Earning this badge proves that you are onboard. You're not the captain of the ship. Heck. You're not even a crew member. But you're on the boat, and you earned your spot by completing the I'm Brand New module.",
+      "image": "Onboarded.png",
+      "anchor": "onboarded",
+      "threshold": "1.0",
+      "assignments": [
+        "bn_whatisisidore",
+        "bn_gettingstarted",
+        "bn_sitecreation"
+      ]
+    },
+    {
+      "title": "Site Sighted",
+      "description": "Creating a site in Isidore is the most important thing you will ever do. At any point of your life. No matter what. It may even save your life. This badge is awarded following a validation (or observational sighting) of an Isidore site you created as part of the Course Site Creation lesson.",
+      "image": "SiteSighted.png",
+      "anchor": "sitesighted",
+      "threshold": "1.0",
+      "assignments": [
+        "bn_sitecreation2"
+      ]
+    },
+    {
+      "title": "Gen Ed",
+      "description": "Like the general ed courses for undergrads, this badge is awarded for those that have completed the Isidore 101 modules, which teaches on the fundamental tools of Isidore. And just like those general ed, Isidore 101 prepares you for your next steps in learning Isidore, your next steps in teaching, and your next steps in becoming the best instructor this institution has ever seen!",
+      "image": "GenEd.png",
+      "anchor": "gened",
+      "threshold": "1.0",
+      "assignments": [
+        "101_ckeditor",
+        "101_overview",
+        "101_syllabus",
+        "101_announcements",
+        "101_resources",
+        "101_roster",
+        "101_attendance",
+        "101_calendar"
+      ]
+    },
+    {
+      "title": "Feelin' Dangerous",
+      "description": "Have you ever heard the expression, \"You know enough to be dangerous\"? Well, that's you right now. This badge is earned following the completion of both the I'm Brand New and Isidore 101 modules. At this point you're ready to start doing some great things with Isidore. But we need to be clear that the \"dangerous\" thing is just an expression. We don't suggest you ever put yourself in a position where you feel or create true danger. Just be cool, ok?",
+      "image": "FeelinDangerous.png",
+      "anchor": "feelindangerous",
+      "threshold": "1.0",
+      "assignments": [
+        "bn_whatisisidore",
+        "bn_gettingstarted",
+        "bn_sitecreation",
+        "101_ckeditor",
+        "101_overview",
+        "101_syllabus",
+        "101_announcements",
+        "101_resources",
+        "101_roster",
+        "101_attendance",
+        "101_calendar"
+      ]
+    },
+    {
+      "title": "Header ",
+      "description": "Headers are important in soccer but this badge is awarded to those that know that headers are important in online content as well. Alt text and closed captions are important as well, but they are not used quite as often in soccer. Well, you could probably find some closed captions on a televised soccer match. ",
+      "image": "SoccerBall.png",
+      "anchor": "headerbadge",
+      "threshold": "1.0",
+      "assignments": [
+        "acc_visual",
+        "acc_auditory",
+        "acc_cog",
+        "acc_files",
+        "acc_materials"
+      ]
+    },
+    {
+      "title": "Creative Caring",
+      "description": "The CC symbol stands for Closed Captions, but those that earn this badge understand that accessibility is also about Creative Caring. Instructors do not need to suppress their creativity to keep their content accessible. In fact, universal design tends to be best for everyone. ",
+      "image": "CC-Open.png",
+      "anchor": "creativecaring",
+      "threshold": "1.0",
+      "assignments": [
+        "acc_visual",
+        "acc_auditory",
+        "acc_cog",
+        "acc_files",
+        "acc_materials",
+        "acc_visual_qw",
+        "acc_auditory_qw",
+        "acc_cog_qw",
+        "acc_files_qw",
+        "acc_materials_qw"
+      ]
+    }
+  ],
+  "modules": [
+    {
+      "title": "I'm Brand New! What Do I Do?",
+      "description": "If you're brand new to Isidore, or just need a complete refresher, pop into any of the lessons below to learn the fundamentals. The topics covered include background information about Isidore, basic navigation and layout of the system, and the site creation process.",
+      "time": "Est. 15 min",
+      "anchor": "onboarding",
+      "video": {
+        "title": "I'm Brand New! What Do I Do? Teaser",
+        "warpwire": "sQ8BAA"
+      },
+      "lessons": [
         {
-            "title": "Participation Trophy",
-            "description": "Do you earn this badge for doing anything impressive? Nope. All you do is log into the system, and poof! You get the badge. You participated. Take your trophy. You are now prepared for your first steps in the Office of E-Learning's online training. DISCLAIMER: Always consult your physician before beginning any online training program. This is not intended to diagnose any medical condition or to replace your healthcare professional. If you experience any pain or shortness of breath with these online modules, stop and consult your physician.",
-            "image": "ParticipationTrophy.png",
-            "anchor": "participationtrophy",
-            "threshold": "1.0",
-            "assignments": []
+          "title": "What Is Isidore?",
+          "anchor": "whatisisidore",
+          "icon": "fa-question",
+          "description": "And what does it do?",
+          "videos": [
+            {
+              "title": "What Is Isidore, And What Does It Do?",
+              "warpwire": "pwcBAA"
+            }
+          ],
+          "overviewcontent": "Isidore is UD's open-source Learning Management System or LMS. Isidore is based on the Sakai LMS, but why did UD go this direction? Find out in this lesson.",
+          "section1title": "Step 1: See It, Learn It",
+          "section1content": "Watch this 2-minute video for an introduction to Isidore.",
+          "section2title": "Step 2: Test Your Knowledge",
+          "section2content": "Now it's time to prove you watched the video. Complete the Quick Quiz below and earn a badge.",
+          "lti": {
+            "header": "Quick Quiz",
+            "description": "Take the three question quiz below to test your Isidore knowledge.",
+            "icon": "fa-list-ol",
+            "title": "What is Isidore? Quiz",
+            "launch": "mod/learnquiz/index.php?quiz=bn_whatisisidore",
+            "resource_link_id": "bn_whatisisidore"
+          },
+          "aside1title": "Additional Resources",
+          "aside1content": [
+            {
+              "header": "Wiki Resources",
+              "references": [
+                {
+                  "icon": "fa-external-link",
+                  "title": "I'm New to Isidore",
+                  "href": "https://ewiki.udayton.edu/isidore/New_To_Isidore"
+                }
+              ]
+            },
+            {
+              "header": "Related Lessons",
+              "references": [
+                {
+                  "icon": "fa-sign-in-alt",
+                  "title": "Getting Started with Isidore",
+                  "href": "/lessons/gettingstarted"
+                },
+                {
+                  "icon": "fa-plus",
+                  "title": "Creating Course Sites",
+                  "href": "/lessons/sitecreation"
+                }
+              ]
+            },
+            {
+              "header": "Additional Articles",
+              "references": [
+                {
+                  "icon": "fa-external-link",
+                  "title": "Wiki Page for St. Isidore of Seville",
+                  "href": "https://en.wikipedia.org/wiki/Isidore_of_Seville"
+                },
+                {
+                  "icon": "fa-external-link",
+                  "title": "Why Open Source? - Written by eLearning Staff",
+                  "href": "https://udayton.edu/0/elearning/learn/whyopensource.pdf"
+                },
+                {
+                  "icon": "fa-external-link",
+                  "title": "The Sakai LMS Homepage",
+                  "href": "https://www.sakailms.org/"
+                },
+                {
+                  "icon": "fa-external-link",
+                  "title": "Isidore Releases",
+                  "href": "https://en.wikipedia.org/wiki/Isidore_releases"
+                }
+              ]
+            }
+          ],
+          "aside2title": "Potential Questions You May Have",
+          "aside2questions": [
+            {
+              "question": "So Isidore is open-source. What features have you built or customized for UD?",
+              "answer": "The Attendance tool, the Checklist feature in Lessons, various Learning Apps, and this very training platform! We share these features with the broader open-source community so they are used worldwide. If you want to see all of our work, check out our Isidore Releases page linked in 'Additional Articles' above."
+            },
+            {
+              "question": "I have a feature request! How do I let you know?",
+              "answer": "Just call or email the Office of eLearning! We are available at (937) 229-5039 and elearning@udayton.edu. We'll make a ticket for you, and we'll be sure to let you know when the feature is added to Isidore."
+            },
+            {
+              "question": "How is 'Isidore' pronounced?",
+              "answer": "Is-a-door."
+            },
+            {
+              "question": "Why is Arnold Schwarzenegger in your video?",
+              "answer": "In his feature role as John Kimble in Kindergarten Cop, Arnold transforms from a one-dimensional, gruff police officer into a passionate teacher dedicated to learning. We feel this character is a perfect introduction to our learning management system (but mostly we just really like the movie)."
+            }
+          ],
+          "aside3title": "Did you know?",
+          "aside3content": "St. Isidore of Seville sought to compile all knowledge into an encyclopedia known as 'Etymologiae.' In the 20 books composing the encyclopedia, St. Isidore covers math, music, law, languages, atoms, elements, agriculture, metals, animals, and more. You can find ALL these topics covered within the Isidore LMS. UD is carrying on Isidore's legacy!"
         },
         {
-            "title": "Is-A-Door",
-            "description": "Isidore. If you know what it is and you know what it does, it will open all kinds of doors for your teaching career here at UD. The name of the badge will also serve as a reminder of the proper pronunciation. eLearning hears a lot of \"eyes-a-dore\" and \"Isadora\" type stuff. No good! You wouldn't want to bring dishonor on Saint Isidore of Seville, the patron saint of students and the Internet, would you? This badge is awarded for completing the What Is Isidore? lesson.",
-            "image": "IsADoor.png",
-            "anchor": "isadoor",
-            "threshold": "1.0",
-            "assignments": [
-                "bn_whatisisidore"
-            ]
+          "title": "Getting Started with Isidore",
+          "anchor": "gettingstarted",
+          "icon": "fa-sign-in-alt",
+          "description": "Logging in and adding a profile picture.",
+          "videos": [
+            {
+              "title": "Getting Started with Isidore",
+              "warpwire": "uw8BAA"
+            }
+          ],
+          "overviewcontent": "If you’ve never used Isidore before, fear not! This lesson will help you get started.",
+          "section1title": "Step 1: See It, Learn It",
+          "section1content": "Watch this 1-minute video to learn how to log in and add a profile picture. While adding a profile picture may not seem important, there are places within Isidore where your picture will display, so we recommend changing it so your students can quickly identify and differentiate messages from you.",
+          "section2title": "Step 2: Try It",
+          "section2content": "Log in and add your profile picture and name pronunciation.",
+          "section2steps": [
+            {
+              "step": "Log in to Isidore."
+            },
+            {
+              "step": "Click on your name in the top right corner. Click on 'Profile'."
+            },
+            {
+              "step": "Add picture: Click 'Edit Profile Picture' and add a picture of yourself. Make sure you remember to choose which sharing option you want so students can see your picture!"
+            },
+            {
+              "step": "Add name pronunciation: Click 'Create Name Pronunciation' and follow the steps to record your name."
+            }
+          ],
+          "section3title": "Step 3: Test Your Knowledge",
+          "section3content": "Complete the Quick Quiz below to earn credit for completing this lesson.",
+          "lti": [
+            {
+              "header": "Quick Quiz",
+              "description": "It's a quick quiz, but you still will have needed to watch the video to get the answers right. So go watch if you haven't!",
+              "icon": "fa-list-ol",
+              "title": "Getting Started with Isidore Quiz",
+              "launch": "mod/learnquiz/index.php?quiz=bn_gettingstarted",
+              "resource_link_id": "bn_gettingstarted"
+            }
+          ],
+          "aside1title": "Additional Resources",
+          "aside1content": [
+            {
+              "header": "Wiki Resources",
+              "references": [
+                {
+                  "icon": "fa-external-link",
+                  "title": "I'm New to Isidore",
+                  "href": "https://ewiki.udayton.edu/isidore/New_To_Isidore"
+                },
+                {
+                  "icon": "fa-external-link",
+                  "title": "Profile Help",
+                  "href": "https://ewiki.udayton.edu/isidore/View_Profile"
+                }
+              ]
+            },
+            {
+              "header": "Related Lessons",
+              "references": [
+                {
+                  "icon": "fa-question",
+                  "title": "What Is Isidore?",
+                  "href": "/lessons/whatisisidore"
+                },
+                {
+                  "icon": "fa-plus",
+                  "title": "Creating Course Sites",
+                  "href": "/lessons/sitecreation"
+                }
+              ]
+            },
+            {
+              "header": "Additional Articles",
+              "references": [
+                {
+                  "icon": "fa-external-link",
+                  "title": "Isidore Login Page",
+                  "href": "https://isidore.udayton.edu"
+                },
+                {
+                  "icon": "fa-external-link",
+                  "title": "University of Dayton: Using NameCoach to Create an Environment of Inclusivity and Respect for Every Student",
+                  "href": "https://name-coach.com/blog/case-study-using-namecoach-create-environment-inclusivity-respect-every-student/"
+                },
+                {
+                  "icon": "fa-external-link",
+                  "title": "2-Factor Authentication at UD",
+                  "href": "https://udayton.teamdynamix.com/TDClient/Requests/ServiceDet?ID=14394"
+                }
+              ]
+            }
+          ],
+          "aside2title": "Potential Questions You May Have",
+          "aside2questions": [
+            {
+              "question": "I don't have a UD account yet. How can I log in?",
+              "answer": "Please contact the IT Service Center to obtain your credentials. You can reach them at itservicecenter@udayton.edu or (937) 229-3888. If your credentials are \"in-the-works\", contact eLearning to obtain a \"guest\" account."
+            },
+            {
+              "question": "What browsers work best with Isidore?",
+              "answer": "We recommend Chrome and Firefox, though Edge and Safari are also supported."
+            },
+            {
+              "question": "Why is 2-factor authentication needed?",
+              "answer": "As a part of the campus community, you play a part in keeping our campus safe - this includes from cyber attacks. Your password is the easiest way for attacks on our systems to happen, so the additional step of approving log ins on a secondary device is a critical step for safety."
+            },
+            {
+              "question": "What was that screen the presenter was writing on at the end of the video?",
+              "answer": "That's the 'Canvas', a giant touch-sensitive video wall in the LTC Studio. Contact the LTC to learn how you can teach your class in that room in a future semester."
+            },
+            {
+              "question": "Who was the scary person in the 'horrific driver license photo'?",
+              "answer": "That was the presenter, aged 15. The point is that the photo that is taken of you in the Flyer Card office for your ID somehow looks WORSE than driver license photos. Amazing."
+            }
+          ],
+          "aside3title": "Did you know?",
+          "aside3content": "Our Isidore homepage has looked mighty different over the years. <a href=\"https://udayton.edu/0/elearning/learn/homepages_gallery.pdf\" target=\"_blank\">See all of Isidore's looks</a>"
         },
         {
-            "title": "Onboarded",
-            "description": "Earning this badge proves that you are onboard. You're not the captain of the ship. Heck. You're not even a crew member. But you're on the boat, and you earned your spot by completing the I'm Brand New module.",
-            "image": "Onboarded.png",
-            "anchor": "onboarded",
-            "threshold": "1.0",
-            "assignments": [
-                "bn_whatisisidore",
-                "bn_gettingstarted",
-                "bn_sitecreation"
-            ]
-        },
-        {
-            "title": "Site Sighted",
-            "description": "Creating a site in Isidore is the most important thing you will ever do. At any point of your life. No matter what. It may even save your life. This badge is awarded following a validation (or observational sighting) of an Isidore site you created as part of the Course Site Creation lesson.",
-            "image": "SiteSighted.png",
-            "anchor": "sitesighted",
-            "threshold": "1.0",
-            "assignments": [
-                "bn_sitecreation2"
-            ]
-        },
-        {
-            "title": "Gen Ed",
-            "description": "Like the general ed courses for undergrads, this badge is awarded for those that have completed the Isidore 101 modules, which teaches on the fundamental tools of Isidore. And just like those general ed, Isidore 101 prepares you for your next steps in learning Isidore, your next steps in teaching, and your next steps in becoming the best instructor this institution has ever seen!",
-            "image": "GenEd.png",
-            "anchor": "gened",
-            "threshold": "1.0",
-            "assignments": [
-                "101_ckeditor",
-                "101_overview",
-                "101_syllabus",
-                "101_announcements",
-                "101_resources",
-                "101_roster",
-                "101_attendance",
-                "101_calendar"
-            ]
-        },
-        {
-            "title": "Feelin' Dangerous",
-            "description": "Have you ever heard the expression, \"You know enough to be dangerous\"? Well, that's you right now. This badge is earned following the completion of both the I'm Brand New and Isidore 101 modules. At this point you're ready to start doing some great things with Isidore. But we need to be clear that the \"dangerous\" thing is just an expression. We don't suggest you ever put yourself in a position where you feel or create true danger. Just be cool, ok?",
-            "image": "FeelinDangerous.png",
-            "anchor": "feelindangerous",
-            "threshold": "1.0",
-            "assignments": [
-                "bn_whatisisidore",
-                "bn_gettingstarted",
-                "bn_sitecreation",
-                "101_ckeditor",
-                "101_overview",
-                "101_syllabus",
-                "101_announcements",
-                "101_resources",
-                "101_roster",
-                "101_attendance",
-                "101_calendar"
-            ]
-        },
-        {
-            "title": "Header ",
-            "description": "Headers are important in soccer but this badge is awarded to those that know that headers are important in online content as well. Alt text and closed captions are important as well, but they are not used quite as often in soccer. Well, you could probably find some closed captions on a televised soccer match. ",
-            "image": "SoccerBall.png",
-            "anchor": "headerbadge",
-            "threshold": "1.0",
-            "assignments": [
-                "acc_visual",
-                "acc_auditory",
-                "acc_cog",
-                "acc_files",
-                "acc_materials"
-            ]
-        },
-        {
-            "title": "Creative Caring",
-            "description": "The CC symbol stands for Closed Captions, but those that earn this badge understand that accessibility is also about Creative Caring. Instructors do not need to suppress their creativity to keep their content accessible. In fact, universal design tends to be best for everyone. ",
-            "image": "CC-Open.png",
-            "anchor": "creativecaring",
-            "threshold": "1.0",
-            "assignments": [
-                "acc_visual",
-                "acc_auditory",
-                "acc_cog",
-                "acc_files",
-                "acc_materials",
-                "acc_visual_qw",
-                "acc_auditory_qw",
-                "acc_cog_qw",
-                "acc_files_qw",
-                "acc_materials_qw"
-            ]
+          "title": "Course Site Creation",
+          "anchor": "sitecreation",
+          "icon": "fa-plus",
+          "description": "Create Isidore sites for your classes.",
+          "videos": [
+            {
+              "title": "Isidore Course Sites",
+              "warpwire": "QxABAA"
+            }
+          ],
+          "overviewcontent": "In this lesson, you will learn how to cite a site at first sight. *ba dum tsh* Well, maybe not precisely, but you will learn what Isidore sites are and how to create, organize, and manage them. At UD, instructors are responsible for creating their own sites for their courses, but eLearning staff is always happy to help if you get stuck.",
+          "section1title": "Step 1: See It, Learn It",
+          "section1content": "Watch this 2 minute video to learn about Isidore sites.",
+          "section2title": "Step 2: Try It",
+          "section2content": "You will now create your own Isidore site. If you would like to create a site for an actual course, you can follow the steps shown in the video. If you prefer to create a test site with a roster of fake students, follow the steps in the Creating a Test Site article listed in the Wiki Resources to the right. Don't be afraid, we promise you won't hurt anything!",
+          "section2steps": [
+            {
+              "step": "Log in to Isidore."
+            },
+            {
+              "step": "Create an Isidore site."
+            },
+            {
+              "step": "Let us know your site's title by completing the Quick Write below these steps."
+            },
+            {
+              "step": "An eLearning staff member will verify that you created a site, then, boom! You earned a Site Sighted badge!"
+            }
+          ],
+          "section3title": "Step 3: Test Your Knowledge",
+          "section3content": "Are you now a site creation whiz? Complete the Quick Quiz below to  earn credit for completing this lesson. Create a course site and submit it via the Quick Write below to earn your Site Sighted badge. Yes, we know, we really killed this joke.",
+          "lti": [
+            {
+              "header": "Quick Quiz",
+              "description": "Take the three question quiz below to show us you know how to create Isidore sites.",
+              "icon": "fa-list-ol",
+              "title": "Course Site Creation Quiz",
+              "launch": "mod/learnquiz/index.php?quiz=bn_sitecreation",
+              "resource_link_id": "bn_sitecreation"
+            },
+            {
+              "header": "Quick Write",
+              "description": "Use the steps above to create a course site and then use the link below to submit your site to eLearning for credit.",
+              "icon": "fa-pencil-square",
+              "title": "Sight my Site!",
+              "launch": "mod/modquickwrite/",
+              "resource_link_id": "bn_sitecreation2"
+            }
+          ],
+          "aside1title": "Additional Resources",
+          "aside1content": [
+            {
+              "header": "Wiki Resources",
+              "references": [
+                {
+                  "icon": "fa-external-link",
+                  "title": "Site Creation Steps",
+                  "href": "https://ewiki.udayton.edu/isidore/Site_Creation"
+                },
+                {
+                  "icon": "fa-external-link",
+                  "title": "Create a Test Site",
+                  "href": "https://ewiki.udayton.edu/isidore/Create_a_Test_Site"
+                }
+              ]
+            },
+            {
+              "header": "Related Lessons",
+              "references": [
+                {
+                  "icon": "fa-question",
+                  "title": "What Is Isidore?",
+                  "href": "/lessons/whatisisidore"
+                },
+                {
+                  "icon": "fa-sign-in-alt",
+                  "title": "Getting Started with Isidore",
+                  "href": "/lessons/gettingstarted"
+                }
+              ]
+            }
+          ],
+          "aside2title": "Potential Questions You May Have",
+          "aside2questions": [
+            {
+              "question": "Why do instructors need to create Isidore sites themselves?",
+              "answer": "UD does not require instructors to use Isidore, so we have no way of knowing who is using Isidore and who isn't any given term; thus, we ask that instructors create their own sites. Plus, you know better than we do what content should be copied over every semester!"
+            },
+            {
+              "question": "What's the difference between an Isidore site and an Isidore tab?",
+              "answer": "Lots of people call their Isidore sites, \"tabs\". They might also refer to the tools in their Isidore site (e.g. Syllabus, Announcements, Assignments, etc.) as tabs."
+            },
+            {
+              "question": "When are Isidore sites published to students?",
+              "answer": "Isidore sites for the current term are published automatically at 8 AM on the first day of the term. At that time, we also unpublish all Isidore sites from the previous term."
+            },
+            {
+              "question": "I'm teaching this coming semester, but I don't see a roster available to me to create. What do I do?",
+              "answer": "It could be a number of things. You may have selected the wrong term when beginning the site creation process (most classes are in terms that are called something like \"Spring 2020\" or \"Fall 2020\"). More likely is that you are not listed as the instructor of record for the class. Don't worry, you can still create the Isidore site for your roster! You just have to request it, then eLearning will review the request and approve the roster once we determine that you are indeed the instructor."
+            },
+            {
+              "question": "How soon before the term begins can I create my Isidore site?",
+              "answer": "The rosters for the upcoming term become available in Isidore ten weeks prior to the start of the semester. If you want to create the site before then, just contact eLearning - we can set it up."
+            },
+            {
+              "question": "Oops! I goofed. How can I delete the site that I made?",
+              "answer": "On Isidore homepage, click on the 'My Sites' tool. Check the box next to the site you want to delete, then press the 'Delete' button. On the next page, click the 'Mark for deletion' button."
+            }
+          ],
+          "aside3title": "Did you know?",
+          "aside3content": "Approximately 90% of faculty members at UD use Isidore for at least one course."
         }
-    ],
-    "modules": [
+      ]
+    },
+    {
+      "title": "Isidore 101",
+      "description": "These lessons cover the basics of the most commonly (and easily) used tools in Isidore. We recommend including all of these tools in your course sites -- BUT only if you really do plan on using them. Don't add tools that you won't use!",
+      "time": "Est. 45 min",
+      "anchor": "isidore101",
+      "video": {
+        "title": "Isidore 101 Teaser",
+        "warpwire": "xQ8BAA"
+      },
+      "lessons": [
         {
-            "title": "I'm Brand New! What Do I Do?",
-            "description": "If you're brand new to Isidore, or just need a complete refresher, pop into any of the lessons below to learn the fundamentals. The topics covered include background information about Isidore, basic navigation and layout of the system, and the site creation process.",
-            "time": "Est. 15 min",
-            "anchor": "onboarding",
-            "video": {
-                "title": "I'm Brand New! What Do I Do? Teaser",
-                "warpwire": "sQ8BAA"
-            },
-            "lessons": [
+          "title": "Text Editor",
+          "anchor": "texteditor",
+          "icon": "fa-indent",
+          "description": "Many useful features are hidden in this magic box.",
+          "videos": [
+            {
+              "title": "Isidore 101: Text Editor",
+              "warpwire": "DxwBAA"
+            }
+          ],
+          "overviewcontent": "We're starting out with something that's not actually a definitive \"tool\" in Isidore, so sorry for the trick on this one. The rich-text editor, though, is a really important place to start because it has features that we'd hate for you to miss. These features will help you make your content accessible for all learners, as well as link your material to UD's Catholic heritage. We also think it's important to add your personality and YOUR expert voice whenever possible, so these features will help you do so.",
+          "section1title": "Step 1: See It, Learn It",
+          "section1content": "A 2 minute overview of some of the features in the text editor.",
+          "section2title": "Step 2: Test Your Knowledge",
+          "section2content": "The video was just a sample of all that is possible with the rich-text editor. Play around with the buttons yourself to see all that's possible. Only then will you be able to pass the quiz.",
+          "lti": [
+            {
+              "header": "Quick Quiz",
+              "description": "Check out the CK Editor article in the Wiki resources to help you answer the questions in the quiz.",
+              "icon": "fa-list-ol",
+              "title": "Text Editor Quiz",
+              "launch": "mod/learnquiz/index.php?quiz=101_ckeditor",
+              "resource_link_id": "101_ckeditor"
+            }
+          ],
+          "aside1title": "Additional Resources",
+          "aside1content": [
+            {
+              "header": "Wiki Resources",
+              "references": [
                 {
-                    "title": "What Is Isidore?",
-                    "anchor": "whatisisidore",
-                    "icon": "fa-question",
-                    "description": "And what does it do?",
-                    "videos": [
-                        {
-                            "title": "What Is Isidore, And What Does It Do?",
-                            "warpwire": "pwcBAA"
-                        }
-                    ],
-                    "overviewcontent": "Isidore is UD's open-source Learning Management System or LMS. Isidore is based on the Sakai LMS, but why did UD go this direction? Find out in this lesson.",
-                    "section1title": "Step 1: See It, Learn It",
-                    "section1content": "Watch this 2-minute video for an introduction to Isidore.",
-                    "section2title": "Step 2: Test Your Knowledge",
-                    "section2content": "Now it's time to prove you watched the video. Complete the Quick Quiz below and earn a badge.",
-                    "lti": {
-                        "header": "Quick Quiz",
-                        "description": "Take the three question quiz below to test your Isidore knowledge.",
-                        "icon": "fa-list-ol",
-                        "title": "What is Isidore? Quiz",
-                        "launch": "mod/learnquiz/index.php?quiz=bn_whatisisidore",
-                        "resource_link_id": "bn_whatisisidore"
-                    },
-                    "aside1title": "Additional Resources",
-                    "aside1content": [
-                        {
-                            "header": "Wiki Resources",
-                            "references": [
-                                {
-                                    "icon": "fa-external-link",
-                                    "title": "I'm New to Isidore",
-                                    "href": "https://ewiki.udayton.edu/isidore/New_To_Isidore"
-                                }
-                            ]
-                        },
-                        {
-                            "header": "Related Lessons",
-                            "references": [
-                                {
-                                    "icon": "fa-sign-in-alt",
-                                    "title": "Getting Started with Isidore",
-                                    "href": "/lessons/gettingstarted"
-                                },
-                                {
-                                    "icon": "fa-plus",
-                                    "title": "Creating Course Sites",
-                                    "href": "/lessons/sitecreation"
-                                }
-                            ]
-                        },
-                        {
-                            "header": "Additional Articles",
-                            "references": [
-                                {
-                                    "icon": "fa-external-link",
-                                    "title": "Wiki Page for St. Isidore of Seville",
-                                    "href": "https://en.wikipedia.org/wiki/Isidore_of_Seville"
-                                },
-                                {
-                                    "icon": "fa-external-link",
-                                    "title": "Why Open Source? - Written by eLearning Staff",
-                                    "href": "https://udayton.edu/0/elearning/learn/whyopensource.pdf"
-                                },
-                                {
-                                    "icon": "fa-external-link",
-                                    "title": "The Sakai LMS Homepage",
-                                    "href": "https://www.sakailms.org/"
-                                },
-                                {
-                                    "icon": "fa-external-link",
-                                    "title": "Isidore Releases",
-                                    "href": "https://en.wikipedia.org/wiki/Isidore_releases"
-                                }
-                            ]
-                        }
-                    ],
-                    "aside2title": "Potential Questions You May Have",
-                    "aside2questions": [
-                        {
-                            "question": "So Isidore is open-source. What features have you built or customized for UD?",
-                            "answer": "The Attendance tool, the Checklist feature in Lessons, various Learning Apps, and this very training platform! We share these features with the broader open-source community so they are used worldwide. If you want to see all of our work, check out our Isidore Releases page linked in 'Additional Articles' above."
-                        },
-                        {
-                            "question": "I have a feature request! How do I let you know?",
-                            "answer": "Just call or email the Office of eLearning! We are available at (937) 229-5039 and elearning@udayton.edu. We'll make a ticket for you, and we'll be sure to let you know when the feature is added to Isidore."
-                        },
-                        {
-                            "question": "How is 'Isidore' pronounced?",
-                            "answer": "Is-a-door."
-                        },
-                        {
-                            "question": "Why is Arnold Schwarzenegger in your video?",
-                            "answer": "In his feature role as John Kimble in Kindergarten Cop, Arnold transforms from a one-dimensional, gruff police officer into a passionate teacher dedicated to learning. We feel this character is a perfect introduction to our learning management system (but mostly we just really like the movie)."
-                        }
-                    ],
-                    "aside3title": "Did you know?",
-                    "aside3content": "St. Isidore of Seville sought to compile all knowledge into an encyclopedia known as 'Etymologiae.' In the 20 books composing the encyclopedia, St. Isidore covers math, music, law, languages, atoms, elements, agriculture, metals, animals, and more. You can find ALL these topics covered within the Isidore LMS. UD is carrying on Isidore's legacy!"
+                  "icon": "fa-external-link",
+                  "title": "Rich-text Editor Help",
+                  "href": "https://ewiki.udayton.edu/isidore/CK_Editor"
                 },
                 {
-                    "title": "Getting Started with Isidore",
-                    "anchor": "gettingstarted",
-                    "icon": "fa-sign-in-alt",
-                    "description": "Logging in and adding a profile picture.",
-                    "videos": [
-                        {
-                            "title": "Getting Started with Isidore",
-                            "warpwire": "uw8BAA"
-                        }
-                    ],
-                    "overviewcontent": "If you’ve never used Isidore before, fear not! This lesson will help you get started.",
-                    "section1title": "Step 1: See It, Learn It",
-                    "section1content": "Watch this 1-minute video to learn how to log in and add a profile picture. While adding a profile picture may not seem important, there are places within Isidore where your picture will display, so we recommend changing it so your students can quickly identify and differentiate messages from you.",
-                    "section2title": "Step 2: Try It",
-                    "section2content": "Log in and add your profile picture and name pronunciation.",
-                    "section2steps": [
-                        {
-                            "step" : "Log in to Isidore."
-                        },
-                        {
-                            "step" : "Click on your name in the top right corner. Click on 'Profile'."
-                        },
-                        {
-                            "step" : "Add picture: Click 'Edit Profile Picture' and add a picture of yourself. Make sure you remember to choose which sharing option you want so students can see your picture!"
-                        },
-                        {   
-                            "step" : "Add name pronunciation: Click 'Create Name Pronunciation' and follow the steps to record your name."
-                        }
-                    ],
-                    "section3title": "Step 3: Test Your Knowledge",
-                    "section3content": "Complete the Quick Quiz below to earn credit for completing this lesson.",
-                    "lti": [
-                        {
-                            "header": "Quick Quiz",
-                            "description": "It's a quick quiz, but you still will have needed to watch the video to get the answers right. So go watch if you haven't!",
-                            "icon": "fa-list-ol",
-                            "title": "Getting Started with Isidore Quiz",
-                            "launch": "mod/learnquiz/index.php?quiz=bn_gettingstarted",
-                            "resource_link_id": "bn_gettingstarted"
-                        }
-                    ],
-                    "aside1title": "Additional Resources",
-                    "aside1content": [
-                        {
-                            "header": "Wiki Resources",
-                            "references": [
-                                {
-                                    "icon": "fa-external-link",
-                                    "title": "I'm New to Isidore",
-                                    "href": "https://ewiki.udayton.edu/isidore/New_To_Isidore"
-                                },
-                                {
-                                    "icon": "fa-external-link",
-                                    "title": "Profile Help",
-                                    "href": "https://ewiki.udayton.edu/isidore/View_Profile"
-                                }
-                            ]
-                        },
-                        {
-                            "header": "Related Lessons",
-                            "references": [
-                                {
-                                    "icon": "fa-question",
-                                    "title": "What Is Isidore?",
-                                    "href": "/lessons/whatisisidore"
-                                },
-                                {
-                                    "icon": "fa-plus",
-                                    "title": "Creating Course Sites",
-                                    "href": "/lessons/sitecreation"
-                                }
-                            ]
-                        },
-                        {
-                            "header": "Additional Articles",
-                            "references": [
-                                {
-                                    "icon": "fa-external-link",
-                                    "title": "Isidore Login Page",
-                                    "href": "https://isidore.udayton.edu"
-                                },
-                                {
-                                    "icon": "fa-external-link",
-                                    "title": "University of Dayton: Using NameCoach to Create an Environment of Inclusivity and Respect for Every Student",
-                                    "href": "https://name-coach.com/blog/case-study-using-namecoach-create-environment-inclusivity-respect-every-student/"
-                                },
-                                {
-                                    "icon": "fa-external-link",
-                                    "title": "2-Factor Authentication at UD",
-                                    "href": "https://udayton.teamdynamix.com/TDClient/Requests/ServiceDet?ID=14394"
-                                }
-                            ]
-                        }
-                    ],
-                    "aside2title": "Potential Questions You May Have",
-                    "aside2questions": [
-                        {
-                            "question": "I don't have a UD account yet. How can I log in?",
-                            "answer": "Please contact the IT Service Center to obtain your credentials. You can reach them at itservicecenter@udayton.edu or (937) 229-3888. If your credentials are \"in-the-works\", contact eLearning to obtain a \"guest\" account."
-                        },
-                        {
-                            "question": "What browsers work best with Isidore?",
-                            "answer": "We recommend Chrome and Firefox, though Edge and Safari are also supported."
-                        },
-                        {
-                            "question": "Why is 2-factor authentication needed?",
-                            "answer": "As a part of the campus community, you play a part in keeping our campus safe - this includes from cyber attacks. Your password is the easiest way for attacks on our systems to happen, so the additional step of approving log ins on a secondary device is a critical step for safety."
-                        },
-                        {
-                            "question": "What was that screen the presenter was writing on at the end of the video?",
-                            "answer": "That's the 'Canvas', a giant touch-sensitive video wall in the LTC Studio. Contact the LTC to learn how you can teach your class in that room in a future semester."
-                        },
-                        {
-                            "question": "Who was the scary person in the 'horrific driver license photo'?",
-                            "answer": "That was the presenter, aged 15. The point is that the photo that is taken of you in the Flyer Card office for your ID somehow looks WORSE than driver license photos. Amazing."
-                        } 
-                    ],
-                    "aside3title": "Did you know?",
-                    "aside3content": "Our Isidore homepage has looked mighty different over the years. <a href=\"https://udayton.edu/0/elearning/learn/homepages_gallery.pdf\" target=\"_blank\">See all of Isidore's looks</a>"
-                },
-                {
-                    "title": "Course Site Creation",
-                    "anchor": "sitecreation",
-                    "icon": "fa-plus",
-                    "description": "Create Isidore sites for your classes.",
-                    "videos": [
-                        {
-                            "title": "Isidore Course Sites",
-                            "warpwire": "QxABAA"
-                        }
-                    ],
-                    "overviewcontent": "In this lesson, you will learn how to cite a site at first sight. *ba dum tsh* Well, maybe not precisely, but you will learn what Isidore sites are and how to create, organize, and manage them. At UD, instructors are responsible for creating their own sites for their courses, but eLearning staff is always happy to help if you get stuck.",
-                    "section1title": "Step 1: See It, Learn It",
-                    "section1content": "Watch this 2 minute video to learn about Isidore sites.",
-                    "section2title": "Step 2: Try It",
-                    "section2content": "You will now create your own Isidore site. If you would like to create a site for an actual course, you can follow the steps shown in the video. If you prefer to create a test site with a roster of fake students, follow the steps in the Creating a Test Site article listed in the Wiki Resources to the right. Don't be afraid, we promise you won't hurt anything!",
-                    "section2steps":[
-                        {
-                            "step": "Log in to Isidore."
-                        },
-                        {
-                            "step": "Create an Isidore site."
-                        },
-                        {
-                            "step": "Let us know your site's title by completing the Quick Write below these steps."
-                        },
-                        {
-                            "step": "An eLearning staff member will verify that you created a site, then, boom! You earned a Site Sighted badge!"
-                        }
-                    ],
-                    "section3title": "Step 3: Test Your Knowledge",
-                    "section3content": "Are you now a site creation whiz? Complete the Quick Quiz below to  earn credit for completing this lesson. Create a course site and submit it via the Quick Write below to earn your Site Sighted badge. Yes, we know, we really killed this joke.",
-                    "lti": [
-                        {
-                            "header": "Quick Quiz",
-                            "description": "Take the three question quiz below to show us you know how to create Isidore sites.",
-                            "icon": "fa-list-ol",
-                            "title": "Course Site Creation Quiz",
-                            "launch": "mod/learnquiz/index.php?quiz=bn_sitecreation",
-                            "resource_link_id": "bn_sitecreation"
-                        },
-                        {
-                            "header": "Quick Write",
-                            "description": "Use the steps above to create a course site and then use the link below to submit your site to eLearning for credit.",
-                            "icon": "fa-pencil-square",
-                            "title": "Sight my Site!",
-                            "launch": "mod/modquickwrite/",
-                            "resource_link_id": "bn_sitecreation2"
-                        }
-                    ],
-                    "aside1title": "Additional Resources",
-                    "aside1content": [
-                        {
-                            "header": "Wiki Resources",
-                            "references": [
-                                {
-                                    "icon": "fa-external-link",
-                                    "title": "Site Creation Steps",
-                                    "href": "https://ewiki.udayton.edu/isidore/Site_Creation"
-                                },
-                                {
-                                    "icon": "fa-external-link",
-                                    "title": "Create a Test Site",
-                                    "href": "https://ewiki.udayton.edu/isidore/Create_a_Test_Site"
-                                }
-                            ]
-                        },
-                        {
-                            "header": "Related Lessons",
-                            "references": [
-                                {
-                                    "icon": "fa-question",
-                                    "title": "What Is Isidore?",
-                                    "href": "/lessons/whatisisidore"
-                                },
-                                {
-                                    "icon": "fa-sign-in-alt",
-                                    "title": "Getting Started with Isidore",
-                                    "href": "/lessons/gettingstarted"
-                                }
-                            ]
-                        }
-                    ],
-                    "aside2title": "Potential Questions You May Have",
-                    "aside2questions": [
-                        {
-                            "question": "Why do instructors need to create Isidore sites themselves?",
-                            "answer": "UD does not require instructors to use Isidore, so we have no way of knowing who is using Isidore and who isn't any given term; thus, we ask that instructors create their own sites. Plus, you know better than we do what content should be copied over every semester!"
-                        },
-                        {
-                            "question": "What's the difference between an Isidore site and an Isidore tab?",
-                            "answer": "Lots of people call their Isidore sites, \"tabs\". They might also refer to the tools in their Isidore site (e.g. Syllabus, Announcements, Assignments, etc.) as tabs."
-                        },
-                        {
-                            "question": "When are Isidore sites published to students?",
-                            "answer": "Isidore sites for the current term are published automatically at 8 AM on the first day of the term. At that time, we also unpublish all Isidore sites from the previous term."
-                        },
-                        {
-                            "question": "I'm teaching this coming semester, but I don't see a roster available to me to create. What do I do?",
-                            "answer": "It could be a number of things. You may have selected the wrong term when beginning the site creation process (most classes are in terms that are called something like \"Spring 2020\" or \"Fall 2020\"). More likely is that you are not listed as the instructor of record for the class. Don't worry, you can still create the Isidore site for your roster! You just have to request it, then eLearning will review the request and approve the roster once we determine that you are indeed the instructor."
-                        },
-                        {
-                            "question": "How soon before the term begins can I create my Isidore site?",
-                            "answer": "The rosters for the upcoming term become available in Isidore ten weeks prior to the start of the semester. If you want to create the site before then, just contact eLearning - we can set it up."
-                        },
-                        {
-                            "question": "Oops! I goofed. How can I delete the site that I made?",
-                            "answer": "On Isidore homepage, click on the 'My Sites' tool. Check the box next to the site you want to delete, then press the 'Delete' button. On the next page, click the 'Mark for deletion' button."
-                        }    
-                    ],
-                    "aside3title": "Did you know?",
-                    "aside3content": "Approximately 90% of faculty members at UD use Isidore for at least one course."
+                  "icon": "fa-external-link",
+                  "title": "Examples of the Templates",
+                  "href": "https://ewiki.udayton.edu/isidore/Templates"
                 }
-            ]
+              ]
+            },
+            {
+              "header": "Additional Articles",
+              "references": [
+                {
+                  "icon": "fa-external-link",
+                  "title": "The Human Touch and Your Digital Personality",
+                  "href": "https://secure.onlinelearningconsortium.org/effective_practices/human-touch-and-your-digital-personality"
+                },
+                {
+                  "icon": "fa-external-link",
+                  "title": "Introduction to Web Accessibility",
+                  "href": "https://webaim.org/intro/"
+                },
+                {
+                  "icon": "fa-external-link",
+                  "title": "Common Themes in the Mission and Identity at the University of Dayton",
+                  "href": "https://udayton.edu/rector/_resources/files/common_themes_brochure.pdf"
+                },
+                {
+                  "icon": "fa-external-link",
+                  "title": "Universal Design Principles and Guidelines",
+                  "href": "http://www.artbeyondsight.org/dic/module-4-museum-access-accessible-physical-space/universal-design-principles-and-guidelines/"
+                }
+              ]
+            }
+          ],
+          "aside2title": "Potential Questions You May Have",
+          "aside2questions": [
+            {
+              "question": "Are all text editors in Isidore rich-text editors?",
+              "answer": "No. There are places where only plain-text editors are available, so you'll just have to be boring in those places."
+            },
+            {
+              "question": "Is it okay to just have black text on a white background? I'm not really into all this extra stuff.",
+              "answer": "Sure thing! In fact, having too much color or crazy distractions is actually BAD for student learning. We do recommend adding pictures, at least, when they make sense to use (e.g. diagrams, pictures of the textbook, etc.)."
+            }
+          ],
+          "aside3title": "What's eLearning's favorite rich-text editor tool?",
+          "aside3content": "We all answered differently, so the author gets to answer on behalf of the team, mwahaha. Our favorite is the remove format button in the top row of the editor. This tool lets us remove all formatting from the text box, meaning we don't have to individually un-bold and un-italicize everything. Huge timesaver!"
         },
         {
-            "title": "Isidore 101",
-            "description" : "These lessons cover the basics of the most commonly (and easily) used tools in Isidore. We recommend including all of these tools in your course sites -- BUT only if you really do plan on using them. Don't add tools that you won't use!",
-            "time": "Est. 45 min",
-            "anchor": "isidore101",
-            "video": {
-                "title": "Isidore 101 Teaser",
-                "warpwire": "xQ8BAA"
+          "title": "Overview",
+          "anchor": "overview",
+          "icon": "fa-list",
+          "description": "Your course landing page. Use it well.",
+          "videos": [
+            {
+              "title": "Isidore 101: Overview",
+              "warpwire": "ARIBAA"
+            }
+          ],
+          "overviewcontent": "We beg you. Do something, ANYTHING, with your Overview tool. Please add something other than the catalog description of the class.",
+          "section1title": "Step 1: See It, Learn It",
+          "section1content": "See some examples of different faculty members' Overviews in the 1 minute video below.",
+          "section2title": "Step 2: Try It",
+          "section2content": "Have a creative idea for an Overview? Show us!",
+          "section2prereq": "To complete this step, you must either have an existing site that you can use, or you must first create a test site as instructed in the Creating Course Sites lesson.",
+          "section2steps": [
+            {
+              "step": "Log in to Isidore."
             },
-            "lessons": [
+            {
+              "step": "Navigate to the site where you'll add your cool Overview."
+            },
+            {
+              "step": "Create the best landing page in Isidore using all the information you have learned."
+            }
+          ],
+          "section3title": "Step 3: Test Your Knowledge",
+          "section3content": "We believe you now know everything required to make your Overview pop. Well, we'll believe you know everything AFTER you pass the quiz.",
+          "lti": [
+            {
+              "header": "Quick Quiz",
+              "description": "Take the three question quiz below to show us you know how to add the Cheer Cup widget to your Overview.",
+              "icon": "fa-list-ol",
+              "title": "Overview Quiz",
+              "launch": "mod/learnquiz/index.php?quiz=101_overview",
+              "resource_link_id": "101_overview"
+            },
+            {
+              "header": "Quick Write",
+              "description": "Make your Overview page something different than the course descrpition, then use the link below to submit your site to eLearning for credit.",
+              "icon": "fa-pencil-square",
+              "title": "Review my Overview",
+              "launch": "mod/modquickwrite/",
+              "resource_link_id": "101_overview2"
+            }
+          ],
+          "aside1title": "Additional Resources",
+          "aside1content": [
+            {
+              "header": "Wiki Resources",
+              "references": [
                 {
-                    "title": "Text Editor",
-                    "anchor": "texteditor",
-                    "icon" : "fa-indent",
-                    "description": "Many useful features are hidden in this magic box.",
-                    "videos" : [
-                        {
-                            "title" : "Isidore 101: Text Editor",
-                            "warpwire" : "DxwBAA"
-                        }
-                    ],
-                    "overviewcontent" : "We're starting out with something that's not actually a definitive \"tool\" in Isidore, so sorry for the trick on this one. The rich-text editor, though, is a really important place to start because it has features that we'd hate for you to miss. These features will help you make your content accessible for all learners, as well as link your material to UD's Catholic heritage. We also think it's important to add your personality and YOUR expert voice whenever possible, so these features will help you do so.",
-                    "section1title" : "Step 1: See It, Learn It",
-                    "section1content" : "A 2 minute overview of some of the features in the text editor.",
-                    "section2title" : "Step 2: Test Your Knowledge",
-                    "section2content" : "The video was just a sample of all that is possible with the rich-text editor. Play around with the buttons yourself to see all that's possible. Only then will you be able to pass the quiz.",
-                     "lti" : [
-                         {
-                             "header": "Quick Quiz",
-                             "description": "Check out the CK Editor article in the Wiki resources to help you answer the questions in the quiz.",
-                             "icon": "fa-list-ol",
-                             "title": "Text Editor Quiz",
-                             "launch": "mod/learnquiz/index.php?quiz=101_ckeditor",
-                             "resource_link_id": "101_ckeditor"
-                         }
-                     ],
-                    "aside1title" : "Additional Resources",
-                    "aside1content" : [
-                        {
-                            "header" : "Wiki Resources",
-                            "references" : [
-                                {
-                                    "icon" : "fa-external-link",
-                                    "title" : "Rich-text Editor Help",
-                                    "href" : "https://ewiki.udayton.edu/isidore/CK_Editor"
-                                },
-                                {
-                                    "icon": "fa-external-link",
-                                    "title" : "Examples of the Templates",
-                                    "href": "https://ewiki.udayton.edu/isidore/Templates"
-                                }
-                            ]
-                        },
-                        {
-                            "header" : "Additional Articles",
-                            "references" : [
-                                {
-                                    "icon" : "fa-external-link",
-                                    "title" : "The Human Touch and Your Digital Personality",
-                                    "href" : "https://secure.onlinelearningconsortium.org/effective_practices/human-touch-and-your-digital-personality"
-                                },
-                                {
-                                    "icon" : "fa-external-link",
-                                    "title" : "Introduction to Web Accessibility",
-                                    "href" : "https://webaim.org/intro/"
-                                },
-                                {
-                                    "icon": "fa-external-link",
-                                    "title" : "Common Themes in the Mission and Identity at the University of Dayton",
-                                    "href" : "https://udayton.edu/rector/_resources/files/common_themes_brochure.pdf"
-                                },
-                                {
-                                    "icon" : "fa-external-link",
-                                    "title" : "Universal Design Principles and Guidelines",
-                                    "href": "http://www.artbeyondsight.org/dic/module-4-museum-access-accessible-physical-space/universal-design-principles-and-guidelines/"
-                                }
-                            ]
-                        }
-                    ],
-                    "aside2title" : "Potential Questions You May Have",
-                    "aside2questions" : [
-                        {
-                            "question" : "Are all text editors in Isidore rich-text editors?",
-                            "answer" : "No. There are places where only plain-text editors are available, so you'll just have to be boring in those places."
-                        },
-                        {
-                            "question" : "Is it okay to just have black text on a white background? I'm not really into all this extra stuff.",
-                            "answer" : "Sure thing! In fact, having too much color or crazy distractions is actually BAD for student learning. We do recommend adding pictures, at least, when they make sense to use (e.g. diagrams, pictures of the textbook, etc.)."
-                        }
-                    ],
-                    "aside3title" : "What's eLearning's favorite rich-text editor tool?",
-                    "aside3content" : "We all answered differently, so the author gets to answer on behalf of the team, mwahaha. Our favorite is the remove format button in the top row of the editor. This tool lets us remove all formatting from the text box, meaning we don't have to individually un-bold and un-italicize everything. Huge timesaver!"
-                },
-                 {
-                    "title": "Overview",
-                    "anchor": "overview",
-                    "icon" : "fa-list",
-                    "description": "Your course landing page. Use it well.",
-                    "videos" : [
-                        {
-                            "title" : "Isidore 101: Overview",
-                            "warpwire" : "ARIBAA"
-                        }
-                    ],
-                    "overviewcontent" : "We beg you. Do something, ANYTHING, with your Overview tool. Please add something other than the catalog description of the class.",
-                    "section1title" : "Step 1: See It, Learn It",
-                    "section1content" : "See some examples of different faculty members' Overviews in the 1 minute video below.",
-                    "section2title" : "Step 2: Try It",
-                    "section2content" : "Have a creative idea for an Overview? Show us!",
-                    "section2prereq" : "To complete this step, you must either have an existing site that you can use, or you must first create a test site as instructed in the Creating Course Sites lesson.",
-                    "section2steps" : [
-                        {
-                            "step" : "Log in to Isidore."
-                        },
-                        {
-                            "step" : "Navigate to the site where you'll add your cool Overview."
-                        },
-                        {
-                            "step" : "Create the best landing page in Isidore using all the information you have learned."
-                        }
-                    ],
-                    "section3title" : "Step 3: Test Your Knowledge",
-                    "section3content" : "We believe you now know everything required to make your Overview pop. Well, we'll believe you know everything AFTER you pass the quiz.",
-                    "lti" : [
-                        {
-                            "header": "Quick Quiz",
-                            "description": "Take the three question quiz below to show us you know how to add the Cheer Cup widget to your Overview.",
-                            "icon": "fa-list-ol",
-                            "title": "Overview Quiz",
-                            "launch": "mod/learnquiz/index.php?quiz=101_overview",
-                            "resource_link_id": "101_overview"
-                        },
-                          {
-                            "header": "Quick Write",
-                            "description": "Make your Overview page something different than the course descrpition, then use the link below to submit your site to eLearning for credit.",
-                            "icon": "fa-pencil-square",
-                            "title": "Review my Overview",
-                            "launch": "mod/modquickwrite/",
-                            "resource_link_id": "101_overview2"
-                         }
-                    ],
-                    "aside1title" : "Additional Resources",
-                    "aside1content" : [
-                        {
-                            "header" : "Wiki Resources",
-                            "references" : [
-                                {
-                                    "icon" : "fa-external-link",
-                                    "title" : "Adding an Image",
-                                    "href" : "https://ewiki.udayton.edu/isidore/Image"
-                                },
-                                {
-                                    "icon" : "fa-external-link",
-                                    "title" : "Manage Overview",
-                                    "href" : "https://ewiki.udayton.edu/isidore/Manage_Overview"
-                                }
-                            ]
-                        },
-                        {
-                            "header" : "Related Lessons",
-                            "references" : [
-                                {
-                                    "icon" : "fa-indent",
-                                    "title" : "Text Editor",
-                                    "href" : "/lessons/texteditor"
-                                }
-                            ]
-                        },
-                        {
-                            "header" : "Additional Articles",
-                            "references" : [
-                                {
-                                    "icon" : "fa-external-link",
-                                    "title" : "UD Faculty Overview Examples",
-                                    "href" : "https://udayton.edu/0/elearning/learn/exampleoverviews.pdf"
-                                }
-                            ]
-                        }
-                    ],
-                    "aside2title" : "Potential Questions You May Have",
-                    "aside2questions" : [
-                        {
-                            "question" : "I only use Isidore to post resources and my syllabus. Why should I do anything with my Isidore site's landing page?",
-                            "answer" : "Instructors at UD use Isidore in such differing and oftentimes perplexing ways that it's really easy for students to be confused on where to look for course resources. We've seen people post the syllabus in, no joke, all of these tools: Announcements, Messages, Resources, Syllabus, Lessons, Calendar, and Chat Room. So while YOU may think it's obvious where everything is, your students might not, so it's helpful to, at the very least, tell them where to look in the site for your stuff. Secondly, because it's fun."
-                        },
-                        {
-                            "question" : "How do you know students make judgments about my Isidore site?",
-                            "answer" : "We ask them. Regularly."
-                        },
-                        {
-                            "question" : "I'd like to add something more interactive to my Overview. Is that possible?",
-                            "answer" : "You betcha. We recommend adding the Commons widget by clicking on the Manage Overview button in the top right corner of the tool. The Commons widget is similar to a social media style newsfeed where you and your students can post quick links to articles, comments, questions, etc."
-                        },
-                        {
-                            "question" : "Are there any examples I can look at?",
-                            "answer" : "Many faculty members have graciously let us share their creative Overview pages. Check them out in the Additional Articles section above. If you want yours on this list, just let us know!"
-                        }
-                    ],
-                    "aside3title" : "Did you know?",
-                    "aside3content" : "The content on your Overview doesn't have to be static!! Change it throughout the semester. Put up a pumpkin joke or or a black cat for Halloween. Add an easter egg for Easter. Do something more interesting than those suggestions."
-                }, 
-                {
-                    "title": "Syllabus",
-                    "anchor": "syllabus",
-                    "icon" : "fa-map-o",
-                    "description": "Don't add it as a Word Doc.",
-                    "videos" : [
-                        {
-                            "title" : "Isidore 101: Syllabus",
-                            "warpwire" : "zQ8BAA"
-                        }
-                    ],
-                    "overviewcontent" : "You're going to be shocked to learn that this tool is for posting your syllabus. Who would have guessed from its name?",
-                    "section1title" : "Step 1: See It, Learn It",
-                    "section1content" : "Spoiler alert. Stop reading right now if you don't want to have the surprise spoiled which it already was on the main page for the Isidore 101 module. Hopefully by this point in the lengthy paragraph that this is you have stopped reading, thus making this a good enough prevention of spoilers. Okay, here is the spoiler: Don't post your Syllabus as a Word Doc.",
-                    "section2title" : "Step 2: Test Your Knowledge",
-                    "section2content" : "If you somehow missed it in literally 3 different areas prior to this quiz, we'll tell you again for some help on the quiz: do not post your syllabus as a Word Doc.",
-                    "lti" : [
-                        {
-                            "header": "Quick Quiz",
-                            "description": "Prove you know everything about syllabuses.",
-                            "icon": "fa-list-ol",
-                            "title": "Syllabus Quiz",
-                            "launch": "mod/learnquiz/index.php?quiz=101_syllabus",
-                            "resource_link_id": "101_syllabus"
-                        }
-                    ],
-                    "aside1title" : "Additional Resources",
-                    "aside1content" : [
-                        {
-                            "header" : "Wiki Resources",
-                            "references" : [
-                                {
-                                    "icon" : "fa-external-link",
-                                    "title" : "Finding the Syllabus Template in Isidore",
-                                    "href" : "https://ewiki.udayton.edu/isidore/Templates"
-                                },
-                                {
-                                    "icon" : "fa-external-link",
-                                    "title" : "Syllabus Tool Help",
-                                    "href" : "https://ewiki.udayton.edu/isidore/Syllabus"
-                                }
-                            ]
-                        },
-                        {
-                            "header" : "Related Lessons",
-                            "references" : [
-                                {
-                                    "icon" : "fa-indent",
-                                    "title" : "Text Editor",
-                                    "href" : "/lessons/texteditor"
-                                }
-                            ]
-                        },
-                        {
-                            "header" : "Additional Articles",
-                            "references" : [
-                                {
-                                    "icon" : "fa-external-link",
-                                    "title" : "How to Create a Syllabus: Advice Guide from The Chronicle",
-                                    "href" : "https://www.chronicle.com/interactives/advice-syllabus"
-                                },
-                                {
-                                    "icon" : "fa-external-link",
-                                    "title" : "ReadTheSyllabus Twitter Account",
-                                    "href" : "https://twitter.com/readthesyllabus"
-                                }
-                            ]
-                        }
-                    ],
-                    "aside2title" : "Potential Questions You May Have",
-                    "aside2questions" : [
-                        {
-                            "question" : "How do you know students don't like the syllabus as a Word Doc?",
-                            "answer" : "We ask them. Regularly. Last time we asked, only 5% of students said they would want the syllabus posted as a Word Doc or PDF as opposed to have it pasted it in Isidore. To be fair, a large percentage also said they wanted it printed and distrubted in class, but we don't want to kill the trees."
-                        },
-                        {
-                            "question" : "Copying and pasting my syllabus into Isidore messes up the formatting. How can I get it to look nice?",
-                            "answer" : "Really wish we had a snappy answer for this one. Like rocket science, maintaining formatting between things is just hard. But we can help. Shoot the Word Doc version of the Syllabus to elearning@udayton.edu, and we'll see what we can do."
-                        },
-                        {
-                            "question" : "If my syllabus is 32 pages long, is it really still okay to just paste in to Isidore?",
-                            "answer" : "First, 32 pages seems . . . excessive. You might want to trim it down or choose a smaller font. If your syllabus is longer than average, then we do recommend adding multiple expandable/collapsible sections to the Syllabus tool (such as 'University Policies', 'Course Information', 'Schedule', and 'Grading Policy') so students can quickly jump to the sections they need most."
-                        },
-                        {
-                            "question" : "Where can I find imoprtant University dates while I'm making my course schedule?",
-                            "answer" : "UD's Academic Calendar at calendar.udayton.edu."
-                        },
-                        {
-                            "question" : "Okay, I get the point, no Word Docs. I don't want to fool around with formatting though, so how do I save it as a PDF?",
-                            "answer" : "This is a great question as it's really not immediately clear that this is possible to do. If you have your Word Doc open, press the File button, then the Save As option. Find a location on your computer to save the file. Then, on the same screen where you can rename the document while saving, there is a \"Save as type\" menu. Click that and choose \"PDF\". Press save, and you're done!"
-                        }
-                    ],
-                    "aside3title" : "Did you know?",
-                    "aside3content" : "Isidore is designed to be responsive, which means that it works well on mobile devices like phones. You know what doesn't work well on phones? Word Docs."
+                  "icon": "fa-external-link",
+                  "title": "Adding an Image",
+                  "href": "https://ewiki.udayton.edu/isidore/Image"
                 },
                 {
-                    "title": "Announcements",
-                    "anchor": "announcements",
-                    "icon" : "fa-bullhorn",
-                    "description": "More effective than yelling over students as they walk out the door.",
-                    "videos" : [
-                        {
-                            "title" : "Isidore 101: Announcements",
-                            "warpwire" : "1_kAAA"
-                        }
-                    ],
-                    "overviewcontent" : "Use the Announcements tool to post messages for your students. You may attach documents and add links. By default, Announcements are also sent to students’ emails, so you can be *sure they see the message.     *seeing the message still not guaranteed.",
-                    "section1title" : "Step 1: See It, Learn It",
-                    "section1content" : "No students were harmed by yelling in the making of this 1 minute video.",
-                    "section2title" : "Step 2: Try It",
-                    "section2content" : "It's now time for you to try posting your own Announcement.",
-                    "section2prereq" : "To complete this step, you must either have an existing site that you can use, or you must first create a test site as instructed in the Creating Course Sites lesson.",
-                    "section2steps" : [
-                        {
-                            "step" : "Log in to Isidore."
-                        },
-                        {
-                            "step" : "Navigate to your testsite."
-                        },
-                        {
-                            "step" : "Post an Announcement. WARNING: if you are testing this feature in a live course site that is published, your students will receive an email."
-                        }
-                    ],
-                    "section3title" : "Step 3: Test Your Knowledge",
-                    "section3content" : "We hope you studied up for this one. It's a toughie.",
-                    "lti" : [
-                        {
-                            "header": "Quick Quiz",
-                            "description": "Take the three question quiz below to establish your Announcements experitse.",
-                            "icon": "fa-list-ol",
-                            "title": "Announcements Quiz",
-                            "launch": "mod/learnquiz/index.php?quiz=101_announcements",
-                            "resource_link_id": "101_announcements"
-                        }
-                    ],
-                    "aside1title" : "Additional Resources",
-                    "aside1content" : [
-                        {
-                            "header" : "Wiki Resources",
-                            "references" : [
-                                {
-                                    "icon" : "fa-external-link",
-                                    "title" : "Announcements Help",
-                                    "href" : "https://ewiki.udayton.edu/isidore/Announcements"
-                                }
-                            ]
-                        },         
-                        {
-                            "header" : "Additional Articles",
-                            "references" : [
-                                {
-                                    "icon" : "fa-external-link",
-                                    "title" : "When You Communicate with Students, Tone Matters",
-                                    "href" : "https://www.chronicle.com/article/When-You-Communicate-With/244756"
-                                },
-                                {
-                                    "icon" : "fa-external-link",
-                                    "title" : "The Need for Balanced Feedback",
-                                    "href" : "https://www.facultyfocus.com/articles/online-education/the-need-for-balanced-feedback/"
-                                }
-                            ]
-                        }
-                    ],
-                    "aside2title" : "Potential Questions You May Have",
-                    "aside2questions" : [
-                        {
-                            "question" : "Where do students see Announcements?",
-                            "answer" : "Students have the option to see Announcements in multiple locations. By default, they can see links to all of their Announcements on their Isidore homepage. They would also see the links to the Announcements on your course site homepage. If you didn’t change the default behavior, students would receive an email notification including the text of the announcement."
-                        },
-                        {
-                            "question" : "Do Announcements work if the site is unpublished?",
-                            "answer" : "Not really. The Announcement will be posted, but an email will not be delivered to students’ inboxes, and they would have no way of seeing the Announcement until the site is published."
-                        },
-                        {
-                            "question" : "Will I receive an email notification about the Announcement as the instructor?",
-                            "answer" : "Yes. Other instructors in your site, if any,  will also receive the email notification."
-                        },
-                        {
-                            "question" : "Can I schedule Announcements?",
-                            "answer" : "You bet! Just choose the 'Specify Dates' option after writing the text for your Announcement. Pick the dates the Announcement should be visible, and it will appear (and disappear) on the selected dates."
-                        },
-                        {
-                            "question" : "Can I save an Announcement as a draft?",
-                            "answer" : "Definitely. Choose the 'Hide' option after writing your Announcement, then press the Post Announcement button. It will be hidden until you edit the Announcement and change that setting to Show."
-                        },
-                        {
-                            "question" : "Can I delete an Announcement?",
-                            "answer" : "Yes - but you cannot delete the email notification from students' inboxes once sent, so proofread before you post!"
-                        }
-                    ],
-                    "aside3title" : "Did you know?",
-                    "aside3content" : "432,000 Announcements have been posted in Isidore since 2008. Y'all do a lot of announcing."
-                },
-                 {
-                    "title": "Resources",
-                    "anchor": "resources",
-                    "icon" : "fa-folder-open",
-                    "description": "Keep this tool organized!",
-                    "videos" : [
-                        {
-                            "title" : "Isidore 101: Resources",
-                            "warpwire" : "ZRIBAA"
-                        }
-                    ],
-                    "overviewcontent" : "The Resources tool is a required tool in your Isidore site, meaning you can't delete it. This is because any attachment, file, or cat picture you add to your site is actually stored in the Resources tool, whether you know it or not. While Resources isn't the only tool you can use to share course materials with your students, it's the easiest to get started with.",
-                    "section1title" : "Step 1: See It, Learn It",
-                    "section1content" : "Watch the 1 minute video overview of Resources tool below to learn the answer to the question your students will ask you the most.",
-                    "section2title" : "Step 2: Test Your Knowledge",
-                    "section2content" : "You now have the power to distribute course resources. Use your power wisely.",
-                     "lti" : [
-                         {
-                             "header": "Quick Quiz",
-                             "description": "You know the drill! Answer 3 questions to prove you watched the video.",
-                             "icon": "fa-list-ol",
-                             "title": "Resources Quiz",
-                             "launch": "mod/learnquiz/index.php?quiz=101_resources",
-                             "resource_link_id": "101_resources"
-                         }
-                     ],
-                    "aside1title" : "Additional Resources",
-                    "aside1content" : [
-                        {
-                            "header" : "Wiki Resources",
-                            "references" : [
-                                {
-                                    "icon" : "fa-external-link",
-                                    "title" : "Resources Help",
-                                    "href" : "https://ewiki.udayton.edu/isidore/Resources"
-                                }
-                            ]
-                        },
-                        {
-                            "header" : "Related Lessons",
-                            "references" : [
-                                {
-                                    "icon" : "fa-bullhorn",
-                                    "title" : "Course Communication",
-                                    "href" : "#"
-                                },
-                                {
-                                    "icon" : "fa-inbox",
-                                    "title" : "Messages Tool",
-                                    "href" : "#"
-                                }
-                            ]
-                        },
-                        {
-                            "header" : "Additional Articles",
-                            "references" : [
-                                {
-                                    "icon" : "fa-external-link",
-                                    "title" : "UD Students Answer: What is the Single Most Important Thing an Instructor can do in Isidore?",
-                                    "href" : "https://udayton.edu/0/elearning/learn/studentsurveyresponses.pdf"
-                                }
-                            ]
-                        }
-                    ],
-                    "aside2title" : "Potential Questions You May Have",
-                    "aside2questions" : [
-                        {
-                            "question" : "I'm already using the Lessons tool to deliver course resources. Should I also make them organized in Resources?",
-                            "answer" : "No. We recommend that instructors use Resources OR Lessons - but never both. If you have everything all nicely organized in Lessons, we suggest hiding the Resources tool so students won't be looking in multiple locations for the materials."
-                        },
-                        {
-                            "question" : "Is there a better way to deliver course resources than this tool?",
-                            "answer" : "The Lessons tool allows you to organize your Resources in more of a webpage format. In Lessons, you can add textual context above each resource, add images, add learning activities next to the resources, and more. However, the learning curve is higher with Lessons, so if you're just getting started, you should stick to Resources for the time being."
-                        },
-                        {
-                            "question" : "Can I add Resources that are hidden from students?",
-                            "answer" : "Yes. We suggest create a folder in Resources in which you will store resources that students shouldn't see. Next to the folder, click on Actions -> Edit Details -> Hide this folder and its contents -> Update. BUT WE ARE WARNING YOU NOW. BE. CAREFUL. Instructors HAVE added test keys then mistakeningly made the folder visible to students, and students got the answers to exams. Consider yourself warned."
-                        }
-                    ],
-                    "aside3title" : "Did you know?",
-                    "aside3content" : "If you post an article in your Resources tool that looks like this: 'http://rave.ohiolink.edu/ejournals/article/345270862' -- your students (and YOU) have literally no idea what that is except that it's probably a journal article of some kind. You can rename the resources you post within Resources by clicking on Actions -> Edit Details -> Display Name. Please do this!!"
-                },
-                 {
-                    "title": "Roster",
-                    "anchor": "roster",
-                    "icon" : "fa-id-card",
-                    "description": "Get to know your students. Well, at least their faces.",
-                    "videos" : [
-                        {
-                            "title" : "Isidore 101: Roster",
-                            "warpwire" : "exEBAA"
-                        }
-                    ],
-                    "overviewcontent" : "Your students will probably think you're a nerd if you come in on the first day and have all their names memorized. But with the roster tool, you could totally do this.",
-                    "section1title" : "Step 1: See It, Learn It",
-                    "section1content" : "There's more to the Roster tool than just seeing their faces. You can also see their academic years, majors, minors. You can also see who the honors students are, so you know who will be 'pulling a Hermione' during your lectures.",
-                    "section3title" : "Step 2: Test Your Knowledge",
-                     "lti" : [
-                         {
-                             "header": "Quick Quiz",
-                             "description": "This quiz is easier than memorizing all your students' names, but you should probably do that, too.",
-                             "icon": "fa-list-ol",
-                             "title": "Roster Quiz",
-                             "launch": "mod/learnquiz/index.php?quiz=101_roster",
-                             "resource_link_id": "101_roster"
-                         }
-                     ],
-                    "aside1title" : "Additional Resources",
-                    "aside1content" : [
-                        {
-                            "header" : "Wiki Resources",
-                            "references" : [
-                                {
-                                    "icon" : "fa-external-link",
-                                    "title" : "Roster Help",
-                                    "href" : "https://ewiki.udayton.edu/isidore/Roster"
-                                },
-                                {
-                                    "icon" : "fa-external-link",
-                                    "title" : "Record Name Pronunciation",
-                                    "href": "https://ewiki.udayton.edu/isidore/Record_the_pronunciation_of_my_name"
-                                },
-                                {
-                                    "icon" : "fa-external-link",
-                                    "title" : "Changing Your Profile Picture",
-                                    "href": "https://ewiki.udayton.edu/isidore/View_Profile#Changing_your_Profile_Picture"
-                                }
-                                    
-                            ]
-                        },
-                        {
-                            "header" : "Additional Articles",
-                            "references" : [
-                                {
-                                    "icon" : "fa-external-link",
-                                    "title" : "Pronouncing Students' Names Correctly Should be a Big Deal",
-                                    "href" : "https://www.edweek.org/tm/articles/2017/11/15/pronouncing-students-names-correctly-should-be-a.html"
-                                }
-                            ]
-                        }
-                    ],
-                    "aside2title" : "Potential Questions You May Have",
-                    "aside2questions" : [
-                        {
-                            "question" : "What can students see in the Roster tool?",
-                            "answer" : "Students will see a list of their peers and instructors, as well as their name recordings. They CANNOT see their peers' profile pictures unless the other students have opted-in to sharing their pictures."
-                        },
-                        {
-                            "question" : "My students haven't recorded their name pronunciations. Can I make them do so?",
-                            "answer" : "No. But I'd bet they would respond favorably to a bribe in the form of a bonus point or two."
-                        },
-                        {
-                            "question": "What the heck do these major/minor abbreviations stand for?",
-                            "answer": "I'm sorry this isn't a link you can click, but here is the most complete list of majors that we've come up with. It seems like new ones are always being made, so we may be missing some. https://udayton.edu/0/elearning/learn/studentsurveyresponses.pdf"
-                        },
-                        {
-                            "question" : "What is a 'pulling a Hermione'?",
-                            "answer" : "A reference to a terribly bright literary character who often participates in class. Also, you should read Harry Potter!"
-                        },
-                        {
-                            "question" : "Because of the spelling of 'pronounce,' shouldn't 'pronunciation' really be spelled 'pronounciation'? With a 'u'?",
-                            "answer" : "100%. After typing this incorrectly ~47 times throughout this lesson, the author would like if you got on board to sign a petition to change the spelling of this word."
-                        }
-                    ]
-                },
-                 {
-                    "title": "Attendance",
-                    "anchor": "attendance",
-                    "icon" : "fa-calendar-check-o",
-                    "description": "Track your students' attendance.",
-                    "videos" : [
-                        {
-                            "title" : "Isidore 101: Attendance",
-                            "warpwire" : "qxIBAA"
-                        }
-                    ],
-                    "overviewcontent" : "In my day, I had to track my own attendance by marking tallies on the back of my agenda. This was possibly not a foolproof system. My, my how times have changed. Record your students' attendance in Isidore so there are no discrepencies between your tracking and their tracking..",
-                    "section1title" : "Step 1: See It, Learn It",
-                    "section1content" : "Taking Attendance in Isidore is a choose-your-own adventure. Watch the 1 minute video to see all the adventure options. 'Adventure' is overselling the experience, but hey, at least you have options.",
-                    "section2title" : "Step 2: Try It",
-                    "section2content" : "Go print a sign-in sheet!",
-                    "section2prereq" : "To complete this step, you must either have an existing site that you can use, or you must first create a test site as instructed in the Creating Course Sites lesson.",
-                    "section2steps" : [
-                        {
-                            "step" : "Log in to Isidore."
-                        },
-                        {
-                            "step" : "Navigate to your testing site."
-                        },
-                        {
-                            "step" : "Create an attendance item."
-                        },
-                        {
-                            "step" : "Figure the rest out for yourself. ;)"
-                        }
-                    ],
-                    "section3title" : "Step 3: Test Your Knowledge",
-                     "lti" : [
-                         {
-                             "header": "Quick Quiz",
-                             "description": "You might be tempted to skip this quiz, but you shouldn't. There's a big time-saving tip in it.",
-                             "icon": "fa-list-ol",
-                             "title": "Attendance Quiz",
-                             "launch": "mod/learnquiz/index.php?quiz=101_attendance",
-                             "resource_link_id": "101_attendance"
-                         }
-                     ],
-                    "aside1title" : "Additional Resources",
-                    "aside1content" : [
-                        {
-                            "header" : "Wiki Resources",
-                            "references" : [
-                                {
-                                    "icon" : "fa-external-link",
-                                    "title" : "Attendance Help",
-                                    "href" : "https://ewiki.udayton.edu/isidore/Attendance"
-                                }
-                            ]
-                        },
-                        {
-                            "header" : "Additional Articles",
-                            "references" : [
-                                {
-                                    "icon" : "fa-external-link",
-                                    "title" : "Why I Don't Take Attendance from The Chronicle",
-                                    "href" : "https://www.chronicle.com/article/Why-I-Don-t-Take-Attendance/241428"
-                                },
-                                {
-                                    "icon" : "fa-external-link",
-                                    "title" : "Class Attendance in College: A Review of the Relationship of Class Attendance with Grades",
-                                    "href" : "https://journals.sagepub.com/doi/full/10.3102/0034654310362998"
-                                }
-                            ]
-                        }
-                    ],
-                    "aside2title" : "Potential Questions You May Have",
-                    "aside2questions" : [
-                        {
-                            "question" : "I have 83 students in a single Isidore site. Is there a faster way to take attendance than clicking on each student?",
-                            "answer" : "Use the 'Mark Displayed Students As Present' feature to mark all students as present first. Then go back and make adjustments for the absent students. Nb: You might want to do the opposite of this on St. Patrick's Day . . ."
-                        },
-                        {
-                            "question" : "I don't care if my students are late or if they left early. Can I get rid of those statuses?",
-                            "answer" : "Yes. Click on the 'Settings' tab at the top of the Attendance tool. Deselect any statuses you don't want to see and press 'Save Settings'."
-                        },
-                        {
-                            "question" : "Do I have to take attendance?",
-                            "answer" : "Attendance is required for first-year students, so yes, please track their attendance. Otherwise, it's up to you. If you have a grade associated with attendance, though, you should keep track just so there are no grade complaints at the end of the semester."
-                        },
-                        {
-                            "question" : "Can I set up grading with Attendance?",
-                            "answer" : "Visit the 'Grading' tab at the top of the Attendance tool to set up grading for Attendance. If you want to define rules (such as if a student misses 3 classes, take 15 points off their attendance grade) for attendance, you can also set those up. If you get stuck with those, give us a call. It's a lot of logic."
-                        },
-                        {
-                            "question" : "Can I save an Announcement as a draft?",
-                            "answer" : "Definitely. Choose the 'Hide' option after writing your Announcement, then press the Post Announcement button. It will be hidden until you edit the Announcement and change that setting to Show."
-                        }
-                    ],
-                    "aside3title" : "Did you know?",
-                    "aside3content" : "We give you the freedom to name your attendance items ANYTHING you want. You all take that freedom and name most of your attendance items, 'Attendance.'"
-                },
-                 {
-                    "title": "Calendar",
-                    "anchor": "calendar",
-                    "icon" : "fa-calendar",
-                    "description": "You should add this one. Students like it.",
-                    "videos" : [
-                        {
-                            "title" : "Isidore 101: Calendar",
-                            "warpwire" : "pxIBAA"
-                        }
-                    ],
-                    "overviewcontent" : "Okay, now that you've added the tool to your course site, do nothing else. Don't touch.",
-                    "section1title" : "Step 1: See It, Learn It",
-                    "section1content" : "Watch this 1 minute video to see all the nothing you should do with this tool.",
-                    "section3title" : "Step 2: Test Your Knowledge",
-                     "lti" : [
-                         {
-                             "header": "Quick Quiz",
-                             "description": "It's important you prove to us you know the Calendar tool.",
-                             "icon": "fa-list-ol",
-                             "title": "Calendar Quiz",
-                             "launch": "mod/learnquiz/index.php?quiz=101_calendar",
-                             "resource_link_id": "101_calendar"
-                         }
-                     ],
-                    "aside1title" : "Additional Resources",
-                    "aside1content" : [
-                        {
-                            "header" : "Wiki Resources",
-                            "references" : [
-                                {
-                                    "icon" : "fa-external-link",
-                                    "title" : "Calendar Help",
-                                    "href" : "https://ewiki.udayton.edu/isidore/Calendar"
-                                }
-                            ]
-                        }
-                    ],
-                    "aside3title" : "How do you describe someone who knows a lot about tech stuff? ",
-                    "aside3content" : "Tech-knowledge-y!"
+                  "icon": "fa-external-link",
+                  "title": "Manage Overview",
+                  "href": "https://ewiki.udayton.edu/isidore/Manage_Overview"
                 }
-            ]
+              ]
+            },
+            {
+              "header": "Related Lessons",
+              "references": [
+                {
+                  "icon": "fa-indent",
+                  "title": "Text Editor",
+                  "href": "/lessons/texteditor"
+                }
+              ]
+            },
+            {
+              "header": "Additional Articles",
+              "references": [
+                {
+                  "icon": "fa-external-link",
+                  "title": "UD Faculty Overview Examples",
+                  "href": "https://udayton.edu/0/elearning/learn/exampleoverviews.pdf"
+                }
+              ]
+            }
+          ],
+          "aside2title": "Potential Questions You May Have",
+          "aside2questions": [
+            {
+              "question": "I only use Isidore to post resources and my syllabus. Why should I do anything with my Isidore site's landing page?",
+              "answer": "Instructors at UD use Isidore in such differing and oftentimes perplexing ways that it's really easy for students to be confused on where to look for course resources. We've seen people post the syllabus in, no joke, all of these tools: Announcements, Messages, Resources, Syllabus, Lessons, Calendar, and Chat Room. So while YOU may think it's obvious where everything is, your students might not, so it's helpful to, at the very least, tell them where to look in the site for your stuff. Secondly, because it's fun."
+            },
+            {
+              "question": "How do you know students make judgments about my Isidore site?",
+              "answer": "We ask them. Regularly."
+            },
+            {
+              "question": "I'd like to add something more interactive to my Overview. Is that possible?",
+              "answer": "You betcha. We recommend adding the Commons widget by clicking on the Manage Overview button in the top right corner of the tool. The Commons widget is similar to a social media style newsfeed where you and your students can post quick links to articles, comments, questions, etc."
+            },
+            {
+              "question": "Are there any examples I can look at?",
+              "answer": "Many faculty members have graciously let us share their creative Overview pages. Check them out in the Additional Articles section above. If you want yours on this list, just let us know!"
+            }
+          ],
+          "aside3title": "Did you know?",
+          "aside3content": "The content on your Overview doesn't have to be static!! Change it throughout the semester. Put up a pumpkin joke or or a black cat for Halloween. Add an easter egg for Easter. Do something more interesting than those suggestions."
         },
         {
-            "title": "Accessibility",
-            "description": "These lessons introduce the concepts of digital accessibility in the context of teaching here at the University of Dayton. There are Additional Resources provided to gain a very complete understanding of how to make all of your course content accessible.",
-
-            "time": "Est. 35 min",
-            "anchor": "accessibility",
-            "video": {
-                "title": "Accessibility Teaser",
-                "warpwire": "aScBAA"
-            },
-            "lessons": [
+          "title": "Syllabus",
+          "anchor": "syllabus",
+          "icon": "fa-map-o",
+          "description": "Don't add it as a Word Doc.",
+          "videos": [
+            {
+              "title": "Isidore 101: Syllabus",
+              "warpwire": "zQ8BAA"
+            }
+          ],
+          "overviewcontent": "You're going to be shocked to learn that this tool is for posting your syllabus. Who would have guessed from its name?",
+          "section1title": "Step 1: See It, Learn It",
+          "section1content": "Spoiler alert. Stop reading right now if you don't want to have the surprise spoiled which it already was on the main page for the Isidore 101 module. Hopefully by this point in the lengthy paragraph that this is you have stopped reading, thus making this a good enough prevention of spoilers. Okay, here is the spoiler: Don't post your Syllabus as a Word Doc.",
+          "section2title": "Step 2: Test Your Knowledge",
+          "section2content": "If you somehow missed it in literally 3 different areas prior to this quiz, we'll tell you again for some help on the quiz: do not post your syllabus as a Word Doc.",
+          "lti": [
+            {
+              "header": "Quick Quiz",
+              "description": "Prove you know everything about syllabuses.",
+              "icon": "fa-list-ol",
+              "title": "Syllabus Quiz",
+              "launch": "mod/learnquiz/index.php?quiz=101_syllabus",
+              "resource_link_id": "101_syllabus"
+            }
+          ],
+          "aside1title": "Additional Resources",
+          "aside1content": [
+            {
+              "header": "Wiki Resources",
+              "references": [
                 {
-                    "title": "Visual Disabilities",
-                    "anchor": "visualdisabilities",
-                    "icon": "fa-eye",
-                    "description": "How can you make your content accessible for students with visual impairments?",
-                    "videos": [
-                        {
-                            "title": "Accessibility: Visual Disabilities",
-                            "warpwire": "iyYBAA"
-                        }
-                    ],
-                    "overviewcontent": "Students with profound visual impairments use screen reading software to read files and web pages. How does this inform the way you construct and organize your content? And how does color-blindness affect your use of color?",
-                    "section1title": "Step 1",
-                    "section1content": "This video explains the essentials for producing content that is accessible to students with visual impairments.",
-                    "section2title": "Step 2: Test Your Knowledge",
-                    "section2content": "In addition to watching the video, please look through the Additional Resources. Then you will be ready for the following assessments.",
-                    "lti": [
-                        {
-                            "header": "Quick Quiz",
-                            "description": "The following quiz will measure your understanding of the essential elements described in the video.",
-                            "icon": "fa-list-ol",
-                            "title": "Visual Disabilities Quiz",
-                            "launch": "mod/learnquiz/index.php?quiz=acc_visual",
-                            "resource_link_id": "acc_visual"
-                        },
-                        {
-                            "header": "Quick Write",
-                            "description": "Complete the following assignment.",
-                            "icon": "fa-pencil-square",
-                            "title": "Visual Disabilities Assignment",
-                            "launch": "mod/modquickwrite/",
-                            "resource_link_id": "acc_visual_qw"
-                        }
-                    ],
-                    "aside1title": "Additional Resources",
-                    "aside1content": [
-                        {
-                            "header": "Resources",
-                            "references": [
-                                {
-                                    "icon": "fa-play-circle",
-                                    "title": "Robert Spangler Interview Video",
-                                    "href": "https://udayton.warpwire.com/w/gSoBAA/"
-                                },
-                                {
-                                    "icon": "fa-external-link",
-                                    "title": "Designing for Visual Disabilities",
-                                    "href": "https://webaim.org/articles/visual/"
-                                },
-                                {
-                                    "icon": "fa-external-link",
-                                    "title": "Introduction to Web Accessibility",
-                                    "href": "https://webaim.org/intro/"
-                                }
-                            ]
-                        },
-                        {
-                            "header": "Related Lessons",
-                            "references": [
-                                {
-                                    "icon": "fa-sign-in-alt",
-                                    "title": "Isidore Text Editor",
-                                    "href": "/lessons/texteditor"
-                                }
-                            ]
-                        }
-                    ],
-                    "aside2title": "Potential Questions You May Have",
-                    "aside2questions": [
-                        {
-                            "question": "How detailed should I be when writing alt text for an image?",
-                            "answer": "Be brief, but be sure to describe the essential elements of the image. If the graphic is supposed to make the audience think or feel something, be sure your alt text leads that direction."
-                        },
-                        {
-                            "question": "Should I always start with H1?",
-                            "answer": "This gets tricky. The main thing is that you use header tags. That's 99% of the battle. Often Isidore has existing headers already in place. In most cases in Isidore, it's recommended you start with H2."
-                        }
-                    ],
-                    "aside3title": "Did you know?",
-                    "aside3content": "The Office of eLearning has invited expert screen-reader users to evaluate Isidore. Additionally, Isidore is based on the open source LMS Sakai, which has accessibility as crucial foundation of the software."
+                  "icon": "fa-external-link",
+                  "title": "Finding the Syllabus Template in Isidore",
+                  "href": "https://ewiki.udayton.edu/isidore/Templates"
                 },
                 {
-                    "title": "Auditory Disabilities",
-                    "anchor": "auditorydisabilities",
-                    "icon": "fa-volume",
-                    "description": "How can you make your content accessible for students with hearing impairments?",
-                    "videos": [
-                        {
-                            "title": "Accessibility: Auditory Disabilities",
-                            "warpwire": "JykBAA"
-                        }
-                    ],
-                    "overviewcontent": "Videos have two components, picture and sound. For students with hearing impairments, you will need to ensure there are captions. The bonus is that captions are actually beneficial to many more people. ",
-                    "section1title": "Step 1",
-                    "section1content": "This video explains the essentials for producing content that is accessible to students with hearing impairments, and it also explains how captions can be beneficial to students without hearing impairments.",
-                    "section2title": "Step 2: Test Your Knowledge",
-                    "section2content": "In addition to watching the video, please look through the Additional Resources. Then you will be ready for the following assessments.",
-                    "lti": [
-                        {
-                            "header": "Quick Quiz",
-                            "description": "The following quiz will measure your understanding of the essential elements described in the video.",
-                            "icon": "fa-list-ol",
-                            "title": "Auditory Disabilities Quiz",
-                            "launch": "mod/learnquiz/index.php?quiz=acc_auditory",
-                            "resource_link_id": "acc_auditory"
-                        },
-                        {
-                            "header": "Quick Write",
-                            "description": "Complete the following assignment.",
-                            "icon": "fa-pencil-square",
-                            "title": "Auditory Disabilities Assignment",
-                            "launch": "mod/modquickwrite/",
-                            "resource_link_id": "acc_auditory_qw"
-                        }
-                    ],
-                    "aside1title": "Additional Resources",
-                    "aside1content": [
-                        {
-                            "header": "Resources",
-                            "references": [
-                                {
-                                    "icon": "fa-external-link",
-                                    "title": "WebAIM Captions, Transcripts, and Audio",
-                                    "href": "https://webaim.org/techniques/captions/"
-                                },
-                                {
-                                    "icon": "fa-external-link",
-                                    "title": "How to Locate Captioned Videos and Create Your Own",
-                                    "href": "http://aem.cast.org/about/module-3-new-educator-training.html"
-                                },
-                                {
-                                    "icon": "fa-external-link",
-                                    "title": "National Center on Accessible Educational Materials: Closed Captioning",
-                                    "href": "http://aem.cast.org/about/events/2017/05/beginning-with-the-why-an-introduction-to-closed-captioning.html"
-                                },
-                                {
-                                    "icon": "fa-external-link",
-                                    "title": "UDayton eWiki on Accessibility",
-                                    "href": "https://ewiki.udayton.edu/isidore/Accessibility"
-                                },
-                                {
-                                    "icon": "fa-external-link",
-                                    "title": "Using Warpwire in Isidore",
-                                    "href": "https://ewiki.udayton.edu/isidore/Warpwire_Video"
-                                },
-                                {
-                                    "icon": "fa-external-link",
-                                    "title": "Closed Captions in YouTube",
-                                    "href": "https://support.google.com/youtube/answer/2734705?hl=en"
-                                }
-                            ]
-                        },
-                        {
-                            "header": "Related Lessons",
-                            "references": [
-                                {
-                                    "icon": "fa-sign-in-alt",
-                                    "title": "Isidore Text Editor",
-                                    "href": "/lessons/texteditor"
-                                }
-                            ]
-                        }
-                    ],
-                    "aside2title": "Potential Questions You May Have",
-                    "aside2questions": [
-                        {
-                            "question": "Do I have to pay for captions?",
-                            "answer": "Not if it's for a course. If you upload videos to Warpwire for the purpose of providing instructional content, the Office of eLearning will take care of the captions for you."
-                        },
-                        {
-                            "question": "How can I ensure the captions are accurate?",
-                            "answer": "You are still responsible for the accuracy of the captions, so please check them. If you find inaccuracies please contact the Office of eLearning."
-                        }
-                    ],
-                    "aside3title": "Did you know?",
-                    "aside3content": "Warpwire videos can actually be searched. For example, if you wanted to search a video for the moment the speaker says the word, 'Malaysia', you just click the search icon type 'Malaysia'. This is possible due to the presence of captions."
-                },
-                {
-                    "title": "Cognitive, Motor, & Other Disabilities",
-                    "anchor": "cogdisabilities",
-                    "icon": "fa-hand-pointer",
-                    "description": "How can you make your content accessible for students with cognitive, motor, and other disabilities?",
-                    "videos": [
-                        {
-                            "title": "Accessibility: Other Disabilities",
-                            "warpwire": "iyYBAA"
-                        }
-                    ],
-                    "overviewcontent": "Many of the accessibility techniques you use for people with visual disabilities are helpful for individuals with cognitive and motor disabilities, but putting extra attention on organization and clarity is definitely something you should prioritize.",
-                    "section1title": "Step 1",
-                    "section1content": "This video explains the essentials for producing content that is accessible to students with cognitive and motor disabilities. There also is discussion on content for students with seizure disorders.",
-                    "section2title": "Step 2: Test Your Knowledge",
-                    "section2content": "In addition to watching the video, please look through the Additional Resources. Then you will be ready for the following assessments.",
-                    "lti": [
-                        {
-                            "header": "Quick Quiz",
-                            "description": "The following quiz will measure your understanding of the essential elements described in the video.",
-                            "icon": "fa-list-ol",
-                            "title": "Other Disabilities Quiz",
-                            "launch": "mod/learnquiz/index.php?quiz=acc_cog",
-                            "resource_link_id": "acc_cog"
-                        },
-                        {
-                            "header": "Quick Write",
-                            "description": "Complete the following assignment.",
-                            "icon": "fa-pencil-square",
-                            "title": "Other Disabilities Assignment",
-                            "launch": "mod/modquickwrite/",
-                            "resource_link_id": "acc_cog_qw"
-                        }
-                    ],
-                    "aside1title": "Additional Resources",
-                    "aside1content": [
-                        {
-                            "header": "Resources",
-                            "references": [
-                                {
-                                    "icon": "fa-external-link",
-                                    "title": "WebAIM Cognitive Disabilities",
-                                    "href": "https://webaim.org/articles/cognitive/"
-                                },
-                                {
-                                    "icon": "fa-external-link",
-                                    "title": "WebAIM Motor Disabilities",
-                                    "href": "https://webaim.org/articles/motor/"
-                                },
-                                {
-                                    "icon": "fa-external-link",
-                                    "title": "WebAIM Seizure Disorders",
-                                    "href": "https://webaim.org/articles/seizure/"
-                                },
-                                {
-                                    "icon": "fa-external-link",
-                                    "title": "UDayton eWiki on Accessibility",
-                                    "href": "https://ewiki.udayton.edu/isidore/Accessibility"
-                                }
-                            ]
-                        },
-                        {
-                            "header": "Related Lessons",
-                            "references": [
-                                {
-                                    "icon": "fa-sign-in-alt",
-                                    "title": "Isidore Text Editor",
-                                    "href": "/lessons/texteditor"
-                                }
-                            ]
-                        }
-                    ],
-                    "aside2title": "Potential Questions You May Have",
-                    "aside2questions": [
-                        {
-                            "question": "What if my content is inherently complex?",
-                            "answer": "It's not about how complicated your content is, but rather how clearly you present it. Be organized. Use headers and spacing appropriately."
-                        },
-                        {
-                            "question": "What if a student is lacking in basic study skills?",
-                            "answer": "Direct them to contact the Office of Learning Resources or contact the Student Success Team."
-                        }
-                    ],
-                    "aside3title": "Did you know?",
-                    "aside3content": "A study revealed that simply presenting the same instructions in an easier to read font, caused students to see the tasks as easier. Clarity and organization make a difference."
-                },
-                {
-                    "title": "Accessible Documents",
-                    "anchor": "accessibledocs",
-                    "icon": "fa-file-image",
-                    "description": "How can you make your files, such as Word and Powerpoint, accessible for students with disabilities?",
-                    "videos": [
-                        {
-                            "title": "Accessibility: Accessible Documents",
-                            "warpwire": "iyYBAA"
-                        }
-                    ],
-                    "overviewcontent": "All documents utilized in class must be made available in electronic format to students. This is important not just for students with visual and hearing impairments but for all students who may have academic accommodations for attention issues and processing disorders. This impacts approximately 5-10 percent of students. What steps must you take to ensure that the electronic version is completely accessible?",
-                    "section1title": "Step 1",
-                    "section1content": "This video explains the essentials for delivering accessible files.",
-                    "section2title": "Step 2: Test Your Knowledge",
-                    "section2content": "In addition to watching the video, please look through the Additional Resources. Then you will be ready for the following assessments.",
-                    "lti": [
-                        {
-                            "header": "Quick Quiz",
-                            "description": "The following quiz will measure your understanding of the essential elements described in the video.",
-                            "icon": "fa-list-ol",
-                            "title": "Accessible Documents Quiz",
-                            "launch": "mod/learnquiz/index.php?quiz=acc_files",
-                            "resource_link_id": "acc_files"
-                        },
-                        {
-                            "header": "Quick Write",
-                            "description": "Complete the following assignment.",
-                            "icon": "fa-pencil-square",
-                            "title": "Accessible Documents Assignment",
-                            "launch": "mod/modquickwrite/",
-                            "resource_link_id": "acc_files_qw"
-                        }
-                    ],
-                    "aside1title": "Additional Resources",
-                    "aside1content": [
-                        {
-                            "header": "Resources",
-                            "references": [
-                                {
-                                    "icon": "fa-external-link",
-                                    "title": "Sensus Access Accessible Document Conversion",
-                                    "href": "https://udayton.edu/ltc/learningresources/disability/sensus-access-instructions.php"
-                                },
-                                {
-                                    "icon": "fa-external-link",
-                                    "title": "Microsoft Word Training on Accessibility in Word",
-                                    "href": "https://support.office.com/en-us/article/make-your-word-documents-accessible-to-people-with-disabilities-d9bf3683-87ac-47ea-b91a-78dcacb3c66d#bkmk_winlinksscreentips"
-                                },
-                                {
-                                    "icon": "fa-external-link",
-                                    "title": "Microsoft Word Training on Accessibility in PowerPoint",
-                                    "href": "https://support.office.com/en-us/article/make-your-powerpoint-presentations-accessible-to-people-with-disabilities-6f7772b2-2f33-4bd2-8ca7-dae3b2b3ef25"
-                                },
-                                {
-                                    "icon": "fa-external-link",
-                                    "title": "National Center on Accessible Educational Materials: Closed Captioning",
-                                    "href": "http://aem.cast.org/about/events/2017/05/beginning-with-the-why-an-introduction-to-closed-captioning.html"
-                                },
-                                {
-                                    "icon": "fa-external-link",
-                                    "title": "WebAIM Word, Powerpoint, and Acrobat",
-                                    "href": "https://webaim.org/training/docs/"
-                                },
-                                {
-                                    "icon": "fa-external-link",
-                                    "title": "National Center on Accessible Educational Materials: Accessible Documents",
-                                    "href": "http://aem.cast.org/about/module-2-new-educator-training.html"
-                                },
-                                {
-                                    "icon": "fa-external-link",
-                                    "title": "Adobe Acrobat Accessibility Overview",
-                                    "href": "https://www.adobe.com/accessibility/products/acrobat.html"
-                                }
-                            ]
-                        },
-                        {
-                            "header": "Related Lessons",
-                            "references": [
-                                {
-                                    "icon": "fa-sign-in-alt",
-                                    "title": "Isidore Text Editor",
-                                    "href": "/lessons/texteditor"
-                                }
-                            ]
-                        }
-                    ],
-                    "aside2title": "Potential Questions You May Have",
-                    "aside2questions": [
-                        {
-                            "question": "What do I do if my existing documents are not accessible?",
-                            "answer": "In the Additional Resources, you'll see a link to Sensus Access. This can be very useful in terms of converting text that is unreadable to readable text. It will not necessarily convert all headings and it certainly won't put alt text in there, but it gives you a good base to start from."
-                        },
-                        {
-                            "question": "I don't like the way the headers look in MS Word, can I change the look?",
-                            "answer": "You bet! In the ribbon you can right mouse click on the header you want to change and it will change it for all instances of the header."
-                        }
-                    ],
-                    "aside3title": "Did you know?",
-                    "aside3content": "Google Docs and Slides also have the same general accessible properties as their Microsoft Office counterparts."
-                },
-                {
-                    "title": "Accessibility of Outside Materials",
-                    "anchor": "accessiblematerials",
-                    "icon": "fa-globe",
-                    "description": "If you intend to use materials that you do not produce yourself, how can you be sure they are accessible?",
-                    "videos": [
-                        {
-                            "title": "Accessibility: Outside Materials",
-                            "warpwire": "8SgBAA"
-                        }
-                    ],
-                    "overviewcontent": "Most faculty include some externally produced content in their course required course materials. This could be articles from the web, YouTube videos, publisher resources, and software. If you are requiring your students to use it, you need to be sure it is accessible.",
-                    "section1title": "Step 1",
-                    "section1content": "This video explains the essentials for ensuring outside materials are accessible.",
-                    "section2title": "Step 2: Test Your Knowledge",
-                    "section2content": "In addition to watching the video, please look through the Additional Resources. Then you will be ready for the following assessments.",
-                    "lti": [
-                        {
-                            "header": "Quick Quiz",
-                            "description": "The following quiz will measure your understanding of the essential elements described in the video.",
-                            "icon": "fa-list-ol",
-                            "title": "Outside Materials Quiz",
-                            "launch": "mod/learnquiz/index.php?quiz=acc_materials",
-                            "resource_link_id": "acc_materials"
-                        },
-                        {
-                            "header": "Quick Write",
-                            "description": "Complete the following assignment.",
-                            "icon": "fa-pencil-square",
-                            "title": "Outside Materials Assignment",
-                            "launch": "mod/modquickwrite/",
-                            "resource_link_id": "acc_materials_qw"
-                        }
-                    ],
-                    "aside1title": "Additional Resources",
-                    "aside1content": [
-                        {
-                            "header": "Resources",
-                            "references": [
-                                {
-                                    "icon": "fa-external-link",
-                                    "title": "Sensus Access Accessible Document Conversion",
-                                    "href": "https://udayton.edu/ltc/learningresources/disability/sensus-access-instructions.php"
-                                },
-                                {
-                                    "icon": "fa-external-link",
-                                    "title": "How to Find Specialized Formats of Print Materials",
-                                    "href": "http://aem.cast.org/about/module-4-new-educator-training.html"
-                                },
-                                {
-                                    "icon": "fa-external-link",
-                                    "title": "How to Select Accessible Digital Materials",
-                                    "href": "http://aem.cast.org/about/module-5-new-educator-training.html"
-                                },
-                                {
-                                    "icon": "fa-external-link",
-                                    "title": "UDayton eWiki on Accessibility",
-                                    "href": "https://ewiki.udayton.edu/isidore/Accessibility"
-                                },
-                                {
-                                    "icon": "fa-external-link",
-                                    "title": "Rev Captioning YouTube Videos",
-                                    "href": "https://www.rev.com/blog/how-to-add-closed-captions-to-youtube-videos"
-                                }
-                            ]
-                        },
-                        {
-                            "header": "Related Lessons",
-                            "references": [
-                                {
-                                    "icon": "fa-sign-in-alt",
-                                    "title": "Isidore Text Editor",
-                                    "href": "/lessons/texteditor"
-                                }
-                            ]
-                        }
-                    ],
-                    "aside2title": "Potential Questions You May Have",
-                    "aside2questions": [
-                        {
-                            "question": "My chair picked my materials, what if they're not accessible?",
-                            "answer": "Say something, but be tactful about it. Offer to contact the vendor or publisher. Your chair can later decide whether you'll continue with those materials."
-                        },
-                        {
-                            "question": "How can I ensure the captions are accurate?",
-                            "answer": "You are still responsible for the accuracy of the captions, so please check them. If you find inaccuracies please contact the Office of eLearning."
-                        }
-                    ],
-                    "aside3title": "Did you know?",
-                    "aside3content": "Most electronic textbooks are accessible, and they also tend to be cheaper. Just remember to check before you buy."
+                  "icon": "fa-external-link",
+                  "title": "Syllabus Tool Help",
+                  "href": "https://ewiki.udayton.edu/isidore/Syllabus"
                 }
-            ]
+              ]
+            },
+            {
+              "header": "Related Lessons",
+              "references": [
+                {
+                  "icon": "fa-indent",
+                  "title": "Text Editor",
+                  "href": "/lessons/texteditor"
+                }
+              ]
+            },
+            {
+              "header": "Additional Articles",
+              "references": [
+                {
+                  "icon": "fa-external-link",
+                  "title": "How to Create a Syllabus: Advice Guide from The Chronicle",
+                  "href": "https://www.chronicle.com/interactives/advice-syllabus"
+                },
+                {
+                  "icon": "fa-external-link",
+                  "title": "ReadTheSyllabus Twitter Account",
+                  "href": "https://twitter.com/readthesyllabus"
+                }
+              ]
+            }
+          ],
+          "aside2title": "Potential Questions You May Have",
+          "aside2questions": [
+            {
+              "question": "How do you know students don't like the syllabus as a Word Doc?",
+              "answer": "We ask them. Regularly. Last time we asked, only 5% of students said they would want the syllabus posted as a Word Doc or PDF as opposed to have it pasted it in Isidore. To be fair, a large percentage also said they wanted it printed and distrubted in class, but we don't want to kill the trees."
+            },
+            {
+              "question": "Copying and pasting my syllabus into Isidore messes up the formatting. How can I get it to look nice?",
+              "answer": "Really wish we had a snappy answer for this one. Like rocket science, maintaining formatting between things is just hard. But we can help. Shoot the Word Doc version of the Syllabus to elearning@udayton.edu, and we'll see what we can do."
+            },
+            {
+              "question": "If my syllabus is 32 pages long, is it really still okay to just paste in to Isidore?",
+              "answer": "First, 32 pages seems . . . excessive. You might want to trim it down or choose a smaller font. If your syllabus is longer than average, then we do recommend adding multiple expandable/collapsible sections to the Syllabus tool (such as 'University Policies', 'Course Information', 'Schedule', and 'Grading Policy') so students can quickly jump to the sections they need most."
+            },
+            {
+              "question": "Where can I find imoprtant University dates while I'm making my course schedule?",
+              "answer": "UD's Academic Calendar at calendar.udayton.edu."
+            },
+            {
+              "question": "Okay, I get the point, no Word Docs. I don't want to fool around with formatting though, so how do I save it as a PDF?",
+              "answer": "This is a great question as it's really not immediately clear that this is possible to do. If you have your Word Doc open, press the File button, then the Save As option. Find a location on your computer to save the file. Then, on the same screen where you can rename the document while saving, there is a \"Save as type\" menu. Click that and choose \"PDF\". Press save, and you're done!"
+            }
+          ],
+          "aside3title": "Did you know?",
+          "aside3content": "Isidore is designed to be responsive, which means that it works well on mobile devices like phones. You know what doesn't work well on phones? Word Docs."
+        },
+        {
+          "title": "Announcements",
+          "anchor": "announcements",
+          "icon": "fa-bullhorn",
+          "description": "More effective than yelling over students as they walk out the door.",
+          "videos": [
+            {
+              "title": "Isidore 101: Announcements",
+              "warpwire": "1_kAAA"
+            }
+          ],
+          "overviewcontent": "Use the Announcements tool to post messages for your students. You may attach documents and add links. By default, Announcements are also sent to students’ emails, so you can be *sure they see the message.     *seeing the message still not guaranteed.",
+          "section1title": "Step 1: See It, Learn It",
+          "section1content": "No students were harmed by yelling in the making of this 1 minute video.",
+          "section2title": "Step 2: Try It",
+          "section2content": "It's now time for you to try posting your own Announcement.",
+          "section2prereq": "To complete this step, you must either have an existing site that you can use, or you must first create a test site as instructed in the Creating Course Sites lesson.",
+          "section2steps": [
+            {
+              "step": "Log in to Isidore."
+            },
+            {
+              "step": "Navigate to your testsite."
+            },
+            {
+              "step": "Post an Announcement. WARNING: if you are testing this feature in a live course site that is published, your students will receive an email."
+            }
+          ],
+          "section3title": "Step 3: Test Your Knowledge",
+          "section3content": "We hope you studied up for this one. It's a toughie.",
+          "lti": [
+            {
+              "header": "Quick Quiz",
+              "description": "Take the three question quiz below to establish your Announcements experitse.",
+              "icon": "fa-list-ol",
+              "title": "Announcements Quiz",
+              "launch": "mod/learnquiz/index.php?quiz=101_announcements",
+              "resource_link_id": "101_announcements"
+            }
+          ],
+          "aside1title": "Additional Resources",
+          "aside1content": [
+            {
+              "header": "Wiki Resources",
+              "references": [
+                {
+                  "icon": "fa-external-link",
+                  "title": "Announcements Help",
+                  "href": "https://ewiki.udayton.edu/isidore/Announcements"
+                }
+              ]
+            },
+            {
+              "header": "Additional Articles",
+              "references": [
+                {
+                  "icon": "fa-external-link",
+                  "title": "When You Communicate with Students, Tone Matters",
+                  "href": "https://www.chronicle.com/article/When-You-Communicate-With/244756"
+                },
+                {
+                  "icon": "fa-external-link",
+                  "title": "The Need for Balanced Feedback",
+                  "href": "https://www.facultyfocus.com/articles/online-education/the-need-for-balanced-feedback/"
+                }
+              ]
+            }
+          ],
+          "aside2title": "Potential Questions You May Have",
+          "aside2questions": [
+            {
+              "question": "Where do students see Announcements?",
+              "answer": "Students have the option to see Announcements in multiple locations. By default, they can see links to all of their Announcements on their Isidore homepage. They would also see the links to the Announcements on your course site homepage. If you didn’t change the default behavior, students would receive an email notification including the text of the announcement."
+            },
+            {
+              "question": "Do Announcements work if the site is unpublished?",
+              "answer": "Not really. The Announcement will be posted, but an email will not be delivered to students’ inboxes, and they would have no way of seeing the Announcement until the site is published."
+            },
+            {
+              "question": "Will I receive an email notification about the Announcement as the instructor?",
+              "answer": "Yes. Other instructors in your site, if any,  will also receive the email notification."
+            },
+            {
+              "question": "Can I schedule Announcements?",
+              "answer": "You bet! Just choose the 'Specify Dates' option after writing the text for your Announcement. Pick the dates the Announcement should be visible, and it will appear (and disappear) on the selected dates."
+            },
+            {
+              "question": "Can I save an Announcement as a draft?",
+              "answer": "Definitely. Choose the 'Hide' option after writing your Announcement, then press the Post Announcement button. It will be hidden until you edit the Announcement and change that setting to Show."
+            },
+            {
+              "question": "Can I delete an Announcement?",
+              "answer": "Yes - but you cannot delete the email notification from students' inboxes once sent, so proofread before you post!"
+            }
+          ],
+          "aside3title": "Did you know?",
+          "aside3content": "432,000 Announcements have been posted in Isidore since 2008. Y'all do a lot of announcing."
+        },
+        {
+          "title": "Resources",
+          "anchor": "resources",
+          "icon": "fa-folder-open",
+          "description": "Keep this tool organized!",
+          "videos": [
+            {
+              "title": "Isidore 101: Resources",
+              "warpwire": "ZRIBAA"
+            }
+          ],
+          "overviewcontent": "The Resources tool is a required tool in your Isidore site, meaning you can't delete it. This is because any attachment, file, or cat picture you add to your site is actually stored in the Resources tool, whether you know it or not. While Resources isn't the only tool you can use to share course materials with your students, it's the easiest to get started with.",
+          "section1title": "Step 1: See It, Learn It",
+          "section1content": "Watch the 1 minute video overview of Resources tool below to learn the answer to the question your students will ask you the most.",
+          "section2title": "Step 2: Test Your Knowledge",
+          "section2content": "You now have the power to distribute course resources. Use your power wisely.",
+          "lti": [
+            {
+              "header": "Quick Quiz",
+              "description": "You know the drill! Answer 3 questions to prove you watched the video.",
+              "icon": "fa-list-ol",
+              "title": "Resources Quiz",
+              "launch": "mod/learnquiz/index.php?quiz=101_resources",
+              "resource_link_id": "101_resources"
+            }
+          ],
+          "aside1title": "Additional Resources",
+          "aside1content": [
+            {
+              "header": "Wiki Resources",
+              "references": [
+                {
+                  "icon": "fa-external-link",
+                  "title": "Resources Help",
+                  "href": "https://ewiki.udayton.edu/isidore/Resources"
+                }
+              ]
+            },
+            {
+              "header": "Related Lessons",
+              "references": [
+                {
+                  "icon": "fa-bullhorn",
+                  "title": "Course Communication",
+                  "href": "#"
+                },
+                {
+                  "icon": "fa-inbox",
+                  "title": "Messages Tool",
+                  "href": "#"
+                }
+              ]
+            },
+            {
+              "header": "Additional Articles",
+              "references": [
+                {
+                  "icon": "fa-external-link",
+                  "title": "UD Students Answer: What is the Single Most Important Thing an Instructor can do in Isidore?",
+                  "href": "https://udayton.edu/0/elearning/learn/studentsurveyresponses.pdf"
+                }
+              ]
+            }
+          ],
+          "aside2title": "Potential Questions You May Have",
+          "aside2questions": [
+            {
+              "question": "I'm already using the Lessons tool to deliver course resources. Should I also make them organized in Resources?",
+              "answer": "No. We recommend that instructors use Resources OR Lessons - but never both. If you have everything all nicely organized in Lessons, we suggest hiding the Resources tool so students won't be looking in multiple locations for the materials."
+            },
+            {
+              "question": "Is there a better way to deliver course resources than this tool?",
+              "answer": "The Lessons tool allows you to organize your Resources in more of a webpage format. In Lessons, you can add textual context above each resource, add images, add learning activities next to the resources, and more. However, the learning curve is higher with Lessons, so if you're just getting started, you should stick to Resources for the time being."
+            },
+            {
+              "question": "Can I add Resources that are hidden from students?",
+              "answer": "Yes. We suggest create a folder in Resources in which you will store resources that students shouldn't see. Next to the folder, click on Actions -> Edit Details -> Hide this folder and its contents -> Update. BUT WE ARE WARNING YOU NOW. BE. CAREFUL. Instructors HAVE added test keys then mistakeningly made the folder visible to students, and students got the answers to exams. Consider yourself warned."
+            }
+          ],
+          "aside3title": "Did you know?",
+          "aside3content": "If you post an article in your Resources tool that looks like this: 'http://rave.ohiolink.edu/ejournals/article/345270862' -- your students (and YOU) have literally no idea what that is except that it's probably a journal article of some kind. You can rename the resources you post within Resources by clicking on Actions -> Edit Details -> Display Name. Please do this!!"
+        },
+        {
+          "title": "Roster",
+          "anchor": "roster",
+          "icon": "fa-id-card",
+          "description": "Get to know your students. Well, at least their faces.",
+          "videos": [
+            {
+              "title": "Isidore 101: Roster",
+              "warpwire": "exEBAA"
+            }
+          ],
+          "overviewcontent": "Your students will probably think you're a nerd if you come in on the first day and have all their names memorized. But with the roster tool, you could totally do this.",
+          "section1title": "Step 1: See It, Learn It",
+          "section1content": "There's more to the Roster tool than just seeing their faces. You can also see their academic years, majors, minors. You can also see who the honors students are, so you know who will be 'pulling a Hermione' during your lectures.",
+          "section3title": "Step 2: Test Your Knowledge",
+          "lti": [
+            {
+              "header": "Quick Quiz",
+              "description": "This quiz is easier than memorizing all your students' names, but you should probably do that, too.",
+              "icon": "fa-list-ol",
+              "title": "Roster Quiz",
+              "launch": "mod/learnquiz/index.php?quiz=101_roster",
+              "resource_link_id": "101_roster"
+            }
+          ],
+          "aside1title": "Additional Resources",
+          "aside1content": [
+            {
+              "header": "Wiki Resources",
+              "references": [
+                {
+                  "icon": "fa-external-link",
+                  "title": "Roster Help",
+                  "href": "https://ewiki.udayton.edu/isidore/Roster"
+                },
+                {
+                  "icon": "fa-external-link",
+                  "title": "Record Name Pronunciation",
+                  "href": "https://ewiki.udayton.edu/isidore/Record_the_pronunciation_of_my_name"
+                },
+                {
+                  "icon": "fa-external-link",
+                  "title": "Changing Your Profile Picture",
+                  "href": "https://ewiki.udayton.edu/isidore/View_Profile#Changing_your_Profile_Picture"
+                }
+              ]
+            },
+            {
+              "header": "Additional Articles",
+              "references": [
+                {
+                  "icon": "fa-external-link",
+                  "title": "Pronouncing Students' Names Correctly Should be a Big Deal",
+                  "href": "https://www.edweek.org/tm/articles/2017/11/15/pronouncing-students-names-correctly-should-be-a.html"
+                }
+              ]
+            }
+          ],
+          "aside2title": "Potential Questions You May Have",
+          "aside2questions": [
+            {
+              "question": "What can students see in the Roster tool?",
+              "answer": "Students will see a list of their peers and instructors, as well as their name recordings. They CANNOT see their peers' profile pictures unless the other students have opted-in to sharing their pictures."
+            },
+            {
+              "question": "My students haven't recorded their name pronunciations. Can I make them do so?",
+              "answer": "No. But I'd bet they would respond favorably to a bribe in the form of a bonus point or two."
+            },
+            {
+              "question": "What the heck do these major/minor abbreviations stand for?",
+              "answer": "I'm sorry this isn't a link you can click, but here is the most complete list of majors that we've come up with. It seems like new ones are always being made, so we may be missing some. https://udayton.edu/0/elearning/learn/studentsurveyresponses.pdf"
+            },
+            {
+              "question": "What is a 'pulling a Hermione'?",
+              "answer": "A reference to a terribly bright literary character who often participates in class. Also, you should read Harry Potter!"
+            },
+            {
+              "question": "Because of the spelling of 'pronounce,' shouldn't 'pronunciation' really be spelled 'pronounciation'? With a 'u'?",
+              "answer": "100%. After typing this incorrectly ~47 times throughout this lesson, the author would like if you got on board to sign a petition to change the spelling of this word."
+            }
+          ]
+        },
+        {
+          "title": "Attendance",
+          "anchor": "attendance",
+          "icon": "fa-calendar-check-o",
+          "description": "Track your students' attendance.",
+          "videos": [
+            {
+              "title": "Isidore 101: Attendance",
+              "warpwire": "qxIBAA"
+            }
+          ],
+          "overviewcontent": "In my day, I had to track my own attendance by marking tallies on the back of my agenda. This was possibly not a foolproof system. My, my how times have changed. Record your students' attendance in Isidore so there are no discrepencies between your tracking and their tracking..",
+          "section1title": "Step 1: See It, Learn It",
+          "section1content": "Taking Attendance in Isidore is a choose-your-own adventure. Watch the 1 minute video to see all the adventure options. 'Adventure' is overselling the experience, but hey, at least you have options.",
+          "section2title": "Step 2: Try It",
+          "section2content": "Go print a sign-in sheet!",
+          "section2prereq": "To complete this step, you must either have an existing site that you can use, or you must first create a test site as instructed in the Creating Course Sites lesson.",
+          "section2steps": [
+            {
+              "step": "Log in to Isidore."
+            },
+            {
+              "step": "Navigate to your testing site."
+            },
+            {
+              "step": "Create an attendance item."
+            },
+            {
+              "step": "Figure the rest out for yourself. ;)"
+            }
+          ],
+          "section3title": "Step 3: Test Your Knowledge",
+          "lti": [
+            {
+              "header": "Quick Quiz",
+              "description": "You might be tempted to skip this quiz, but you shouldn't. There's a big time-saving tip in it.",
+              "icon": "fa-list-ol",
+              "title": "Attendance Quiz",
+              "launch": "mod/learnquiz/index.php?quiz=101_attendance",
+              "resource_link_id": "101_attendance"
+            }
+          ],
+          "aside1title": "Additional Resources",
+          "aside1content": [
+            {
+              "header": "Wiki Resources",
+              "references": [
+                {
+                  "icon": "fa-external-link",
+                  "title": "Attendance Help",
+                  "href": "https://ewiki.udayton.edu/isidore/Attendance"
+                }
+              ]
+            },
+            {
+              "header": "Additional Articles",
+              "references": [
+                {
+                  "icon": "fa-external-link",
+                  "title": "Why I Don't Take Attendance from The Chronicle",
+                  "href": "https://www.chronicle.com/article/Why-I-Don-t-Take-Attendance/241428"
+                },
+                {
+                  "icon": "fa-external-link",
+                  "title": "Class Attendance in College: A Review of the Relationship of Class Attendance with Grades",
+                  "href": "https://journals.sagepub.com/doi/full/10.3102/0034654310362998"
+                }
+              ]
+            }
+          ],
+          "aside2title": "Potential Questions You May Have",
+          "aside2questions": [
+            {
+              "question": "I have 83 students in a single Isidore site. Is there a faster way to take attendance than clicking on each student?",
+              "answer": "Use the 'Mark Displayed Students As Present' feature to mark all students as present first. Then go back and make adjustments for the absent students. Nb: You might want to do the opposite of this on St. Patrick's Day . . ."
+            },
+            {
+              "question": "I don't care if my students are late or if they left early. Can I get rid of those statuses?",
+              "answer": "Yes. Click on the 'Settings' tab at the top of the Attendance tool. Deselect any statuses you don't want to see and press 'Save Settings'."
+            },
+            {
+              "question": "Do I have to take attendance?",
+              "answer": "Attendance is required for first-year students, so yes, please track their attendance. Otherwise, it's up to you. If you have a grade associated with attendance, though, you should keep track just so there are no grade complaints at the end of the semester."
+            },
+            {
+              "question": "Can I set up grading with Attendance?",
+              "answer": "Visit the 'Grading' tab at the top of the Attendance tool to set up grading for Attendance. If you want to define rules (such as if a student misses 3 classes, take 15 points off their attendance grade) for attendance, you can also set those up. If you get stuck with those, give us a call. It's a lot of logic."
+            },
+            {
+              "question": "Can I save an Announcement as a draft?",
+              "answer": "Definitely. Choose the 'Hide' option after writing your Announcement, then press the Post Announcement button. It will be hidden until you edit the Announcement and change that setting to Show."
+            }
+          ],
+          "aside3title": "Did you know?",
+          "aside3content": "We give you the freedom to name your attendance items ANYTHING you want. You all take that freedom and name most of your attendance items, 'Attendance.'"
+        },
+        {
+          "title": "Calendar",
+          "anchor": "calendar",
+          "icon": "fa-calendar",
+          "description": "You should add this one. Students like it.",
+          "videos": [
+            {
+              "title": "Isidore 101: Calendar",
+              "warpwire": "pxIBAA"
+            }
+          ],
+          "overviewcontent": "Okay, now that you've added the tool to your course site, do nothing else. Don't touch.",
+          "section1title": "Step 1: See It, Learn It",
+          "section1content": "Watch this 1 minute video to see all the nothing you should do with this tool.",
+          "section3title": "Step 2: Test Your Knowledge",
+          "lti": [
+            {
+              "header": "Quick Quiz",
+              "description": "It's important you prove to us you know the Calendar tool.",
+              "icon": "fa-list-ol",
+              "title": "Calendar Quiz",
+              "launch": "mod/learnquiz/index.php?quiz=101_calendar",
+              "resource_link_id": "101_calendar"
+            }
+          ],
+          "aside1title": "Additional Resources",
+          "aside1content": [
+            {
+              "header": "Wiki Resources",
+              "references": [
+                {
+                  "icon": "fa-external-link",
+                  "title": "Calendar Help",
+                  "href": "https://ewiki.udayton.edu/isidore/Calendar"
+                }
+              ]
+            }
+          ],
+          "aside3title": "How do you describe someone who knows a lot about tech stuff? ",
+          "aside3content": "Tech-knowledge-y!"
         }
-    ]
+      ]
+    },
+    {
+      "title": "Accessibility",
+      "description": "These lessons introduce the concepts of digital accessibility in the context of teaching here at the University of Dayton. There are Additional Resources provided to gain a very complete understanding of how to make all of your course content accessible.",
+      "time": "Est. 35 min",
+      "anchor": "accessibility",
+      "video": {
+        "title": "Accessibility Teaser",
+        "warpwire": "aScBAA"
+      },
+      "lessons": [
+        {
+          "title": "Visual Disabilities",
+          "anchor": "visualdisabilities",
+          "icon": "fa-eye",
+          "description": "How can you make your content accessible for students with visual impairments?",
+          "videos": [
+            {
+              "title": "Accessibility: Visual Disabilities",
+              "warpwire": "iyYBAA"
+            }
+          ],
+          "overviewcontent": "Students with profound visual impairments use screen reading software to read files and web pages. How does this inform the way you construct and organize your content? And how does color-blindness affect your use of color?",
+          "section1title": "Step 1",
+          "section1content": "This video explains the essentials for producing content that is accessible to students with visual impairments.",
+          "section2title": "Step 2: Test Your Knowledge",
+          "section2content": "In addition to watching the video, please look through the Additional Resources. Then you will be ready for the following assessments.",
+          "lti": [
+            {
+              "header": "Quick Quiz",
+              "description": "The following quiz will measure your understanding of the essential elements described in the video.",
+              "icon": "fa-list-ol",
+              "title": "Visual Disabilities Quiz",
+              "launch": "mod/learnquiz/index.php?quiz=acc_visual",
+              "resource_link_id": "acc_visual"
+            },
+            {
+              "header": "Quick Write",
+              "description": "Complete the following assignment.",
+              "icon": "fa-pencil-square",
+              "title": "Visual Disabilities Assignment",
+              "launch": "mod/modquickwrite/",
+              "resource_link_id": "acc_visual_qw"
+            }
+          ],
+          "aside1title": "Additional Resources",
+          "aside1content": [
+            {
+              "header": "Resources",
+              "references": [
+                {
+                  "icon": "fa-play-circle",
+                  "title": "Robert Spangler Interview Video",
+                  "href": "https://udayton.warpwire.com/w/gSoBAA/"
+                },
+                {
+                  "icon": "fa-external-link",
+                  "title": "Designing for Visual Disabilities",
+                  "href": "https://webaim.org/articles/visual/"
+                },
+                {
+                  "icon": "fa-external-link",
+                  "title": "Introduction to Web Accessibility",
+                  "href": "https://webaim.org/intro/"
+                }
+              ]
+            },
+            {
+              "header": "Related Lessons",
+              "references": [
+                {
+                  "icon": "fa-sign-in-alt",
+                  "title": "Isidore Text Editor",
+                  "href": "/lessons/texteditor"
+                }
+              ]
+            }
+          ],
+          "aside2title": "Potential Questions You May Have",
+          "aside2questions": [
+            {
+              "question": "How detailed should I be when writing alt text for an image?",
+              "answer": "Be brief, but be sure to describe the essential elements of the image. If the graphic is supposed to make the audience think or feel something, be sure your alt text leads that direction."
+            },
+            {
+              "question": "Should I always start with H1?",
+              "answer": "This gets tricky. The main thing is that you use header tags. That's 99% of the battle. Often Isidore has existing headers already in place. In most cases in Isidore, it's recommended you start with H2."
+            }
+          ],
+          "aside3title": "Did you know?",
+          "aside3content": "The Office of eLearning has invited expert screen-reader users to evaluate Isidore. Additionally, Isidore is based on the open source LMS Sakai, which has accessibility as crucial foundation of the software."
+        },
+        {
+          "title": "Auditory Disabilities",
+          "anchor": "auditorydisabilities",
+          "icon": "fa-volume",
+          "description": "How can you make your content accessible for students with hearing impairments?",
+          "videos": [
+            {
+              "title": "Accessibility: Auditory Disabilities",
+              "warpwire": "JykBAA"
+            }
+          ],
+          "overviewcontent": "Videos have two components, picture and sound. For students with hearing impairments, you will need to ensure there are captions. The bonus is that captions are actually beneficial to many more people. ",
+          "section1title": "Step 1",
+          "section1content": "This video explains the essentials for producing content that is accessible to students with hearing impairments, and it also explains how captions can be beneficial to students without hearing impairments.",
+          "section2title": "Step 2: Test Your Knowledge",
+          "section2content": "In addition to watching the video, please look through the Additional Resources. Then you will be ready for the following assessments.",
+          "lti": [
+            {
+              "header": "Quick Quiz",
+              "description": "The following quiz will measure your understanding of the essential elements described in the video.",
+              "icon": "fa-list-ol",
+              "title": "Auditory Disabilities Quiz",
+              "launch": "mod/learnquiz/index.php?quiz=acc_auditory",
+              "resource_link_id": "acc_auditory"
+            },
+            {
+              "header": "Quick Write",
+              "description": "Complete the following assignment.",
+              "icon": "fa-pencil-square",
+              "title": "Auditory Disabilities Assignment",
+              "launch": "mod/modquickwrite/",
+              "resource_link_id": "acc_auditory_qw"
+            }
+          ],
+          "aside1title": "Additional Resources",
+          "aside1content": [
+            {
+              "header": "Resources",
+              "references": [
+                {
+                  "icon": "fa-external-link",
+                  "title": "WebAIM Captions, Transcripts, and Audio",
+                  "href": "https://webaim.org/techniques/captions/"
+                },
+                {
+                  "icon": "fa-external-link",
+                  "title": "How to Locate Captioned Videos and Create Your Own",
+                  "href": "http://aem.cast.org/about/module-3-new-educator-training.html"
+                },
+                {
+                  "icon": "fa-external-link",
+                  "title": "National Center on Accessible Educational Materials: Closed Captioning",
+                  "href": "http://aem.cast.org/about/events/2017/05/beginning-with-the-why-an-introduction-to-closed-captioning.html"
+                },
+                {
+                  "icon": "fa-external-link",
+                  "title": "UDayton eWiki on Accessibility",
+                  "href": "https://ewiki.udayton.edu/isidore/Accessibility"
+                },
+                {
+                  "icon": "fa-external-link",
+                  "title": "Using Warpwire in Isidore",
+                  "href": "https://ewiki.udayton.edu/isidore/Warpwire_Video"
+                },
+                {
+                  "icon": "fa-external-link",
+                  "title": "Closed Captions in YouTube",
+                  "href": "https://support.google.com/youtube/answer/2734705?hl=en"
+                }
+              ]
+            },
+            {
+              "header": "Related Lessons",
+              "references": [
+                {
+                  "icon": "fa-sign-in-alt",
+                  "title": "Isidore Text Editor",
+                  "href": "/lessons/texteditor"
+                }
+              ]
+            }
+          ],
+          "aside2title": "Potential Questions You May Have",
+          "aside2questions": [
+            {
+              "question": "Do I have to pay for captions?",
+              "answer": "Not if it's for a course. If you upload videos to Warpwire for the purpose of providing instructional content, the Office of eLearning will take care of the captions for you."
+            },
+            {
+              "question": "How can I ensure the captions are accurate?",
+              "answer": "You are still responsible for the accuracy of the captions, so please check them. If you find inaccuracies please contact the Office of eLearning."
+            }
+          ],
+          "aside3title": "Did you know?",
+          "aside3content": "Warpwire videos can actually be searched. For example, if you wanted to search a video for the moment the speaker says the word, 'Malaysia', you just click the search icon type 'Malaysia'. This is possible due to the presence of captions."
+        },
+        {
+          "title": "Cognitive, Motor, & Other Disabilities",
+          "anchor": "cogdisabilities",
+          "icon": "fa-hand-pointer",
+          "description": "How can you make your content accessible for students with cognitive, motor, and other disabilities?",
+          "videos": [
+            {
+              "title": "Accessibility: Other Disabilities",
+              "warpwire": "iyYBAA"
+            }
+          ],
+          "overviewcontent": "Many of the accessibility techniques you use for people with visual disabilities are helpful for individuals with cognitive and motor disabilities, but putting extra attention on organization and clarity is definitely something you should prioritize.",
+          "section1title": "Step 1",
+          "section1content": "This video explains the essentials for producing content that is accessible to students with cognitive and motor disabilities. There also is discussion on content for students with seizure disorders.",
+          "section2title": "Step 2: Test Your Knowledge",
+          "section2content": "In addition to watching the video, please look through the Additional Resources. Then you will be ready for the following assessments.",
+          "lti": [
+            {
+              "header": "Quick Quiz",
+              "description": "The following quiz will measure your understanding of the essential elements described in the video.",
+              "icon": "fa-list-ol",
+              "title": "Other Disabilities Quiz",
+              "launch": "mod/learnquiz/index.php?quiz=acc_cog",
+              "resource_link_id": "acc_cog"
+            },
+            {
+              "header": "Quick Write",
+              "description": "Complete the following assignment.",
+              "icon": "fa-pencil-square",
+              "title": "Other Disabilities Assignment",
+              "launch": "mod/modquickwrite/",
+              "resource_link_id": "acc_cog_qw"
+            }
+          ],
+          "aside1title": "Additional Resources",
+          "aside1content": [
+            {
+              "header": "Resources",
+              "references": [
+                {
+                  "icon": "fa-external-link",
+                  "title": "WebAIM Cognitive Disabilities",
+                  "href": "https://webaim.org/articles/cognitive/"
+                },
+                {
+                  "icon": "fa-external-link",
+                  "title": "WebAIM Motor Disabilities",
+                  "href": "https://webaim.org/articles/motor/"
+                },
+                {
+                  "icon": "fa-external-link",
+                  "title": "WebAIM Seizure Disorders",
+                  "href": "https://webaim.org/articles/seizure/"
+                },
+                {
+                  "icon": "fa-external-link",
+                  "title": "UDayton eWiki on Accessibility",
+                  "href": "https://ewiki.udayton.edu/isidore/Accessibility"
+                }
+              ]
+            },
+            {
+              "header": "Related Lessons",
+              "references": [
+                {
+                  "icon": "fa-sign-in-alt",
+                  "title": "Isidore Text Editor",
+                  "href": "/lessons/texteditor"
+                }
+              ]
+            }
+          ],
+          "aside2title": "Potential Questions You May Have",
+          "aside2questions": [
+            {
+              "question": "What if my content is inherently complex?",
+              "answer": "It's not about how complicated your content is, but rather how clearly you present it. Be organized. Use headers and spacing appropriately."
+            },
+            {
+              "question": "What if a student is lacking in basic study skills?",
+              "answer": "Direct them to contact the Office of Learning Resources or contact the Student Success Team."
+            }
+          ],
+          "aside3title": "Did you know?",
+          "aside3content": "A study revealed that simply presenting the same instructions in an easier to read font, caused students to see the tasks as easier. Clarity and organization make a difference."
+        },
+        {
+          "title": "Accessible Documents",
+          "anchor": "accessibledocs",
+          "icon": "fa-file-image",
+          "description": "How can you make your files, such as Word and Powerpoint, accessible for students with disabilities?",
+          "videos": [
+            {
+              "title": "Accessibility: Accessible Documents",
+              "warpwire": "iyYBAA"
+            }
+          ],
+          "overviewcontent": "All documents utilized in class must be made available in electronic format to students. This is important not just for students with visual and hearing impairments but for all students who may have academic accommodations for attention issues and processing disorders. This impacts approximately 5-10 percent of students. What steps must you take to ensure that the electronic version is completely accessible?",
+          "section1title": "Step 1",
+          "section1content": "This video explains the essentials for delivering accessible files.",
+          "section2title": "Step 2: Test Your Knowledge",
+          "section2content": "In addition to watching the video, please look through the Additional Resources. Then you will be ready for the following assessments.",
+          "lti": [
+            {
+              "header": "Quick Quiz",
+              "description": "The following quiz will measure your understanding of the essential elements described in the video.",
+              "icon": "fa-list-ol",
+              "title": "Accessible Documents Quiz",
+              "launch": "mod/learnquiz/index.php?quiz=acc_files",
+              "resource_link_id": "acc_files"
+            },
+            {
+              "header": "Quick Write",
+              "description": "Complete the following assignment.",
+              "icon": "fa-pencil-square",
+              "title": "Accessible Documents Assignment",
+              "launch": "mod/modquickwrite/",
+              "resource_link_id": "acc_files_qw"
+            }
+          ],
+          "aside1title": "Additional Resources",
+          "aside1content": [
+            {
+              "header": "Resources",
+              "references": [
+                {
+                  "icon": "fa-external-link",
+                  "title": "Sensus Access Accessible Document Conversion",
+                  "href": "https://udayton.edu/ltc/learningresources/disability/sensus-access-instructions.php"
+                },
+                {
+                  "icon": "fa-external-link",
+                  "title": "Microsoft Word Training on Accessibility in Word",
+                  "href": "https://support.office.com/en-us/article/make-your-word-documents-accessible-to-people-with-disabilities-d9bf3683-87ac-47ea-b91a-78dcacb3c66d#bkmk_winlinksscreentips"
+                },
+                {
+                  "icon": "fa-external-link",
+                  "title": "Microsoft Word Training on Accessibility in PowerPoint",
+                  "href": "https://support.office.com/en-us/article/make-your-powerpoint-presentations-accessible-to-people-with-disabilities-6f7772b2-2f33-4bd2-8ca7-dae3b2b3ef25"
+                },
+                {
+                  "icon": "fa-external-link",
+                  "title": "National Center on Accessible Educational Materials: Closed Captioning",
+                  "href": "http://aem.cast.org/about/events/2017/05/beginning-with-the-why-an-introduction-to-closed-captioning.html"
+                },
+                {
+                  "icon": "fa-external-link",
+                  "title": "WebAIM Word, Powerpoint, and Acrobat",
+                  "href": "https://webaim.org/training/docs/"
+                },
+                {
+                  "icon": "fa-external-link",
+                  "title": "National Center on Accessible Educational Materials: Accessible Documents",
+                  "href": "http://aem.cast.org/about/module-2-new-educator-training.html"
+                },
+                {
+                  "icon": "fa-external-link",
+                  "title": "Adobe Acrobat Accessibility Overview",
+                  "href": "https://www.adobe.com/accessibility/products/acrobat.html"
+                }
+              ]
+            },
+            {
+              "header": "Related Lessons",
+              "references": [
+                {
+                  "icon": "fa-sign-in-alt",
+                  "title": "Isidore Text Editor",
+                  "href": "/lessons/texteditor"
+                }
+              ]
+            }
+          ],
+          "aside2title": "Potential Questions You May Have",
+          "aside2questions": [
+            {
+              "question": "What do I do if my existing documents are not accessible?",
+              "answer": "In the Additional Resources, you'll see a link to Sensus Access. This can be very useful in terms of converting text that is unreadable to readable text. It will not necessarily convert all headings and it certainly won't put alt text in there, but it gives you a good base to start from."
+            },
+            {
+              "question": "I don't like the way the headers look in MS Word, can I change the look?",
+              "answer": "You bet! In the ribbon you can right mouse click on the header you want to change and it will change it for all instances of the header."
+            }
+          ],
+          "aside3title": "Did you know?",
+          "aside3content": "Google Docs and Slides also have the same general accessible properties as their Microsoft Office counterparts."
+        },
+        {
+          "title": "Accessibility of Outside Materials",
+          "anchor": "accessiblematerials",
+          "icon": "fa-globe",
+          "description": "If you intend to use materials that you do not produce yourself, how can you be sure they are accessible?",
+          "videos": [
+            {
+              "title": "Accessibility: Outside Materials",
+              "warpwire": "8SgBAA"
+            }
+          ],
+          "overviewcontent": "Most faculty include some externally produced content in their course required course materials. This could be articles from the web, YouTube videos, publisher resources, and software. If you are requiring your students to use it, you need to be sure it is accessible.",
+          "section1title": "Step 1",
+          "section1content": "This video explains the essentials for ensuring outside materials are accessible.",
+          "section2title": "Step 2: Test Your Knowledge",
+          "section2content": "In addition to watching the video, please look through the Additional Resources. Then you will be ready for the following assessments.",
+          "lti": [
+            {
+              "header": "Quick Quiz",
+              "description": "The following quiz will measure your understanding of the essential elements described in the video.",
+              "icon": "fa-list-ol",
+              "title": "Outside Materials Quiz",
+              "launch": "mod/learnquiz/index.php?quiz=acc_materials",
+              "resource_link_id": "acc_materials"
+            },
+            {
+              "header": "Quick Write",
+              "description": "Complete the following assignment.",
+              "icon": "fa-pencil-square",
+              "title": "Outside Materials Assignment",
+              "launch": "mod/modquickwrite/",
+              "resource_link_id": "acc_materials_qw"
+            }
+          ],
+          "aside1title": "Additional Resources",
+          "aside1content": [
+            {
+              "header": "Resources",
+              "references": [
+                {
+                  "icon": "fa-external-link",
+                  "title": "Sensus Access Accessible Document Conversion",
+                  "href": "https://udayton.edu/ltc/learningresources/disability/sensus-access-instructions.php"
+                },
+                {
+                  "icon": "fa-external-link",
+                  "title": "How to Find Specialized Formats of Print Materials",
+                  "href": "http://aem.cast.org/about/module-4-new-educator-training.html"
+                },
+                {
+                  "icon": "fa-external-link",
+                  "title": "How to Select Accessible Digital Materials",
+                  "href": "http://aem.cast.org/about/module-5-new-educator-training.html"
+                },
+                {
+                  "icon": "fa-external-link",
+                  "title": "UDayton eWiki on Accessibility",
+                  "href": "https://ewiki.udayton.edu/isidore/Accessibility"
+                },
+                {
+                  "icon": "fa-external-link",
+                  "title": "Rev Captioning YouTube Videos",
+                  "href": "https://www.rev.com/blog/how-to-add-closed-captions-to-youtube-videos"
+                }
+              ]
+            },
+            {
+              "header": "Related Lessons",
+              "references": [
+                {
+                  "icon": "fa-sign-in-alt",
+                  "title": "Isidore Text Editor",
+                  "href": "/lessons/texteditor"
+                }
+              ]
+            }
+          ],
+          "aside2title": "Potential Questions You May Have",
+          "aside2questions": [
+            {
+              "question": "My chair picked my materials, what if they're not accessible?",
+              "answer": "Say something, but be tactful about it. Offer to contact the vendor or publisher. Your chair can later decide whether you'll continue with those materials."
+            },
+            {
+              "question": "How can I ensure the captions are accurate?",
+              "answer": "You are still responsible for the accuracy of the captions, so please check them. If you find inaccuracies please contact the Office of eLearning."
+            }
+          ],
+          "aside3title": "Did you know?",
+          "aside3content": "Most electronic textbooks are accessible, and they also tend to be cheaper. Just remember to check before you buy."
+        }
+      ]
+    }
+  ]
 }
