@@ -1158,7 +1158,7 @@
     },
     {
       "title": "Accessibility",
-      "description": "These lessons introduce the concepts of digital accessibility in the context of teaching here at the University of Dayton. There are Additional Resources provided to gain a very complete understanding of how to make all of your course content accessible.",
+      "description": "This set of lessons introduces the concepts of digital accessibility in the context of teaching here at the University of Dayton. Additional Resources are provided with each module to provide optional, in-depth training to complete your understanding of how to make all of your course content accessible.",
       "time": "Est. 35 min",
       "anchor": "accessibility",
       "video": {
@@ -1263,7 +1263,7 @@
               "warpwire": "ASsBAA"
             }
           ],
-          "overviewcontent": "Videos have two components, picture and sound. For students with hearing impairments, you will need to ensure there are captions. The bonus is that captions are actually beneficial to many more people. ",
+          "overviewcontent": "Videos have two components, images and sound. For students with hearing impairments, you will need to ensure that all audio components are \"captured\" and presented to students. This is most often in the form of closed captioning. The bonus is that captions are part of universal design and are beneficial to every type of learner.",
           "section1title": "Step 1",
           "section1content": "This video explains the essentials for producing content that is accessible to students with hearing impairments, and it also explains how captions can be beneficial to students without hearing impairments.",
           "section2title": "Step 2: Test Your Knowledge",
@@ -1326,6 +1326,11 @@
             {
               "header": "Related Lessons",
               "references": [
+                {
+                  "icon": "fa-sign-in-alt",
+                  "title": "Accessibility of Outside Materials",
+                  "href": "/lessons/accessiblematerials"
+                },
                 {
                   "icon": "fa-sign-in-alt",
                   "title": "Isidore Text Editor",
@@ -1520,8 +1525,8 @@
               "references": [
                 {
                   "icon": "fa-sign-in-alt",
-                  "title": "Isidore Text Editor",
-                  "href": "/lessons/texteditor"
+                  "title": "Accessibility of Outside Materials",
+                  "href": "/lessons/accessiblematerials"
                 }
               ]
             }
@@ -1611,8 +1616,8 @@
               "references": [
                 {
                   "icon": "fa-sign-in-alt",
-                  "title": "Isidore Text Editor",
-                  "href": "/lessons/texteditor"
+                  "title": "Auditory Disabilities",
+                  "href": "/lessons/auditorydisabilities"
                 },
                 {
                   "icon": "fa-sign-in-alt",
