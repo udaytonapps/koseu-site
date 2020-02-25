@@ -26,7 +26,7 @@ $OUTPUT->pageTitle('Welcome to the LEARN Training Platform');
         <div class="videoWrapper">
             <iframe allowfullscreen src="https://udayton.warpwire.com/w/fw4BAA/"></iframe>
         </div>
-        <h4>A Message from Ryan Allen, Director of the Office of eLearning</h4>
+        <h4>A Message from Paul Benson, University of Dayton Provost</h4>
     </div>
 </div>
 <?php
