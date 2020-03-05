@@ -1642,6 +1642,278 @@
           "aside3content": "Most electronic textbooks are accessible, and they also tend to be cheaper. Just remember to check before you buy."
         }
       ]
+    },
+    {
+      "title": "Zoom Video Conferencing",
+      "description": "Let us introduce you to Zoom, the University of Dayton’s chosen platform for video conferencing. While Zoom is primarily used for synchronous learning and web conferencing, there are some unique ways you can use Zoom to enhance your face to face class and increase student engagement. This training module will explain the potential uses, how to acquire zoom, navigate the zoom room, and utilize the best practices for facilitating a synchronous session.",
+      "time": "Est. 20 min",
+      "anchor": "zoom",
+      "video": {
+        "title": "What's Zoom Got to Do with Me?",
+        "warpwire": "RU8BAA"
+      },
+      "lessons": [
+        {
+          "title": "Getting Ready to Zoom",
+          "anchor": "zoomgettingready",
+          "icon": "fa-video",
+          "description": "Activating your account and downloading Zoom.",
+          "videos": [
+            {
+              "title": "Getting Started with Zoom",
+              "warpwire": "QU8BAA"
+            }
+          ],
+          "overviewcontent": "Whether you are planning on teaching online, adding interactivity to your face to face course, or just want to check out video conferencing, this lesson will help you to activate your Zoom account, download the client app, schedule/manage meetings, and tell you how to get support.",
+          "section1title": "Step 1: Activating and Installing Zoom",
+          "section1content": "Watch this video for information on how to get started using Zoom.\n\n",
+          "section2title": "Practical Application",
+          "section2content": "Personalize your Zoom settings to prepare for your first facilitation.<ol><li>Log into your zoom account at <a href=\"https://go.udayton.edu/zoom\" target=\"_blank\">https://go.udayton.edu/zoom</a>.</li><li>Upload an image for your profile in your profile settings.</li><li>Explore the settings menu and customize in the manner that works best for your needs.</li></ol>",
+          "aside1title": "Additional Resources",
+          "aside1content": [
+            {
+              "header": "Support",
+              "references": [
+                {
+                  "icon": "fa-link",
+                  "title": "Office of eLearning: Zoom Help",
+                  "href": "https://ewiki.udayton.edu/isidore/Zoom"
+                },
+                {
+                  "icon": "fa-link",
+                  "title": "UDit: Using Zoom at UD",
+                  "href": "https://udayton.teamdynamix.com/TDClient/1868/Portal/KB/ArticleDet?ID=88426"
+                },
+                {
+                  "icon": "fa-external-link",
+                  "title": "Zoom: Help Center",
+                  "href": "https://support.zoom.us/hc/en-us"
+                }
+              ]
+            },
+            {
+              "header": "Downloads",
+              "references": [
+                {
+                  "icon": "fa-file-pdf",
+                  "title": "Installing Zoom",
+                  "href": "https://drive.google.com/open?id=1JK9vY6FfApozV-JQXA9ekawLeCkyaFhh"
+                },
+                {
+                  "icon": "fa-file-pdf",
+                  "title": "Quick Start in Isidore",
+                  "href": "https://drive.google.com/open?id=1w-Ia1MBewixN_QQare7okg_1GyLEx_LC"
+                },
+                {
+                  "icon": "fa-file-pdf",
+                  "title": "Quick Start Outside of Isidore",
+                  "href": "https://drive.google.com/open?id=1uTbiQwi12mwhQZNXkooX2DfTKFXuVa7H"
+                },
+                {
+                  "icon": "fa-file-pdf",
+                  "title": "Sharing Recordings",
+                  "href": "https://drive.google.com/open?id=1qcY9vsoI05dhicJaEoWfa486pc2nW3at"
+                },
+                {
+                  "icon": "fa-file-pdf",
+                  "title": "Zoom Meetings Training Reference Guide",
+                  "href": "https://support.zoom.us/hc/en-us/article_attachments/360047188071/Zoom_Meetings_Training_Reference_Guide.pdf"
+                }
+              ]
+            }
+          ],
+          "aside2title": "Potential Questions You May Have",
+          "aside2questions": [
+            {
+              "question": "Do I need to activate my Zoom account if I am also teaching with 2U and use Zoom for that platform?",
+              "answer": "The University of Dayton provisioned faculty with Zoom accounts separate from the ones provided by 2U for the online program. However, Zoom will only allow you to register one account with each email.  Registering your University of Dayton Zoom account will disconnect your 2U account. If you have a 2U account, please use your 2U account for all Zoom activity."
+            },
+            {
+              "question": "Do I need to download my Zoom video recording and upload them into the Warpwire video tool for students to access?",
+              "answer": "No, this is not necessary if you are using Zoom within Isidore (recommend for class meetings). Students can access the video recordings from the Zoom tool in the Isidore course site.  All recordings are automatically closed captioned with timestamps."
+            },
+            {
+              "question": "Do I have to send an invite out to all my students if I hold an online session?",
+              "answer": "Nope!  Students will be able to view the links to upcoming sessions and click “join” right from Isidore (if you are using Zoom within Isidore, which is HIGHLY recommended). Yet another benefit of utilizing UD’s awesome LMS! You may want to send a friendly reminder to students though --just in case."
+            }
+          ],
+          "aside3title": "Did you know?",
+          "aside3content": "The first concepts of video conferencing were developed in the 1870s, as part of an extension of audio devices. The first actual developments of the video telephone began in the late 1920s with the AT&T company Bell Labs and John Logie Baird. AT&T experimented with video phones in 1927. (Business Matters, https://www.bmmagazine.co.uk/tech/history-video-conferencing/_)."
+        },
+        {
+          "title": "Zoom Classroom Basics",
+          "anchor": "zoomclassroombasics",
+          "icon": "fa-chalkboard-teacher",
+          "description": "Learn the basic tools of the Zoom classroom.",
+          "videos": [
+            {
+              "title": "Zoom Classroom Basics",
+              "warpwire": "Q08BAA"
+            }
+          ],
+          "overviewcontent": "All set up and ready to go?  In this lesson we will review the basic features of the Zoom classroom.  Once you have these down, adding the advanced features will be a simple feat.",
+          "section1title": "Zooming In!",
+          "section1content": "Get ready to take flight in your online classroom. This video will explain all the basic tools you will need to facilitate a quality class or meeting.",
+          "section2title": "Practical Application",
+          "section2content": "<h5>Try out your new skills as a Zoom facilitator.</h5><p>Schedule a meeting for Zoom and invite a friend. Record the session and review the recording afterward to identify any changes in approach you may need in your next use of Zoom. While in the session, ensure you can be heard and seen well with your webcam. Play around with the features and ensure that you feel comfortable using them. Alternatively, contact an eLearning representative (elearning@udyaton.edu) to schedule a test meeting.</p>",
+          "aside1title": "Additional Resources",
+          "aside1content": [
+            {
+              "header": "Downloadable Resources",
+              "references": [
+                {
+                  "icon": "fa-file-pdf",
+                  "title": "Take Flight Checklist",
+                  "href": "https://drive.google.com/file/d/1ul2s9EphiyCaljnlV2mKWSQU0o8KFot2/view"
+                }
+              ]
+            },
+            {
+              "header": "More Zoom Features",
+              "references": [
+                {
+                  "icon": "fa-external-link",
+                  "title": "Zoom Video Tutorials",
+                  "href": "https://support.zoom.us/hc/en-us/articles/206618765-Zoom-Video-Tutorials"
+                },
+                {
+                  "icon": "fa-external-link",
+                  "title": "Managing Breakout Rooms",
+                  "href": "https://support.zoom.us/hc/en-us/articles/206476313-Managing-Video-Breakout-Rooms"
+                },
+                {
+                  "icon": "fa-external-link",
+                  "title": "Creating and Using Polls",
+                  "href": "https://support.zoom.us/hc/en-us/articles/213756303-Polling-for-Meetings"
+                },
+                {
+                  "icon": "fa-external-link",
+                  "title": "Webinar Recording: Improve Your Virtual Presentation Skills",
+                  "href": "http://blog.zoom.us/wordpress/2017/01/31/webinar-recording-improve-your-virtual-presentation-skills/"
+                }
+              ]
+            }
+          ],
+          "aside2title": "Potential Questions You May Have",
+          "aside2questions": [
+            {
+              "question": "I’m ready to try the more challenging aspects of managing a live Zoom session. How do I manage creating and using polls and breakout rooms?",
+              "answer": "Super! Zoom has great training on these topics. Check out the links in resources."
+            },
+            {
+              "question": "Should I manage my settings from the Zoom tool itself or from my Zoom account at go.udayton.edu/zoom?",
+              "answer": "You can manage settings from either location but please be aware that there are more settings in your online account than are available through the Zoom tool itself. You cannot manage settings from the Zoom tool in Isidore."
+            }
+          ],
+          "aside3title": "Did you know?",
+          "aside3content": "The class session report in “Past Meetings” tab will tell you how long your students were present in your class session and how engaged they were during that session.  The attentiveness rating is based on participation in the chat box, polls, discussion, video, etc."
+        },
+        {
+          "title": "Synchronous Teaching Pedagogy",
+          "anchor": "zoomteaching",
+          "icon": "fa-graduation-cap",
+          "description": "How to ensure student engagement and collaboration are a part of your synchronous teaching.",
+          "videos": [
+            {
+              "title": "Pedagogy for Synchronous Class Facilitation",
+              "warpwire": "R08BAA"
+            }
+          ],
+          "overviewcontent": "It takes a significant effort to convert quality instructional plans into well-designed, high-engagement synchronous learning experiences. In this lesson, we will talk about some of the top skills that keep students active and learning in a synchronous session.",
+          "section1title": "Pedagogy for Synchronous Class Facilitation",
+          "section1content": "Facilitating a synchronous class takes careful planning to provide for the necessary student engagement and collaboration. Find out more by watching the video below.",
+          "section2title": "Practical Application",
+          "lti": [
+            {
+              "header": "Quick Write - Share your experience",
+              "description": "Use the link below to submit your response. You will be asked to answer the following two prompts.<ol><li>Have you already taught online before with a synchronous tool?  Discuss the challenges of maintaining student engagement in a tool like Zoom. What areas of improvement do you see that can be addressed and improved based on this training?</li><li>During a synchronous class session, you notice that one of your students is not participating. You have tried multiple ways to engage the class, including the chatbox, whiteboard, microphone and breakout rooms to no avail. How would you address the student and encourage a higher level of engagement?</li></ol>",
+              "icon": "fa-pencil-square",
+              "title": "Share your experience",
+              "launch": "mod/modquickwrite/",
+              "resource_link_id": "zoom_teaching_qw"
+            }
+          ],
+          "aside1title": "Additional Resources",
+          "aside1content": [
+            {
+              "header": "Zoom Specific Resources",
+              "references": [
+                {
+                  "icon": "fa-file-pdf",
+                  "title": "Zoom Study Group Guide",
+                  "href": "https://drive.google.com/file/d/1tDaJSyNUvmKdR6_1_63G0ow0qVbs28_u/view"
+                },
+                {
+                  "icon": "fa-external-link",
+                  "title": "3 Ways To Use Polls In Meetings",
+                  "href": "http://blog.zoom.us/wordpress/2016/09/20/3-ways-to-use-polls-in-meetings/"
+                },
+                {
+                  "icon": "fa-external-link",
+                  "title": "Enhanced Productivity Via Shared Screen Annotation",
+                  "href": "http://blog.zoom.us/wordpress/2016/07/22/productivity-via-shared-screen-annotation/"
+                }
+              ]
+            },
+            {
+              "header": "Downloadable Resources",
+              "references": [
+                {
+                  "icon": "fa-file-ppt",
+                  "title": "PPT Template for AV Support and Agenda ",
+                  "href": "https://drive.google.com/file/d/1AfngkALUIfBBZqPrlMXPmemdUf08aD2i/view"
+                },
+                {
+                  "icon": "fa-file-pdf",
+                  "title": "Synchronous Online Teaching Evaluation Rubric",
+                  "href": "https://drive.google.com/file/d/1ccL0dwFe72NAErE5yFyn4mp1C0vJxwuA/view"
+                }
+              ]
+            },
+            {
+              "header": "Additional Training",
+              "references": [
+                {
+                  "icon": "fa-external-link",
+                  "title": "Learning to Teach Online – Coursera Course",
+                  "href": "https://www.coursera.org/learn/teach-online"
+                }
+              ]
+            },
+            {
+              "header": "Articles",
+              "references": [
+                {
+                  "icon": "fa-external-link",
+                  "title": "Improve Student Success with an Online Learning Community",
+                  "href": "https://www.wbtsystems.com/learning-hub/blogs/improve-student-success-online-learning-community"
+                },
+                {
+                  "icon": "fa-external-link",
+                  "title": "9 Proven Ways for Instructors to Address Online Student Retention",
+                  "href": "https://teachonline.asu.edu/2015/08/9-proven-ways-for-instructors-to-address-online-student-retention/#more-3162"
+                },
+                {
+                  "icon": "fa-external-link",
+                  "title": "Breakout rooms in virtual classrooms: why and how.",
+                  "href": "https://blog.wiziq.com/breakout-rooms-in-virtual-classrooms/"
+                }
+              ]
+            }
+          ],
+          "aside2title": "Potential Questions You May Have",
+          "aside2questions": [
+            {
+              "question": "What is the recommended ratio of instructor lecture to student contribution in the online classroom?",
+              "answer": "Answers on this vary but the consensus is that lecture by the instructor should never exceed the amount of time spent participating in interactive tasks such as questioning and discussion, group work, or other learning that is active for students."
+            },
+            {
+              "question": "What is a creative activity to utilize in a breakout room?",
+              "answer": "A current trend in online learning is to create an actual “Breakout Room” room.  The instructor builds a series of puzzles and questions, centered on the learning topic, that have to be solved by the students. This is  similar to the Escape and Breakout rooms that are popular group outing activities. Different groups can race against one another to see who solves the breakout first."
+            }
+          ]
+        }
+      ]
     }
   ]
 }
