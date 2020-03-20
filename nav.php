@@ -22,10 +22,10 @@ if ( $loggedin ) {
         $set->addLeft('Badge Admin', $R.'badgeadmin');
     }
 } else {
-    $set->addLeft('Assignments', 'javascript:void(0);', false, true, 'Log in to access the Assignments page');
+    $set->addLeft('Assignments', 'javascript:void(0);', false, false, true, 'Log in to access the Assignments page');
 
     if ( isset($CFG->badge_encrypt_password) && $CFG->badge_encrypt_password ) {
-        $set->addLeft('Badges', 'javascript:void(0);', false, true, 'Log in to access the Badges page');
+        $set->addLeft('Badges', 'javascript:void(0);', false, false, true, 'Log in to access the Badges page');
     }
 }
 
