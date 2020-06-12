@@ -5,7 +5,7 @@ use \Tsugi\UI\Output;
 
 require "top.php";
 require "nav.php";
-
+echo '<div class="container">';
 $OUTPUT->pageTitle('Welcome to the LEARN Training Platform');
 ?>
 <p class="lead">Explore self-paced lessons on a variety of topics and technologies supported by the Office of eLearning.</p>
@@ -30,4 +30,5 @@ $OUTPUT->pageTitle('Welcome to the LEARN Training Platform');
     </div>
 </div>
 <?php
+echo '</div>';
 require "foot.php";
