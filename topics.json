@@ -1,0 +1,38 @@
+{
+  "title": "LEARN Topics and Deep-Dives",
+  "description": "Below are a collection of videos on different topics. Some are introductions and some are deep-dives.",
+  "topics": [
+    {
+      "title": "Intrinsic Motivation & Course Communication",
+      "description": "Incorporating the ARCS method of motivation into your course communications to help increase student intrinsic motivation.",
+      "category": "Student Engagement",
+      "thumbnail": "arcscommunication.JPG",
+      "content": "Students are more successful in courses where they have a higher level of intrinsic motivation. The ARCS Model of Motivation focuses on Attention, Relevance, Confidence, and Satisfaction. In this video we talk about a very simple way to incorporate ARCS components into your course communication to increase student intrinsic motivation.",
+      "time": "Est. 6 min",
+      "author":  "Office of eLearning",
+      "anchor": "arcscommunication",
+      "videos": [
+        {
+          "title": "Student Intrinsic Motivation and Course Communication",
+          "warpwire": "D-wBAA"
+        }
+      ]
+    },
+    {
+      "title": "Beat the Boss Monster!",
+      "description": "Enhance course engagement and learning outcomes using gamification techniques.",
+      "category": "Gamification",
+      "thumbnail": "bossmonster.jpg",
+      "content": "Games operate off of fairly simple mechanics - beat the boss monster, save the world - yet they offer some of the most engaging and immersive learning experiences on the planet. Join Instructional Designer Kent Darr to discuss three gamification techniques that you can build into your course to enhance engagement and learning outcomes while also preparing students to be a source of common good now and after graduation.",
+      "time": "Est. 9 min",
+      "author":  "Office of eLearning",
+      "anchor": "bossmonster",
+      "videos": [
+        {
+          "title": "Beat the Boss Monster!",
+          "warpwire": "_-sBAA"
+        }
+      ]
+    }
+  ]
+}

@@ -115,6 +115,248 @@
   ],
   "modules": [
     {
+      "title": "Preparing Your Isidore Course Site for the Fall 2020 Semester",
+      "description": "We can admit it - Isidore can be a bit tricky to use. That’s one of the reasons we created template sites for everyone this fall. With everyone learning how to use the same tools in Isidore, we can provide more effective training that will help guide you step-by-step through creating polished Isidore sites that are easy and consistent for students to navigate. <br /><br />Completing this training package should take no longer than an hour and a half. We recommend starting with the very first lesson, but you can also jump to the lessons you need by exploring the outline of the training below.",
+      "time": "Est. 90 min",
+      "anchor": "templatesites",
+      "lessons": [
+        {
+          "title": "Getting Started With Your Site",
+          "anchor": "templatesites-gettingstarted",
+          "icon": "fa-flag-o",
+          "description": "Start with the basics.",
+          "overviewcontent": "Let’s start with the basics. What’s in the template site? How can you import content and customize it for your class? We’ll cover these questions in the videos for this lesson."
+        },
+        {
+          "title": "The Big Picture",
+          "sublesson": true,
+          "anchor": "templatesites-gettingstarted-bigpicture",
+          "icon": "fa-flag-o",
+          "description": "Learn about the importance of creating a consistent learning experience for students.",
+          "overviewcontent": "The ultimate goal of the template site is to create a consistent learning experience for students. So, let’s start with what the students will actually see. In this video, you’ll see how streamlined and easy it is for the student to know exactly where to go for your course communications, your content, their due dates, and their grades and feedback.",
+          "videos": [
+            {
+              "title": "Lesson 1: The Big Picture",
+              "warpwire": "x-UBAA"
+            }
+          ]
+        },
+        {
+          "title": "Understanding the Template",
+          "sublesson": true,
+          "anchor": "templatesites-gettingstarted-thetemplate",
+          "icon": "fa-flag-o",
+          "description": "A quick walkthrough of each tool in the template site.",
+          "overviewcontent": "Before diving into the details of every tool, this video is just a quick walkthrough of the basic purpose of each tool that is in the template site.",
+          "videos": [
+            {
+              "title": "Lesson 1: Understanding the Template",
+              "warpwire": "2eUBAA"
+            }
+          ]
+        },
+        {
+          "title": "Importing Content from Previous Isidore Sites",
+          "sublesson": true,
+          "anchor": "templatesites-gettingstarted-importing",
+          "icon": "fa-flag-o",
+          "description": "Learn how to re-use your content in your new site.",
+          "overviewcontent": "We know you’ve spent many years building out assignments, tests, forums, and more. You can easily still use this material. In this video, you’ll learn how to import content from your previous Isidore sites.",
+          "videos": [
+            {
+              "title": "Lesson 1: Importing Content from Previous Isidore Sites",
+              "warpwire": "e-YBAA"
+            }
+          ]
+        },
+        {
+          "title": "Adding More Tools",
+          "sublesson": true,
+          "anchor": "templatesites-gettingstarted-moretools",
+          "icon": "fa-flag-o",
+          "description": "Add missing tools to your new course site.",
+          "overviewcontent": "If there are still tools missing from your course site, not to worry. It only takes 4 clicks to add back a tool.",
+          "videos": [
+            {
+              "title": "Lesson 1: Adding More Tools",
+              "warpwire": "g-cBAA"
+            }
+          ]
+        },
+        {
+          "title": "Structuring Your Course Content",
+          "anchor": "templatesites-structuring",
+          "icon": "fa-cubes",
+          "description": "Designing your course.",
+          "videos": [
+            {
+              "title": "Lesson 2: Planning Your Course",
+              "warpwire": "7eABAA"
+            }
+          ],
+          "overviewcontent": "Before adding any content to Isidore, we suggest taking some time to think through your entire course on paper. What are the goals for the course? Do your assessments appropriately measure those goals? How will you split out all the content for your course?"
+        },
+        {
+          "title": "Taking the First Steps",
+          "anchor": "templatesites-firststeps",
+          "icon": "fa-list-ul",
+          "description": "Beginning to add content to Isidore.",
+          "overviewcontent": "Now that you’ve thought through how you want to design your course, it’s time to start taking those first steps of adding content to Isidore. In this Lesson, we’ll cover creating a useful and attractive course homepage, updating your syllabus, and adding your topics and dates to a templated schedule."
+        },
+        {
+          "title": "Creating Your Homepage",
+          "sublesson": true,
+          "anchor": "templatesites-firststeps-homepage",
+          "icon": "fa-list-ul",
+          "description": "Providing students with a central place for important information.",
+          "overviewcontent": "Your course homepage should provide students with the most important information they need to get started with your class. This video will show you how to add your course details to the Homepage Builder tool to give them a personalized welcome.",
+          "videos": [
+            {
+              "title": "Lesson 3: Creating Your Homepage",
+              "warpwire": "O-wBAA"
+            }
+          ]
+        },
+        {
+          "title": "Updating Your Syllabus",
+          "sublesson": true,
+          "anchor": "templatesites-firststeps-syllabus",
+          "icon": "fa-list-ul",
+          "description": "Getting started with the syllabus template.",
+          "overviewcontent": "It can be challenging to develop your syllabus without knowing exactly what your course will look like. We have created a syllabus template that adheres to the best practices of Flexible Teaching. In this video, we’ll review the most important parts of the syllabus and how to update it yourself. We’ll also show you how to save it as a PDF so it can be accessed easily by all students.",
+          "videos": [
+            {
+              "title": "Lesson 3: Updating Your Syllabus",
+              "warpwire": ""
+            }
+          ]
+        },
+        {
+          "title": "Planning Your Schedule",
+          "sublesson": true,
+          "anchor": "templatesites-firststeps-schedule",
+          "icon": "fa-flag-o",
+          "description": "Creating an easy-to-update course schedule.",
+          "overviewcontent": "Similar to the syllabus, it can be tricky to plan out the schedule for the entire semester. We’ve created an easy-to-update schedule that we recommend you complete to the best of your ability before the semester begins. If it needs to change throughout the semester, you can quickly update and re-upload to your Homepage in Isidore.",
+          "videos": [
+            {
+              "title": "Lesson 3: Planning Your Schedule",
+              "warpwire": ""
+            }
+          ]
+        },
+        {
+          "title": "Creating & Adding Your Course Content",
+          "anchor": "templatesites-coursecontent",
+          "icon": "fa-file-text-o",
+          "description": "Building your course's content in Isidore.",
+          "overviewcontent": "It’s time to start adding content to the Lessons tool in the template. We’ll walk you through the whole process, step-by-step. We’ll also cover in this lesson the best ways to record and share video lectures."
+        },
+        {
+          "title": "Building Your Weekly Modules",
+          "sublesson": true,
+          "anchor": "templatesites-coursecontent-weeklymodules",
+          "icon": "fa-file-text-o",
+          "description": "Adding content to the weekly modules in the Lessons tool.",
+          "overviewcontent": "The course template contains weekly modules. Each module should contain all the information a student needs to complete course activities for that week. Let’s walk through how you can set these up.",
+          "videos": [
+            {
+              "title": "Lesson 4: Building Your Weekly Modules",
+              "warpwire": "EeoBAA"
+            }
+          ]
+        },
+        {
+          "title": "Creating and Sharing Videos with Snagit and Warpwire",
+          "sublesson": true,
+          "anchor": "templatesites-coursecontent-sharingvideos",
+          "icon": "fa-file-text-o",
+          "description": "Learn the easiest approach to recording and sharing videos.",
+          "overviewcontent": "Video is a powerful way to teach content to your students. Let’s take a look at the easiest approach to record and share your videos with students.",
+          "videos": [
+            {
+              "title": "Lesson 4: Creating and Sharing Videos with Snagit and Warpwire",
+              "warpwire": "CewBAA"
+            }
+          ],
+          "aside1title": "Additional Resources",
+          "aside1content": [
+            {
+              "references": [
+                {
+                  "icon": "fa-external-link",
+                  "title": "Download Snagit",
+                  "href": "https://www.techsmith.com/screen-capture.html"
+                },
+                {
+                  "icon": "fa-external-link",
+                  "title": "Snagit Documentation",
+                  "href": "https://ewiki.udayton.edu/isidore/SnagIt"
+                },
+                {
+                  "icon": "fa-external-link",
+                  "title": "Email elearning@udayton.edu for a Snagit license",
+                  "href": "mailto:elearning@udayton.edu"
+                },
+                {
+                  "icon": "fa-external-link",
+                  "title": "How to Setup a DIY Teleprompter",
+                  "href": "https://udayton.warpwire.com/w/f-UBAA/"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Streamlining Communications",
+          "anchor": "templatesites-communication",
+          "icon": "fa-exclamation-triangle",
+          "description": "Coming soon.",
+          "overviewcontent": "This lesson is still under development. Please check back soon for the contents of this lesson."
+        },
+        {
+          "title": "Assessing Your Students",
+          "anchor": "templatesites-assessing",
+          "icon": "fa-exclamation-triangle",
+          "description": "Coming soon.",
+          "overviewcontent": "Assigning and grading homework, papers, and projects is one of the most foundational instructional practices. Learn the simplest way of accomplishing this online.",
+          "aside1title": "Additional Resources",
+          "aside1content": [
+            {
+              "references": [
+                {
+                  "icon": "fa-external-link",
+                  "title": "TurnitIn Documentation",
+                  "href": "https://ewiki.udayton.edu/isidore/Turnitin"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Maintaining Your Gradebook",
+          "anchor": "templatesites-gradebook",
+          "icon": "fa-exclamation-triangle",
+          "description": "Coming soon.",
+          "overviewcontent": "This lesson is still under development. Please check back soon for the contents of this lesson."
+        },
+        {
+          "title": "Understanding the Calendar",
+          "anchor": "templatesites-calendar",
+          "icon": "fa-exclamation-triangle",
+          "description": "Coming soon.",
+          "overviewcontent": "This lesson is still under development. Please check back soon for the contents of this lesson."
+        },
+        {
+          "title": "Facilitating Zoom Sessions",
+          "anchor": "templatesites-zoom",
+          "icon": "fa-exclamation-triangle",
+          "description": "Coming soon.",
+          "overviewcontent": "This lesson is still under development. Please check back soon for the contents of this lesson."
+        }
+      ]
+    },
+    {
       "title": "I'm Brand New! What Do I Do?",
       "description": "If you're brand new to Isidore, or just need a complete refresher, pop into any of the lessons below to learn the fundamentals. The topics covered include background information about Isidore, basic navigation and layout of the system, and the site creation process.",
       "time": "Est. 15 min",

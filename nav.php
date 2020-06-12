@@ -11,6 +11,9 @@ $set->setHome($CFG->servicename, $CFG->apphome);
 if ( isset($CFG->lessons) ) {
     $set->addLeft('Lessons', $R.'lessons');
 }
+if ( isset($CFG->topics) ) {
+    $set->addLeft('Topics', $R.'topics');
+}
 if ( $loggedin ) {
 	$set->addLeft('Assignments', $R.'assignments');
 
