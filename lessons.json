@@ -116,7 +116,7 @@
   "modules": [
     {
       "title": "Preparing Your Isidore Course Site for the Fall 2020 Semester",
-      "description": "We can admit it - Isidore can be a bit tricky to use. That’s one of the reasons we created template sites for everyone this fall. With everyone learning how to use the same tools in Isidore, we can provide more effective training that will help guide you step-by-step through creating polished Isidore sites that are easy and consistent for students to navigate. <br /><br />Completing this training package should take no longer than an hour and a half. We recommend starting with the very first lesson, but you can also jump to the lessons you need by exploring the outline of the training below.",
+      "description": "In effort to support faculty, the Office of eLearning has created all fall 2020 Isidore sites from a standard template with a set of standard tools and organization guided by best practices and student needs. With everyone learning how to use the same tools in Isidore, we can provide more effective training that will help guide you step-by-step through creating polished Isidore sites that are easy and consistent for students to navigate.<br /><br />Completing this training package should take no longer than an hour and a half. We recommend starting with the very first lesson, but you can also jump to the lessons you need by exploring the outline within this training package.",
       "time": "Est. 90 min",
       "anchor": "templatesites",
       "lessons": [
@@ -194,7 +194,19 @@
               "warpwire": "7eABAA"
             }
           ],
-          "overviewcontent": "Before adding any content to Isidore, we suggest taking some time to think through your entire course on paper. What are the goals for the course? Do your assessments appropriately measure those goals? How will you split out all the content for your course?"
+          "overviewcontent": "Before adding any content to Isidore, we suggest taking some time to think through your entire course on paper. What are the goals for the course? Do your assessments appropriately measure those goals? How will you split out all the content for your course?",
+          "aside1title": "Additional Resources",
+          "aside1content": [
+            {
+              "references": [
+                {
+                  "icon": "fa-external-link",
+                  "title": "Guide to Flexible Course Design",
+                  "href": "https://isidore.udayton.edu/flexteaching/coursedesign/index.html"
+                }
+              ]
+            }
+          ]
         },
         {
           "title": "Taking the First Steps",
@@ -227,7 +239,34 @@
           "videos": [
             {
               "title": "Lesson 3: Updating Your Syllabus",
-              "warpwire": ""
+              "warpwire": "a-8BAA"
+            }
+          ],
+          "aside1title": "Additional Resources",
+          "aside1content": [
+            {
+              "references": [
+                {
+                  "icon": "fa-external-link",
+                  "title": "Guiding Principles of Flexible Teaching",
+                  "href": "https://isidore.udayton.edu/flexteaching/guidingprinciples.html"
+                },
+                {
+                  "icon": "fa-external-link",
+                  "title": "Flexible Teaching Guide: How to Create a Strong Syllabus",
+                  "href": "https://isidore.udayton.edu/flexteaching/coursedesign/index.html"
+                },
+                {
+                  "icon": "fa-external-link",
+                  "title": "Flexible Teaching Syllabus Template",
+                  "href": "https://isidore.udayton.edu/access/content/public/01%20Flexible%20Teaching/Flexible%20Teaching%20Syllabus%20Template.docx"
+                },
+                {
+                  "icon": "fa-external-link",
+                  "title": "Flexible Teaching Syllabus - Completed Example",
+                  "href": "https://isidore.udayton.edu/access/content/public/01%20Flexible%20Teaching/Flexible%20Teaching%20Syllabus%20-%20Completed%20Example.pdf"
+                }
+              ]
             }
           ]
         },
@@ -242,6 +281,23 @@
             {
               "title": "Lesson 3: Planning Your Schedule",
               "warpwire": ""
+            }
+          ],
+          "aside1title": "Additional Resources",
+          "aside1content": [
+            {
+              "references": [
+                {
+                  "icon": "fa-external-link",
+                  "title": "Flexible Teaching Schedule Template",
+                  "href": "https://isidore.udayton.edu/access/content/public/01%20Flexible%20Teaching/Flexible%20Teaching%20Schedule%20Template.docx"
+                },
+                {
+                  "icon": "fa-external-link",
+                  "title": "Flexible Teaching Schedule - Completed Example",
+                  "href": "https://isidore.udayton.edu/access/content/public/01%20Flexible%20Teaching/Flexible%20Teaching%20Schedule%20Template%20-%20Completed%20Example.pdf"
+                }
+              ]
             }
           ]
         },
@@ -317,21 +373,51 @@
         {
           "title": "Assessing Your Students",
           "anchor": "templatesites-assessing",
-          "icon": "fa-exclamation-triangle",
-          "description": "Coming soon.",
+          "icon": "fa-list-ol",
+          "description": "Learn about techniques to assess your students' learning.",
+          "overviewcontent": "Use Isidore to set up online activities to assess your students' learning. You may find that these techniques help you stay organized and save you time."
+        },
+        {
+          "title": "Collecting and Grading Assignments",
+          "sublesson": true,
+          "anchor": "templatesites-assessing-assignments",
+          "icon": "fa-file-text-o",
+          "description": "Learn about assigning and grading homework, papers, and projects online.",
           "overviewcontent": "Assigning and grading homework, papers, and projects is one of the most foundational instructional practices. Learn the simplest way of accomplishing this online.",
+          "videos": [
+            {
+              "title": "Lesson 6: Collecting and Grading Assignments",
+              "warpwire": "Ue8BAA"
+            }
+          ],
           "aside1title": "Additional Resources",
           "aside1content": [
             {
               "references": [
                 {
                   "icon": "fa-external-link",
-                  "title": "TurnitIn Documentation",
+                  "title": "Turnitin Documentation",
                   "href": "https://ewiki.udayton.edu/isidore/Turnitin"
                 }
               ]
             }
           ]
+        },
+        {
+          "title": "Delivering Quizzes and Exams",
+          "sublesson": true,
+          "anchor": "templatesites-assessing-exams",
+          "icon": "fa-exclamation-triangle",
+          "description": "Coming soon.",
+          "overviewcontent": "This lesson is still under development. Please check back soon for the contents of this lesson."
+        },
+        {
+          "title": "Hosting & Evaluating Threaded Discussions",
+          "sublesson": true,
+          "anchor": "templatesites-assessing-discussions",
+          "icon": "fa-exclamation-triangle",
+          "description": "Coming soon.",
+          "overviewcontent": "This lesson is still under development. Please check back soon for the contents of this lesson."
         },
         {
           "title": "Maintaining Your Gradebook",
