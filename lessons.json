@@ -407,9 +407,37 @@
           "title": "Delivering Quizzes and Exams",
           "sublesson": true,
           "anchor": "templatesites-assessing-exams",
-          "icon": "fa-exclamation-triangle",
-          "description": "Coming soon.",
-          "overviewcontent": "This lesson is still under development. Please check back soon for the contents of this lesson."
+          "icon": "fa-check-square-o",
+          "description": "Learn about the Tests & Quizzes tool in Isidore.",
+          "overviewcontent": "You can deliver online quizzes and exams through Isidore. See the student experience and learn how to use the most common question types.",
+          "videos": [
+            {
+              "title": "Lesson 6: Delivering Quizzes and Exams",
+              "warpwire": "nfUBAA"
+            }
+          ],
+          "aside1title": "Additional Resources",
+          "aside1content": [
+            {
+              "references": [
+                {
+                  "icon": "fa-external-link",
+                  "title": "Frequent, Low-Stakes Grading",
+                  "href": "https://www.facultyfocus.com/articles/educational-assessment/frequent-low-stakes-grading-assessment-for-communication-confidence/"
+                },
+                {
+                  "icon": "fa-external-link",
+                  "title": "Writing Good Multiple Choice Test Questions",
+                  "href": "https://cft.vanderbilt.edu/guides-sub-pages/writing-good-multiple-choice-test-questions/"
+                },
+                {
+                  "icon": "fa-external-link",
+                  "title": "Isidore Test & Quizzes Documentation",
+                  "href": "https://ewiki.udayton.edu/isidore/Tests_and_Quizzes"
+                }
+              ]
+            }
+          ]
         },
         {
           "title": "Hosting & Evaluating Threaded Discussions",
