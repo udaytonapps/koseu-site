@@ -156,38 +156,6 @@
           ]
         },
         {
-          "title": "Importing Content from Previous Isidore Sites",
-          "sublesson": true,
-          "anchor": "templatesites-gettingstarted-importing",
-          "icon": "fa-flag-o",
-          "description": "Learn how to re-use your content in your new site.",
-          "overviewcontent": "We know you’ve spent many years building out assignments, tests, forums, and more. You can easily still use this material. In this video, you’ll learn how to import content from your previous Isidore sites.",
-          "videos": [
-            {
-              "title": "Lesson 1: Importing Content from Previous Isidore Sites",
-              "warpwire": "e-YBAA"
-            },
-            {
-              "title": "Lesson 1: Importing Content Part 2",
-              "warpwire": "qfkBAA"
-            }
-          ]
-        },
-        {
-          "title": "Adding More Tools",
-          "sublesson": true,
-          "anchor": "templatesites-gettingstarted-moretools",
-          "icon": "fa-flag-o",
-          "description": "Add missing tools to your new course site.",
-          "overviewcontent": "If there are still tools missing from your course site, not to worry. It only takes 4 clicks to add back a tool.",
-          "videos": [
-            {
-              "title": "Lesson 1: Adding More Tools",
-              "warpwire": "g-cBAA"
-            }
-          ]
-        },
-        {
           "title": "Structuring Your Course Content",
           "anchor": "templatesites-structuring",
           "icon": "fa-cubes",
@@ -323,6 +291,38 @@
             {
               "title": "Lesson 4: Building Your Weekly Modules",
               "warpwire": "EeoBAA"
+            }
+          ]
+        },
+        {
+          "title": "Importing Content from Previous Isidore Sites",
+          "sublesson": true,
+          "anchor": "templatesites-gettingstarted-importing",
+          "icon": "fa-file-text-o",
+          "description": "Learn how to re-use your content in your new site.",
+          "overviewcontent": "We know you’ve spent many years building out assignments, tests, forums, and more. You can easily still use this material. In this video, you’ll learn how to import content from your previous Isidore sites.",
+          "videos": [
+            {
+              "title": "Lesson 4: Importing Content from Previous Isidore Sites",
+              "warpwire": "e-YBAA"
+            },
+            {
+              "title": "Lesson 4: Importing Content Part 2",
+              "warpwire": "qfkBAA"
+            }
+          ]
+        },
+        {
+          "title": "Adding More Tools",
+          "sublesson": true,
+          "anchor": "templatesites-gettingstarted-moretools",
+          "icon": "fa-file-text-o",
+          "description": "Add missing tools to your new course site.",
+          "overviewcontent": "If there are still tools missing from your course site, not to worry. It only takes 4 clicks to add back a tool.",
+          "videos": [
+            {
+              "title": "Lesson 4: Adding More Tools",
+              "warpwire": "g-cBAA"
             }
           ]
         },
