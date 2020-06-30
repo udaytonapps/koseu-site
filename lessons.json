@@ -160,6 +160,14 @@
           "anchor": "templatesites-structuring",
           "icon": "fa-cubes",
           "description": "Designing your course.",
+          "overviewcontent": "The importance of planning out your course and providing a solid structure your course content can not be overstated. These are essential first steps in constructing and delivering a quality course. There are many key decisions that must be made up front that inform how a course will ultimately be constructed."
+        },
+        {
+          "title": "Planning Your Course",
+          "sublesson": true,
+          "anchor": "templatesites-structuring-planning",
+          "icon": "fa-cubes",
+          "description": "A look at backwards design, scheduling, assessment and course content.",
           "videos": [
             {
               "title": "Lesson 2: Planning Your Course",
@@ -179,6 +187,20 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Creating a Course Plan",
+          "sublesson": true,
+          "anchor": "templatesites-structuring-courseplan",
+          "icon": "fa-cubes",
+          "description": "Learn how to use the Course Planner tool to easily lay out the key elements of your course.",
+          "videos": [
+            {
+              "title": "Lesson 2: Creating a Course Plan",
+              "warpwire": "2QECAA"
+            }
+          ],
+          "overviewcontent": "The Isidore Course Planner tool is a simple utility designed to help faculty start laying out the key elements of a course. It also provides a great way to visualize how all of the elements will fit together. Faculty can create as many individual course plans as they want and each course plan can be shared with colleagues for easy collaboration. This tool does not connect to a specific Isidore site and is not designed to be shared with students. It's a place to get started as you think through any course."
         },
         {
           "title": "Taking the First Steps",
