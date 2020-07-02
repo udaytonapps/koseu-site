@@ -476,9 +476,45 @@
         {
           "title": "Maintaining Your Gradebook",
           "anchor": "templatesites-gradebook",
-          "icon": "fa-exclamation-triangle",
-          "description": "Coming soon.",
-          "overviewcontent": "This lesson is still under development. Please check back soon for the contents of this lesson."
+          "icon": "fa-book",
+          "description": "Learn about the most popular Isidore tool among students.",
+          "overviewcontent": "The most popular of all Isidore tools among students, online gradebooks help students track their progress, while giving instructors the platform to publish grades and offer constructive feedback."
+        },
+        {
+          "title": "Creating Your Gradebook",
+          "sublesson": true,
+          "anchor": "templatesites-gradebook-creating",
+          "icon": "fa-book",
+          "description": "Learn how to add gradebook items, enter grades and comments, and link items to other tools.",
+          "overviewcontent": "Adding items, entering grades, leaving comments, and grading from other tools, such as Assignments and Tests & Quizzes. These are the fundamental functions of the Gradebook.",
+          "videos": [
+            {
+              "title": "Lesson 7: Creating Your Gradebook",
+              "warpwire": "uwECAA"
+            }
+          ],
+          "aside1title": "Additional Resources",
+          "aside1content": [
+            {
+              "references": [
+                {
+                  "icon": "fa-external-link",
+                  "title": "Isidore Gradebook Documentation",
+                  "href": "https://ewiki.udayton.edu/isidore/Gradebook"
+                },
+                {
+                  "icon": "fa-external-link",
+                  "title": "Setting up Extra Credit",
+                  "href": "https://ewiki.udayton.edu/isidore/Setup_Extra_Credit"
+                },
+                {
+                  "icon": "fa-external-link",
+                  "title": "Drop the Lowest Grade",
+                  "href": "https://ewiki.udayton.edu/isidore/Drop_the_Lowest"
+                }
+              ]
+            }
+          ]
         },
         {
           "title": "Understanding the Calendar",
