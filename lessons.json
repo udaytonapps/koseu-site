@@ -466,12 +466,40 @@
           ]
         },
         {
-          "title": "Hosting & Evaluating Threaded Discussions",
+          "title": "Hosting & Evaluating Discussion Forums",
           "sublesson": true,
           "anchor": "templatesites-assessing-discussions",
-          "icon": "fa-exclamation-triangle",
-          "description": "Coming soon.",
-          "overviewcontent": "This lesson is still under development. Please check back soon for the contents of this lesson."
+          "icon": "fa-comments",
+          "description": "Give your students a reprieve from \"Zoom fatigue\"",
+          "overviewcontent": "Online discussion forums allow you to evaluate student participation and could give your students a reprieve from \"Zoom fatigue\".",
+          "videos": [
+            {
+              "title": "Lesson 6: Hosting & Evaluating Discussion Forums",
+              "warpwire": "IwUCAA"
+            }
+          ],
+          "aside1title": "Additional Resources",
+          "aside1content": [
+            {
+              "references": [
+                {
+                  "icon": "fa-external-link",
+                  "title": "Isidore Forums Documentation",
+                  "href": "https://ewiki.udayton.edu/isidore/Forums"
+                },
+                {
+                  "icon": "fa-external-link",
+                  "title": "Designing Effective Discussion Questions",
+                  "href": "https://teachingcommons.stanford.edu/resources/teaching/student-teacher-communication/designing-effective-discussion-questions"
+                },
+                {
+                  "icon": "fa-external-link",
+                  "title": "9 Student Engagement Strategies for Online Discussion Forums",
+                  "href": "https://edservices.wiley.com/9-student-engagement-strategies-for-discussion-forums/"
+                }
+              ]
+            }
+          ]
         },
         {
           "title": "Maintaining Your Gradebook",
