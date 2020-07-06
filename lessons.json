@@ -545,6 +545,42 @@
           ]
         },
         {
+          "title": "Configuring Your Gradebook",
+          "sublesson": true,
+          "anchor": "templatesites-gradebook-configuring",
+          "icon": "fa-book",
+          "description": "Learn how to configure your gradebook to your grading schema and specifications.",
+          "overviewcontent": "Once you have established your online gradebook, you will want to configure it to your grading schema and specifications. In this video, you will learn how to reorder grade columns and create grading categories and weights, along with methods for including grades into the final course calculations or excluding them entirely.",
+          "videos": [
+            {
+              "title": "Lesson 7: Configuring Your Gradebook",
+              "warpwire": "SwUCAA"
+            }
+          ],
+          "aside1title": "Additional Resources",
+          "aside1content": [
+            {
+              "references": [
+                {
+                  "icon": "fa-external-link",
+                  "title": "Isidore Gradebook Documentation",
+                  "href": "https://ewiki.udayton.edu/isidore/Gradebook"
+                },
+                {
+                  "icon": "fa-external-link",
+                  "title": "Setting up Extra Credit",
+                  "href": "https://ewiki.udayton.edu/isidore/Setup_Extra_Credit"
+                },
+                {
+                  "icon": "fa-external-link",
+                  "title": "Drop the Lowest Grade",
+                  "href": "https://ewiki.udayton.edu/isidore/Drop_the_Lowest"
+                }
+              ]
+            }
+          ]
+        },
+        {
           "title": "Understanding the Calendar",
           "anchor": "templatesites-calendar",
           "icon": "fa-exclamation-triangle",
