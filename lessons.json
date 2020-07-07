@@ -590,9 +590,54 @@
         {
           "title": "Facilitating Zoom Sessions",
           "anchor": "templatesites-zoom",
-          "icon": "fa-exclamation-triangle",
-          "description": "Coming soon.",
-          "overviewcontent": "This lesson is still under development. Please check back soon for the contents of this lesson."
+          "icon": "fa-video",
+          "description": "A quick dive into the different ways to access Zoom and how to create and schedule meetings.",
+          "overviewcontent": "Synchronous classes, one-on-one meetings, office hours, brainstorming, group work, presentations and more are essential parts to your course and your student’s growth in knowledge and skill. Zoom allows these to take place when distance is required. If you are just getting started or if you just need some additional information, this lesson will get you up and running in Zoom."
+        },
+        {
+          "title": "Accessing Zoom",
+          "sublesson": true,
+          "anchor": "templatesites-zoom-accessing",
+          "icon": "fa-video",
+          "description": "Learn about the different ways to access Zoom.",
+          "overviewcontent": "There are three ways you can access Zoom. In this video we will discuss what these three ways are, the differences between them, and how to know which is the best way to access and utilize Zoom for your particular purpose.",
+          "videos": [
+            {
+              "title": "Lesson 9: Accessing Zoom",
+              "warpwire": "YwMCAA"
+            }
+          ]
+        },
+        {
+          "title": "Adding Meetings",
+          "sublesson": true,
+          "anchor": "templatesites-zoom-meetings",
+          "icon": "fa-video",
+          "description": "Learn how to create and schedule Zoom meetings.",
+          "overviewcontent": "Meetings are where the magic happens. Here we discuss the difference between scheduled meetings and your personal meeting room. We will learn how to schedule class meetings as well as how to start spontaneous meetings.",
+          "videos": [
+            {
+              "title": "Lesson 9: Adding Meetings Zoom",
+              "warpwire": "3wUCAA"
+            }
+          ],
+          "aside1title": "Additional Resources",
+          "aside1content": [
+            {
+              "references": [
+                {
+                  "icon": "fa-external-link",
+                  "title": "Meeting Preferences when Scheduling",
+                  "href": "https://udayton.warpwire.com/w/bQgCAA/"
+                },
+                {
+                  "icon": "fa-external-link",
+                  "title": "Scheduling a Meeting in Google Calendar",
+                  "href": "https://udayton.warpwire.com/w/VnAAAA/"
+                }
+              ]
+            }
+          ]
         }
       ]
     },
