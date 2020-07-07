@@ -3,6 +3,22 @@
   "description": "Below are a collection of videos on different topics. Some are introductions and some are deep-dives.",
   "topics": [
     {
+      "title": "Small Group Collaboration in a Hybrid Class",
+      "description": "Encourage active learning in your hybrid classes by using collaboration tools such as murals and Zoom breakout rooms.",
+      "category": "Hybrid Learning",
+      "thumbnail": "iact-smallgroup.jpg",
+      "content": "A hybrid class presents an opportunity for you to foster creativity and collaboration among your students. Using group collaboration tools, you can split your in-person and online students into small groups to work on contributing to a shared resource, such as a mural or Google Doc. In this video, we will show you how to split your students into small groups and how to set up a Mural for your students to develop.",
+      "time": "Est. 14 min",
+      "author":  "Brian LaDuca and Adrienne Ausdenmoore<br />Institute of Applied Creativity for Transformation (IACT)",
+      "anchor": "iact-smallgroup-collaboration-hybrid",
+      "videos": [
+        {
+          "title": "Small Group Collaboration in a Hybrid Class",
+          "warpwire": "GwkCAA"
+        }
+      ]
+    },
+    {
       "title": "Intrinsic Motivation & Course Communication",
       "description": "Incorporating the ARCS method of motivation into your course communications to help increase student intrinsic motivation.",
       "category": "Student Engagement",
