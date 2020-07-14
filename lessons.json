@@ -652,6 +652,46 @@
               "warpwire": "6QkCAA"
             }
           ]
+        },
+        {
+          "title": "Managing Recordings",
+          "sublesson": true,
+          "anchor": "templatesites-zoom-recordings",
+          "icon": "fa-video",
+          "description": "Learn how record and share recordings for your Zoom meetings.",
+          "overviewcontent": "It is essential to record your synchronous sessions. This will provide a means for students who are unable to attend your live session to stay on top of their work. This session will show you where these recordings reside, how students access them, how to edit them, and how you can share in alternative ways if necessary.",
+          "videos": [
+            {
+              "title": "Lesson 9: Managing Zoom Recordings",
+              "warpwire": "Uw8CAA"
+            }
+          ],
+          "aside1title": "Additional Resources",
+          "aside1content": [
+            {
+              "references": [
+                {
+                  "icon": "fa-external-link",
+                  "title": "Customizing your recording settings",
+                  "href": "https://udayton.warpwire.com/w/KQ8CAA/"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Creating and Managing Breakout Rooms",
+          "sublesson": true,
+          "anchor": "templatesites-zoom-breakoutrooms",
+          "icon": "fa-video",
+          "description": "Learn how to foster student engagement with Zoom breakout rooms.",
+          "overviewcontent": "If group work and discussion are integral to your class then you will need to make friends with the breakout rooms in zoom! Breakout rooms are a great way to have your students collaborate on solving a problem, engage in active learning, make application of new knowledge, discuss a topic, and make connections. This video will show you have to facilitate breakouts. Check out our additional resources for more ideas on how to effectively use breakouts for student engagement.",
+          "videos": [
+            {
+              "title": "Lesson 9: Creating and Managing Zoom Breakout Rooms",
+              "warpwire": "IeEBAA"
+            }
+          ]
         }
       ]
     },
