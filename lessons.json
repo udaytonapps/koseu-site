@@ -384,6 +384,16 @@
                   "icon": "fa-external-link",
                   "title": "How to Setup a DIY Teleprompter",
                   "href": "https://udayton.warpwire.com/w/f-UBAA/"
+                },
+                {
+                  "icon": "fa-external-link",
+                  "title": "Techniques for Recording Videos",
+                  "href": "https://udayton.warpwire.com/w/8Q8CAA/"
+                },
+                {
+                  "icon": "fa-external-link",
+                  "title": "eLearning Video Editing Services",
+                  "href": "https://udayton.warpwire.com/w/8w8CAA/"
                 }
               ]
             }
@@ -583,9 +593,27 @@
         {
           "title": "Understanding the Calendar",
           "anchor": "templatesites-calendar",
-          "icon": "fa-exclamation-triangle",
-          "description": "Coming soon.",
-          "overviewcontent": "This lesson is still under development. Please check back soon for the contents of this lesson."
+          "icon": "fa-calendar",
+          "description": "Learn how you can create course calendar posts that help students stay on track.",
+          "overviewcontent": "Students tell us that next to the gradebook the calendar tool is the most essential tool. Learn how you can create course calendar posts that help students stay on track.",
+          "videos": [
+            {
+              "title": "Lesson 8: Understanding the Calendar",
+              "warpwire": "ixACAA"
+            }
+          ],
+          "aside1title": "Additional Resources",
+          "aside1content": [
+            {
+              "references": [
+                {
+                  "icon": "fa-external-link",
+                  "title": "Isidore Calendar Documentation",
+                  "href": "https://ewiki.udayton.edu/isidore/Calendar"
+                }
+              ]
+            }
+          ]
         },
         {
           "title": "Facilitating Zoom Sessions",
