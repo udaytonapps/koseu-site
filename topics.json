@@ -3,6 +3,22 @@
   "description": "Below are a collection of videos on different topics. Some are introductions and some are deep-dives.",
   "topics": [
     {
+      "title": "Reducing Your Grading Load with Model Answers",
+      "description": "Learn how to reduce your grading time while assuring that your students are completing rigorous learning exercises.",
+      "category": "Grading",
+      "thumbnail": "modelanswers.jpg",
+      "content": "Looking for a way to reduce your grading time while assuring that your students are completing rigorous learning exercises? In this video, you'll learn about how you can use the Model Answers feature in Isidore's assignments tool to create a two-part reflective activity that assists students to scaffold themselves up to the next level of expertise so that you can free up time to focus on maximizing your course facilitation time with those who need your help the most.",
+      "time": "Est. 6 min",
+      "author":  "Kent Darr<br />Office of eLearning",
+      "anchor": "reducing-grading-load-model-answers",
+      "videos": [
+        {
+          "title": "Reducing Your Grading Load with Model Answers",
+          "warpwire": "eRACAA"
+        }
+      ]
+    },
+    {
       "title": "Small Group Collaboration in a Hybrid Class",
       "description": "Encourage active learning in your hybrid classes by using collaboration tools such as murals and Zoom breakout rooms.",
       "category": "Hybrid Learning",
@@ -25,7 +41,7 @@
       "thumbnail": "arcscommunication.JPG",
       "content": "Students are more successful in courses where they have a higher level of intrinsic motivation. The ARCS Model of Motivation focuses on Attention, Relevance, Confidence, and Satisfaction. In this video we talk about a very simple way to incorporate ARCS components into your course communication to increase student intrinsic motivation.",
       "time": "Est. 6 min",
-      "author":  "Office of eLearning",
+      "author":  "Katie Reynolds<br />Office of eLearning",
       "anchor": "arcscommunication",
       "videos": [
         {
@@ -41,7 +57,7 @@
       "thumbnail": "bossmonster.jpg",
       "content": "Games operate off of fairly simple mechanics - beat the boss monster, save the world - yet they offer some of the most engaging and immersive learning experiences on the planet. Join Instructional Designer Kent Darr to discuss three gamification techniques that you can build into your course to enhance engagement and learning outcomes while also preparing students to be a source of common good now and after graduation.",
       "time": "Est. 9 min",
-      "author":  "Office of eLearning",
+      "author":  "Kent Darr<br />Office of eLearning",
       "anchor": "bossmonster",
       "videos": [
         {
