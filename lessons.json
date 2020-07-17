@@ -402,9 +402,102 @@
         {
           "title": "Streamlining Communications",
           "anchor": "templatesites-communication",
-          "icon": "fa-exclamation-triangle",
-          "description": "Coming soon.",
-          "overviewcontent": "This lesson is still under development. Please check back soon for the contents of this lesson."
+          "icon": "fa-comments",
+          "description": "Learn how to keep your students on track throughout the semester by establishing a communication plan.",
+          "overviewcontent": "Establishing a communication plan can help you and your students stay on track throughout the semester. The goal of a streamlined communication strategy is to engage with students frequently enough so that they can keep up with important course dates - but also to not overwhelm them with too many messages."
+        },
+        {
+          "title": "Communication Strategy",
+          "sublesson": true,
+          "anchor": "templatesites-communication-strategy",
+          "icon": "fa-comments",
+          "description": "Establish expectations with your students.",
+          "overviewcontent": "A key component of successful course communication is to establish expectations with your students. In this lesson, we’ll review expectations you can set in your Syllabus as well as different types of messages you might send throughout the semester.",
+          "videos": [
+            {
+              "title": "Lesson 5: Communication Strategy",
+              "warpwire": "RRACAA"
+            }
+          ],
+          "aside1title": "Additional Resources",
+          "aside1content": [
+            {
+              "references": [
+                {
+                  "icon": "fa-external-link",
+                  "title": "Course Communication Guide",
+                  "href": "https://isidore.udayton.edu/access/content/public/01%20Flexible%20Teaching/Course%20Communication%20Guide%20-%20Fall%202020.pdf"
+                },
+                {
+                  "icon": "fa-external-link",
+                  "title": "5 Low-Tech, Time-Saving Ways to Teach Online (#5 pertains to strategic communication)",
+                  "href": "https://www.chronicle.com/article/5-Low-Tech-Time-Saving-Ways/248519"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Posting Announcements",
+          "sublesson": true,
+          "anchor": "templatesites-communication-announcements",
+          "icon": "fa-comments",
+          "description": "Learn why the Announcements tool is the best way to send streamlined communications to your classes.",
+          "overviewcontent": "The Announcements tool is the best way to send streamlined communications to your classes. We’ll explain why - and how to use it - in this video lesson.",
+          "videos": [
+            {
+              "title": "Lesson 5: Posting Announcements",
+              "warpwire": "mxICAA"
+            }
+          ],
+          "aside1title": "Additional Resources",
+          "aside1content": [
+            {
+              "references": [
+                {
+                  "icon": "fa-external-link",
+                  "title": "When You Communicate with Students, Tone Matters",
+                  "href": "https://www.chronicle.com/article/When-You-Communicate-With/244756"
+                },
+                {
+                  "icon": "fa-external-link",
+                  "title": "Isidore Announcements Documentation",
+                  "href": "https://ewiki.udayton.edu/isidore/Announcements"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Fostering Community through Commons",
+          "sublesson": true,
+          "anchor": "templatesites-communication-community",
+          "icon": "fa-comments",
+          "description": "Learn how to use the Commons tool available on your course homepage.",
+          "overviewcontent": "The Commons tool is a social media style news feed that sits on your course site homepage. This tool gives your students a place to cultivate community by asking questions, sharing links and pictures, and commenting on each other’s posts.",
+          "videos": [
+            {
+              "title": "Lesson 5: Fostering Community through Commons",
+              "warpwire": "SxMCAA"
+            }
+          ],
+          "aside1title": "Additional Resources",
+          "aside1content": [
+            {
+              "references": [
+                {
+                  "icon": "fa-external-link",
+                  "title": "5 Ways to Connect with Online Students",
+                  "href": "https://www.chronicle.com/article/5-Ways-to-Connect-With-Online/249077"
+                },
+                {
+                  "icon": "fa-external-link",
+                  "title": "Purposeful Interpersonal Interaction in Online Learning",
+                  "href": "https://files.eric.ed.gov/fulltext/EJ1249281.pdf"
+                }
+              ]
+            }
+          ]
         },
         {
           "title": "Assessing Your Students",
