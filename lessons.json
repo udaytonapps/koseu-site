@@ -813,6 +813,56 @@
               "warpwire": "IeEBAA"
             }
           ]
+        },
+        {
+          "title": "Virtual Office Hours",
+          "sublesson": true,
+          "anchor": "templatesites-zoom-officehours",
+          "icon": "fa-video",
+          "description": "Learn how to create office hours for multiple sections in Zoom or just one in Isidore.",
+          "overviewcontent": "Having multiple points of contact helps to reassure students that you are available for them and invested in their success. Virtual office hours is a great way to meet with students who need some individual or small group feedback. Here, we will demonstrate how to set up recurring office hours for an individual course in Isidore or set up in general for multiple course rosters.",
+          "videos": [
+            {
+              "title": "Lesson 9: Virtual Office Hours",
+              "warpwire": "exUCAA"
+            }
+          ]
+        },
+        {
+          "title": "Leading a Class",
+          "sublesson": true,
+          "anchor": "templatesites-zoom-leading",
+          "icon": "fa-video",
+          "description": "Learn how to make your synchronous sessions engaging.",
+          "overviewcontent": "Synchronous course sessions online should provide added value to your course. How do you motivate students to attend and be engaged with your live session? Here we will discuss practical uses of the Zoom features to help with engagement but more importantly valuable pedagogy for creating an engaging synchronous session.",
+          "videos": [
+            {
+              "title": "Lesson 9: Leading a Class",
+              "warpwire": ""
+            }
+          ],
+          "aside1title": "Additional Resources",
+          "aside1content": [
+            {
+              "references": [
+                {
+                  "icon": "fa-external-link",
+                  "title": "Hosting an Engaging Zoom Session Recording",
+                  "href": "https://udayton.zoom.us/rec/play/v8ckJev5pz83SdfEtQSDV6IqW9W5L6qshChK_aYEnkjgBiVQNlejYeFANuTgXzNE1mrEkAh2ZtDaVcgp"
+                },
+                {
+                  "icon": "fa-graduation-cap",
+                  "title": "Synchronous Class Pedagogy",
+                  "href": "https://learn.udayton.edu/lessons/zoomteaching"
+                },
+                {
+                  "icon": "fa-chalkboard-teacher",
+                  "title": "Managing the Tools of the Zoom Room",
+                  "href": "https://learn.udayton.edu/lessons/zoomclassroombasics"
+                }
+              ]
+            }
+          ]
         }
       ]
     },
