@@ -3,6 +3,22 @@
   "description": "Below are a collection of videos on different topics. Some are introductions and some are deep-dives.",
   "topics": [
     {
+      "title": "Reducing Your Grading Load with Strategic Discussions",
+      "description": "Learn how to utilize strategic discussion strategies that engage your students and reduce your overall grading load.",
+      "category": "Grading",
+      "thumbnail": "strategicdiscussions.jpg",
+      "content": "Are you worried that evaluating and grading online discussions will require a disproportionate amount of your time when planning an online class? In this video, you will discover three instructional design methods - spaced discussions, embedded discussions, and narrowed evaluation - that you can utilize in your course to reduce your grading load while assuring that your students are engaging in robust social learning activities with their peers.",
+      "time": "Est. 5 min",
+      "author":  "Kent Darr<br />Office of eLearning",
+      "anchor": "reducing-grading-load-strategic-discussions",
+      "videos": [
+        {
+          "title": "Reducing Your Grading Load with Strategic Discussions",
+          "warpwire": "ESACAA"
+        }
+      ]
+    },
+    {
       "title": "Reducing Your Grading Load with Model Answers",
       "description": "Learn how to reduce your grading time while assuring that your students are completing rigorous learning exercises.",
       "category": "Grading",
