@@ -303,6 +303,32 @@
           "overviewcontent": "It’s time to start adding content to the Lessons tool in the template. We’ll walk you through the whole process, step-by-step. We’ll also cover in this lesson the best ways to record and share video lectures."
         },
         {
+          "title": "Introduction Module",
+          "sublesson": true,
+          "anchor": "templatesites-coursecontent-intromodule",
+          "icon": "fa-file-text-o",
+          "description": "Adding content to your introduction module in the Lessons tool.",
+          "overviewcontent": "Rather than spending a class session talking through the syllabus and course procedures, ask students to look through this material in your Introduction module.",
+          "videos": [
+            {
+              "title": "Lesson 4: Introduction Module",
+              "warpwire": "keQBAA"
+            }
+          ],
+          "aside1title": "Additional Resources",
+          "aside1content": [
+            {
+              "references": [
+                {
+                  "icon": "fa-external-link",
+                  "title": "The Chronicle: The Absolute Worst Way to Start a Semester",
+                  "href": "https://community.chronicle.com/news/1498-the-absolute-worst-way-to-start-the-semester"
+                }
+              ]
+            }
+          ]
+        },
+        {
           "title": "Building Your Weekly Modules",
           "sublesson": true,
           "anchor": "templatesites-coursecontent-weeklymodules",
