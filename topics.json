@@ -3,6 +3,38 @@
   "description": "Below are a collection of videos on different topics. Some are introductions and some are deep-dives.",
   "topics": [
     {
+      "title": "Blended Teaching: Interview with the Experts",
+      "description": "Listen to UD's resident experts in blended teaching, Dr. Kellie Schneider and Dr. Ed Mykytka, share their advice for teaching face-to-face and online at the same time.",
+      "category": "Blended Teaching & Learning",
+      "thumbnail": "blended-interview.jpg",
+      "content": "Instructors in the Department of Engineering Management, Systems, and Technology have been delivering their classes in a blended format for almost a decade. In this interview, Dr. Kellie Schneider and Dr. Ed Mykytka share their experiences and advice for instructors who are new to this style of teaching.",
+      "time": "Est. 23 min",
+      "author":  "Dr. Kellie Schneider and Dr. Ed Mykytka<br />Department of Engineering Management, Systems, and Technology",
+      "anchor": "blended-teaching-interview",
+      "videos": [
+        {
+          "title": "Blended Teaching: Interview with the Experts",
+          "warpwire": "GyACAA"
+        }
+      ]
+    },
+    {
+      "title": "Equity in the Blended Classroom",
+      "description": "Equalize the playing field in a blended class by utilizing resources prepared by Dr. Julio Quintero in the Office of Diversity, Equity, and Inclusion.",
+      "category": "Inclusivity",
+      "thumbnail": "equity-blended-classroom.jpg",
+      "content": "The pandemic has revealed systemic differences in access to technology and safe learning environments for some students. Small modifications in your teaching in the blended classroom can dramatically help remote students who may not have access to the same technology, same resources, or same learning environments as their on-campus peers. The Office of Diversity, Equity, and Inclusion has prepared resources to help you ensure your class is as inclusive as possible.",
+      "time": "Est. 7 min",
+      "author":  "Dr. Julio Quintero<br />Office of Diversity, Equity, and Inclusion",
+      "anchor": "equity-blended-classroom",
+      "videos": [
+        {
+          "title": "Equity in the Blended Classroom",
+          "warpwire": "HyACAA"
+        }
+      ]
+    },
+    {
       "title": "Reducing Your Grading Load with Strategic Discussions",
       "description": "Learn how to utilize strategic discussion strategies that engage your students and reduce your overall grading load.",
       "category": "Grading",
@@ -35,17 +67,17 @@
       ]
     },
     {
-      "title": "Small Group Collaboration in a Hybrid Class",
-      "description": "Encourage active learning in your hybrid classes by using collaboration tools such as murals and Zoom breakout rooms.",
-      "category": "Hybrid Learning",
+      "title": "Small Group Collaboration in a Blended Class",
+      "description": "Encourage active learning in your blended classes by using collaboration tools such as murals and Zoom breakout rooms.",
+      "category": "Blended Teaching & Learning",
       "thumbnail": "iact-smallgroup.jpg",
-      "content": "A hybrid class presents an opportunity for you to foster creativity and collaboration among your students. Using group collaboration tools, you can split your in-person and online students into small groups to work on contributing to a shared resource, such as a mural or Google Doc. In this video, we will show you how to split your students into small groups and how to set up a Mural for your students to develop. If you need more help on how create and manage breakout rooms in Zoom, please see <a href=\"https://udayton.warpwire.com/w/IeEBAA/\" target=\"_blank\">this video demonstration</a>.",
+      "content": "A blended class presents an opportunity for you to foster creativity and collaboration among your students. Using group collaboration tools, you can split your in-person and online students into small groups to work on contributing to a shared resource, such as a mural or Google Doc. In this video, we will show you how to split your students into small groups and how to set up a Mural for your students to develop. If you need more help on how create and manage breakout rooms in Zoom, please see <a href=\"https://udayton.warpwire.com/w/IeEBAA/\" target=\"_blank\">this video demonstration</a>.",
       "time": "Est. 14 min",
       "author":  "Brian LaDuca and Adrienne Ausdenmoore<br />Institute of Applied Creativity for Transformation (IACT)",
-      "anchor": "iact-smallgroup-collaboration-hybrid",
+      "anchor": "iact-smallgroup-collaboration-blended",
       "videos": [
         {
-          "title": "Small Group Collaboration in a Hybrid Class",
+          "title": "Small Group Collaboration in a Blended Class",
           "warpwire": "GwkCAA"
         }
       ]
