@@ -787,7 +787,7 @@
           ]
         },
         {
-          "title": "Starting Meetings",
+          "title": "Starting and Managing Zoom Meetings",
           "sublesson": true,
           "anchor": "templatesites-zoom-starting",
           "icon": "fa-video",
@@ -795,7 +795,7 @@
           "overviewcontent": "It’s class time and you need to get things rolling. In this video we discuss how to access your previously scheduled meetings and ensure that you start the meeting as The Host with the Most.",
           "videos": [
             {
-              "title": "Lesson 9: Starting Zoom Meetings",
+              "title": "Lesson 9: Starting and Managing Zoom Meetings",
               "warpwire": "6QkCAA"
             }
           ]
