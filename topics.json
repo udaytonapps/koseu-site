@@ -3,6 +3,22 @@
   "description": "Below are a collection of videos on different topics. Some are introductions and some are deep-dives.",
   "topics": [
     {
+      "title": "Starting the Semester Off Right",
+      "description": "First impressions are critical! Listen to two UD instructors share 5 strategies for an engaging first day of class.",
+      "category": "Student Engagement",
+      "thumbnail": "starting-right.jpg",
+      "content": "You only get one chance at that first impression with your students. In this video, the presenters cover five key strategies to help you create an engaging session that will start the semester off right and have your students looking forward to your next class.",
+      "time": "Est. 8 min",
+      "author":  "Sangita Gosalia and Brenna Seifried<br />Center for International Programs",
+      "anchor": "starting-the-semester-right",
+      "videos": [
+        {
+          "title": "Starting the Semester Off Right",
+          "warpwire": "1TICAA"
+        }
+      ]
+    },
+    {
       "title": "Blended Teaching: Interview with the Experts",
       "description": "Listen to UD's resident experts in blended teaching, Dr. Kellie Schneider and Dr. Ed Mykytka, share their advice for teaching face-to-face and online at the same time.",
       "category": "Blended Teaching & Learning",
