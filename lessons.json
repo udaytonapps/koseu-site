@@ -526,6 +526,32 @@
           ]
         },
         {
+          "title": "Creating Groups for in-class Assignments",
+          "sublesson": true,
+          "anchor": "templatesites-communication-groups",
+          "icon": "fa-users",
+          "description": "Learn one method for breaking your class into groups and telling students which days to attend class in-person.",
+          "overviewcontent": "Faculty will need to let students know what days they can attend if they're teaching a blended classes where all students can't be present in-person at the same.<br><br>Please see our 5 minute video demonstration below about how to create your groups and notify students. Feel free to use our email template to convey these groupings to your students (linked on this page).",
+          "videos": [
+            {
+              "title": "Lesson 5: Creating Groups for in-class Assignments",
+              "warpwire": "I0gCAA"
+            }
+          ],
+          "aside1title": "Additional Resources",
+          "aside1content": [
+            {
+              "references": [
+                {
+                  "icon": "fa-file-word-o",
+                  "title": "Sample Email Communication about Groups",
+                  "href": "https://isidore.udayton.edu/access/content/public/01%20Flexible%20Teaching/Welcome%20and%20Class%20Groupings%20Template.docx"
+                }
+              ]
+            }
+          ]
+        },
+        {
           "title": "Assessing Your Students",
           "anchor": "templatesites-assessing",
           "icon": "fa-list-ol",
