@@ -2524,6 +2524,16 @@
                   "href": "https://support.zoom.us/hc/en-us/article_attachments/360047188071/Zoom_Meetings_Training_Reference_Guide.pdf"
                 }
               ]
+            },
+            {
+              "header": "Related Lessons",
+              "references": [
+                {
+                  "icon": "fa-video",
+                  "title": "Facilitating Zoom Sessions",
+                  "href": "/lessons/templatesites-zoom"
+                }
+              ]
             }
           ],
           "aside2title": "Potential Questions You May Have",
@@ -2594,6 +2604,16 @@
                   "icon": "fa-external-link",
                   "title": "Webinar Recording: Improve Your Virtual Presentation Skills",
                   "href": "http://blog.zoom.us/wordpress/2017/01/31/webinar-recording-improve-your-virtual-presentation-skills/"
+                }
+              ]
+            },
+            {
+              "header": "Related Lessons",
+              "references": [
+                {
+                  "icon": "fa-video",
+                  "title": "Facilitating Zoom Sessions",
+                  "href": "/lessons/templatesites-zoom"
                 }
               ]
             }
@@ -2671,6 +2691,16 @@
                   "icon": "fa-file-pdf",
                   "title": "Synchronous Online Teaching Evaluation Rubric",
                   "href": "https://drive.google.com/file/d/1ccL0dwFe72NAErE5yFyn4mp1C0vJxwuA/view"
+                }
+              ]
+            },
+            {
+              "header": "Related Lessons",
+              "references": [
+                {
+                  "icon": "fa-video",
+                  "title": "Facilitating Zoom Sessions",
+                  "href": "/lessons/templatesites-zoom"
                 }
               ]
             },
