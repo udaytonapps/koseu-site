@@ -3,6 +3,22 @@
   "description": "Below are a collection of videos on different topics. Some are introductions and some are deep-dives.",
   "topics": [
     {
+      "title": "Taking Attendance in the Blended Classroom",
+      "description": "Tracking attendance in a blended class can be tricky. See 4 different approaches for recording attendance in a blended environment.",
+      "category": "Blended Teaching & Learning",
+      "thumbnail": "taking-attendance-blended.jpg",
+      "content": "Depending on how you are conducting your blended class, you may need to consider creative approaches for taking attendance. In this video, Dr. Julio Quintero and Brenna Seifried present 4 different approaches for taking attendance - some methods even enhance student engagement with the class! However you track attendance, make sure your approach aligns with the <a href=\"https://ewiki.udayton.edu/isidore/Flex_Teaching_FAQs#Attendance\" target=\"_blank\">University's attendance guidance</a> for the blended semester.",
+      "time": "Est. 9 min",
+      "author":  "Brenna Seifried and Dr. Julio Quintero<br />Center for International Programs and Office of Diversity, Equity, and Inclusion",
+      "anchor": "taking-attendance-blended",
+      "videos": [
+        {
+          "title": "Taking Attendance in the Blended Classroom",
+          "warpwire": "n4QCAA"
+        }
+      ]
+    },
+    {
       "title": "Starting the Semester Off Right",
       "description": "First impressions are critical! Listen to two UD instructors share 5 strategies for an engaging first day of class.",
       "category": "Student Engagement",
