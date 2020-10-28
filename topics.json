@@ -3,6 +3,54 @@
   "description": "Below are a collection of videos on different topics. Some are introductions and some are deep-dives.",
   "topics": [
     {
+      "title": "Academic Integrity Part 1: Defining the Problem & First Steps",
+      "description": "Promoting Academic Integrity Part 1: Defining the Problem & First Steps",
+      "category": "Blended Teaching & Learning",
+      "thumbnail": "academic-integrity-p1.jpg",
+      "content": "Why do students cheat? Can we convince them not to? Learn how communication and adjustments to assessment strategy can help.",
+      "time": "Est. 16 min",
+      "author":  "Dr. David Wright, Paul Dagnall, and Dr. Steve Wilhoit<br>Ryan C. Harris Learning Teaching Center",
+      "anchor": "academic-integrity-part1",
+      "videos": [
+        {
+          "title": "Promoting Academic Integrity - Part 1: Defining the Problem and Taking the First Steps",
+          "warpwire": "vdYCAA"
+        }
+      ]
+    },
+    {
+      "title": "Academic Integrity Part 2: Tools in Isidore",
+      "description": "Promoting Academic Integrity Part 2: Tools in Isidore",
+      "category": "Blended Teaching & Learning",
+      "thumbnail": "academic-integrity-p2.jpg",
+      "content": "The Isidore Learning Management System is loaded with features to steer your students away from cheating. Take advantage of the options that increase the integrity of your assessments.",
+      "time": "Est. 15 min",
+      "author":  "Dr. David Wright, Paul Dagnall, and Dr. Steve Wilhoit<br>Ryan C. Harris Learning Teaching Center",
+      "anchor": "academic-integrity-part2",
+      "videos": [
+        {
+          "title": "Promoting Academic Integrity - Part 2: Tools in Isidore",
+          "warpwire": "y9YCAA"
+        }
+      ]
+    },
+    {
+      "title": "Academic Integrity Part 3: Plagiarism & Contract Cheating",
+      "description": "Promoting Academic Integrity Part 3: Plagiarism & Contract Cheating",
+      "category": "Blended Teaching & Learning",
+      "thumbnail": "academic-integrity-p3.jpg",
+      "content": "Plagiarism can be addressed with communication and well crafted assessments. Contract cheating is a problem that often starts with innocent beginnings.",
+      "time": "Est. 15 min",
+      "author":  "Dr. David Wright, Paul Dagnall, and Dr. Steve Wilhoit<br>Ryan C. Harris Learning Teaching Center",
+      "anchor": "academic-integrity-part3",
+      "videos": [
+        {
+          "title": "Promoting Academic Integrity - Part 3: Plagiarism and Contract Cheating",
+          "warpwire": "19YCAA"
+        }
+      ]
+    },
+    {
       "title": "Taking Attendance in the Blended Classroom",
       "description": "Tracking attendance in a blended class can be tricky. See 4 different approaches for recording attendance in a blended environment.",
       "category": "Blended Teaching & Learning",
