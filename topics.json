@@ -3,6 +3,22 @@
   "description": "Below are a collection of videos on different topics. Some are introductions and some are deep-dives.",
   "topics": [
     {
+      "title": "Five Considerations When Facilitating Dialogue Virtually",
+      "description": "Conduct a productive dialogue in an online environment by establishing ground rules, acknowledging trigger points, and equalizing the conversation space.",
+      "category": "Blended Teaching & Learning",
+      "thumbnail": "virtual-dialog.jpg",
+      "content": "Facilitating an effective in-class dialogue may seem daunting, especially in an online environment. In this video, colleagues from across the University share five tips for success in guiding an online discussion. From technology considerations to steps to evaluate the balance of speaking power, the advice in this video will set you on the right track for online dialogue success.",
+      "time": "Est. 6 min",
+      "author":  "Dr. Jason Combs, Ione Damasco, Sangita Gosalia, Brenna Seifried, Merida Allen, Dr. Sandra Yocum, and Dr. Julio Quintero",
+      "anchor": "facilitating-virtual-dialog",
+      "videos": [
+        {
+          "title": "Five Considerations When Facilitating Dialogue Virtually",
+          "warpwire": "w98CAA"
+        }
+      ]
+    },
+    {
       "title": "Academic Integrity Part 1: Defining the Problem & First Steps",
       "description": "Promoting Academic Integrity Part 1: Defining the Problem & First Steps",
       "category": "Blended Teaching & Learning",
