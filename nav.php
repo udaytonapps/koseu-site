@@ -1,4 +1,7 @@
 <?php
+
+use Tsugi\UI\Menu;
+
 $OUTPUT->bodyStart();
 $R = $CFG->apphome . '/';
 $T = $CFG->wwwroot . '/';
@@ -33,7 +36,7 @@ if ( $loggedin ) {
 }
 
 if ( $loggedin ) {
-    $submenu = new \Tsugi\UI\Menu();
+    $submenu = new Menu();
     $submenu->addLink('Profile', $R.'profile');
     if ( isset($CFG->google_map_api_key) && $CFG->google_map_api_key ) {
         $submenu->addLink('Map', $R.'map');
@@ -60,7 +63,12 @@ if ( $loggedin ) {
 
 $set->addRight('Isidore <span class="fas fa-external-link-alt" aria-hidden="true"></span>', 'https://isidore.udayton.edu/portal');
 
-$set->addRight('Contact Us', $R.'contact');
+$elearningMenu = new Menu();
+$elearningMenu->addLink('Keep Teaching <span class="fas fa-external-link-alt" aria-hidden="true"></span>', 'http://go.udayton.edu/keepteaching');
+$elearningMenu->addLink('Blog <span class="fas fa-external-link-alt" aria-hidden="true"></span>', 'https://udayton.edu/blogs/elearning/index.php');
+$elearningMenu->addLink('Contact Us', $R.'contact');
+
+$set->addRight('eLearning Resources', $elearningMenu);
 
 // Set the topNav for the session
 $OUTPUT->topNavSession($set);
