@@ -3,6 +3,22 @@
   "description": "Below are a collection of videos on different topics. Some are introductions and some are deep-dives.",
   "topics": [
     {
+      "title": "Forming Faculty E-Learning Groups, Interview Dr. Andy Slade",
+      "description": "Dr. Andy Slade, English Department Chair, shares the approach he established during the summer of 2020 to create teams that gave faculty a place to solicit ideas, teach one another, and maintain their connections with one another as they prepared for blended teaching in fall.",
+      "category": "Blended Teaching & Learning",
+      "thumbnail": "slade-interview.jpg",
+      "content": "Faculty dug deep during the summer of 2020 as the prepared for a fall semester like they had never seen before. The task surely felt daunting and monumental on top of the stress the pandemic was already causing. How could faculty make sense of the huge amount of information that was being shared with them to guide their work? In our interview with Dr. Andy Slade, Chair of the English Department, we learned how he helped English faculty support each other by creating \"E-Learning development groups\" where they shared their struggles, their successes, and their questions. <a href=\"https://udayton.edu/blogs/elearning/2020/2020_12_14_interview.php\" target=\"_blank\">Read a summary of the interview with Dr. Slade</a>.",
+      "time": "Est. 23 min",
+      "author":  "Ryan Allen, Office of eLearning and Dr. Andy Slade, English Department",
+      "anchor": "faculty-elearning-groups-interview",
+      "videos": [
+        {
+          "title": "Forming Faculty E-Learning Groups, Interview Dr. Andy Slade",
+          "warpwire": "XwMDAA"
+        }
+      ]
+    },
+    {
       "title": "Five Considerations When Facilitating Dialogue Virtually",
       "description": "Conduct a productive dialogue in an online environment by establishing ground rules, acknowledging trigger points, and equalizing the conversation space.",
       "category": "Student Engagement",
