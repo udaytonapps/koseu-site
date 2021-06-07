@@ -2761,6 +2761,505 @@
           ]
         }
       ]
+    },
+    {
+      "title": "Why Video – Why Warpwire?",
+      "description": "<h4>What is Warpwire and why should I use video in my course site?</h4>Warpwire is a secure video storage and sharing product.  The tool is a great way to optimize your videos for easy streaming by students in your course site. Anyone with a valid UD username and password can easily upload videos and share them with UD and non-UD users — anywhere, anytime, on just about any modern device. Warpwire is accessible via a secure website or an Isidore course site.",
+      "time": "Est. 36 min",
+      "anchor": "warpwire",
+      "video": {
+        "title": "Introduction Learn Warpwire",
+        "description": "In this video we discuss how video can enhance your course site with video and how to share them via Warpwire. We provide a basic introduction to Warpwire and its most common uses and purpose.",
+        "warpwire": "y9oDAA"
+      },
+      "lessons": [
+        {
+          "title": "The Basics of Warpwire",
+          "anchor": "warpwire-basics",
+          "icon": "fa-video",
+          "description": "Learn how to add the Warpwire tool and upload content.",
+          "videos": [
+            {
+              "title": "Adding Warpwire to your Course site and Uploading/Copying Videos",
+              "warpwire": "p8QDAA"
+            }
+          ],
+          "overviewcontent": "Warpwire is a fairly simple tool to operate. You will want to take some time to explore the features of the tool to maximize use of its features. In this lesson you will learn how to add Warpwire to your course site, upload videos, copy videos to other sites, and manage your account and videos from the web portal.",
+          "section1title": "Adding Warpwire to your Course site and Uploading / Copying Videos",
+          "section1content": "In this lesson we will cover how to install the Warpwire tool to your course site and upload your first video to Warpwire. We will show you how to copy your videos from one site to another.\n\n",
+          "section2title": "Practical Application",
+          "section2content": "<h5>Add Warpwire to one of your course sites and upload a video.</h5><p>To complete this task, please follow the instructions below. To receive credit, please submit the quick write question after completing the task.</p>",
+          "section2steps": [
+            {
+              "step": "Choose one of your current or past course sites for this task. If you have not taught a course in Isidore before and need a demo site created for you, please email elearning@udayton.edu with a request for a site."
+            },
+            {
+              "step": "Click on “Add Tool” in the left hand menu of your course site under the “Site Info” heading."
+            },
+            {
+              "step": "Click the box to the left of the menu item “Warpwire” in the Core Tools section of the Add/Remove Tools menu."
+            },
+            {
+              "step": "Click Continue at the bottom of the page."
+            },
+            {
+              "step": "Click Finish at the bottom of the subsequent page. This will place Warpwire as a menu item in your course site."
+            },
+            {
+              "step": "Click on Warpwire Video in the left hand menu of your site."
+            },
+            {
+              "step": "Click the “+” sign in the upper right corner of the tool window to choose to upload a video."
+            },
+            {
+              "step": "Click the menu option “Upload Files”. This will open up the file picker on your computer."
+            },
+            {
+              "step": "Navigate to find the video you would like to upload, select, and click Open."
+            },
+            {
+              "step": "Rename the video if desired in the next screen and click “Start Uploading”. This will automatically upload your video to the Warpwire Library."
+            }
+          ],
+          "section3title": "Tell us about your experience",
+          "section3content": "Use the Quick Write below to tell us about your site and how easy or difficult you found this task.",
+          "lti": [
+            {
+              "header": "Quick Write",
+              "description": "Complete the following Quick Write task.",
+              "icon": "fa-pencil-square",
+              "title": "Add Warpwire and Upload a Video",
+              "launch": "mod/modquickwrite/",
+              "resource_link_id": "ww_add_upload_qw"
+            }
+          ],
+          "aside1title": "Additional Resources",
+          "aside1content": [
+            {
+              "header": "eLearning Support Resources",
+              "references": [
+                {
+                  "icon": "fa-link",
+                  "title": "Warpwire Video",
+                  "href": "https://ewiki.udayton.edu/isidore/Warpwire_Video"
+                },
+                {
+                  "icon": "fa-link",
+                  "title": "Add the Warpwire Video tool",
+                  "href": "https://ewiki.udayton.edu/isidore/Add_the_Warpwire_Video_tool"
+                },
+                {
+                  "icon": "fa-link",
+                  "title": "Upload a video from my computer",
+                  "href": "https://ewiki.udayton.edu/isidore/Upload_a_video_from_my_computer"
+                },
+                {
+                  "icon": "fa-link",
+                  "title": "Upload a video from my phone or mobile device",
+                  "href": "https://ewiki.udayton.edu/isidore/Upload_a_video_from_my_phone_or_mobile_device"
+                },
+                {
+                  "icon": "fa-link",
+                  "title": "Record a video with my webcam",
+                  "href": "https://ewiki.udayton.edu/isidore/Record_a_video_with_my_web_cam"
+                },
+                {
+                  "icon": "fa-link",
+                  "title": "Record a video with my mobile device",
+                  "href": "https://ewiki.udayton.edu/isidore/Record_a_video_with_my_mobile_device"
+                },
+                {
+                  "icon": "fa-link",
+                  "title": "Copy a video between Isidore sites",
+                  "href": "https://ewiki.udayton.edu/isidore/Copy_a_video_between_Isidore_sites"
+                },
+                {
+                  "icon": "fa-link",
+                  "title": "Recording Videos for Online Classes",
+                  "href": "https://udayton.warpwire.com/w/8Q8CAA/"
+                }
+              ]
+            },
+            {
+              "header": "Warpwire Support",
+              "references": [
+                {
+                  "icon": "fa-external-link",
+                  "title": "Getting Started with Warpwire in Sakai (Isidore)",
+                  "href": "https://www.warpwire.com/support/getting-started/"
+                },
+                {
+                  "icon": "fa-external-link",
+                  "title": "Upload and Insert Media in Sakai (Isidore)",
+                  "href": "https://www.warpwire.com/support/warpwire-in-sakai/upload-and-insert-media/"
+                }
+              ]
+            },
+            {
+              "header": "Additional Resources",
+              "references": [
+                {
+                  "icon": "fa-youtube-play",
+                  "title": "Combine Synchronous and Asynchronous Instruction During your Class Time",
+                  "href": "https://www.youtube.com/watch?v=qi4_KUYblcU"
+                },
+                {
+                  "icon": "fa-external-link",
+                  "title": "Online Teaching Best Practices for Web Lectures and Presentations",
+                  "href": "https://www.codlearningtech.org/2020/06/15/online-teaching-best-practices-for-web-lectures-and-presentations/"
+                },
+                {
+                  "icon": "fa-external-link",
+                  "title": "Creating Effective Educational Videos",
+                  "href": "https://www.ou.edu/cas/online/academic-technology/creating-effective-video"
+                }
+              ]
+            }
+          ],
+          "aside2title": "Potential Questions You May Have",
+          "aside2questions": [
+            {
+              "question": "How do I create my own videos?",
+              "answer": "You can create your own videos using any video recording tool you have access to. Popular ways of doing this is by using <a href='https://ewiki.udayton.edu/isidore/SnagIt' target='_blank'>Snagit</a> which is a screen capture software that we are happy to provide faculty a license for. Other alternatives are to use your camera phone, a camera with video recording capabilities, or other software that came with your computer. For suggestions on creating quality lecture videos <a href='https://udayton.warpwire.com/w/8Q8CAA/' target='_blank'>please see this help video</a>."
+            },
+            {
+              "question": "Do students view videos directly from the Warpwire tool?",
+              "answer": "Students can be directed to the Warpwire tool to view videos but we recommend embedding the videos or links to the videos within lessons. This is explained and demonstrated in Lesson four of this series."
+            },
+            {
+              "question": "How long can my videos be?",
+              "answer": "Videos up to 10 GB can be uploaded to the Warpwire tool. However we recommend chunking your instruction into shorter videos for both reasons of easier creation, management, and use by students."
+            },
+            {
+              "question": "Can students upload videos to the Library?",
+              "answer": "Students can upload to the Warpwire tool. Before doing so, you must grant them permission to do so as directed in the <a href='https://ewiki.udayton.edu/isidore/Allow_students_to_upload_videos_to_Warpwire' target='_blank'>instructions on our eWiki page</a>. You will want to give students clear instructions on the correct labeling/naming procedure before uploading to help with organization."
+            }
+          ]
+        },
+        {
+          "title": "Organizing Your Warpwire Videos",
+          "anchor": "warpwire-organizing",
+          "icon": "fa-video",
+          "description": "Learn how to rename, replace, tag, and sort the videos in your Warpwire libraries.",
+          "videos": [
+            {
+              "title": "Renaming, replacing, tagging, sorting, and changing the thumbnail for your videos.",
+              "warpwire": "TcIDAA"
+            }
+          ],
+          "overviewcontent": "Storing your videos in Warpwire is a great start, but you want your students to be able to view the videos as well. Ideally your videos are provided to students within the lessons tool in the week they should access the video. For more about this see lesson three. There are several ways you can keep your library organized to make finding your videos easier.",
+          "section1title": "Renaming, Replacing, Tagging, Sorting, and Changing the Thumbnail for Your Videos",
+          "section1content": "In this lesson we will review how to organize your Warpwire library by renaming videos, updating a video with a newer version, tagging videos with category names, and how to sort within the library.\n\n",
+          "section2title": "Practical Application",
+          "section2content": "<p>Let’s practice a couple of the organization techniques we reviewed in the video.</p><p>Add a tag to a video in your Warpwire library.</p>",
+          "section2steps": [
+            {
+              "step": "Navigate to the course site where you added Warpwire and uploaded a video in Lesson One."
+            },
+            {
+              "step": "Click on the circle with the three dots in the bottom right of the video and choose the menu option “settings”."
+            },
+            {
+              "step": "Click on the button link that says “Add” that is next to “Tags”"
+            },
+            {
+              "step": "Click “Create Tag”"
+            },
+            {
+              "step": "Type the name of the new tag in the text box window."
+            },
+            {
+              "step": "Click Create Tag."
+            },
+            {
+              "step": "Click X to log out of the tag management tool."
+            },
+            {
+              "step": "Add tags to any other videos you have added to your library."
+            },
+            {
+              "step": "To sort by tag - click the AZ button icon in the top right corner of your Warpwire library."
+            },
+            {
+              "step": "Choose to sort by tag."
+            }
+          ],
+          "section3title": "Tell us about your experience",
+          "section3content": "Complete this two question survey to let us know about your experience organizing videos in Warpwire.",
+          "lti": {
+            "header": "Quick Survey",
+            "description": "Take the two question survey below to tell us about your experince.",
+            "icon": "fa-list-ol",
+            "title": "Organizing Your Warpwire Videos Survey",
+            "launch": "mod/learnquiz/index.php?quiz=ww_organize",
+            "resource_link_id": "ww_organize"
+          },
+          "aside1title": "Additional Resources",
+          "aside1content": [
+            {
+              "header": "Warpwire Support Resources",
+              "references": [
+                {
+                  "icon": "fa-external-link",
+                  "title": "Choose custom thumbnail",
+                  "href": "https://www.warpwire.com/support/media-options/choose-custom-thumbnail/"
+                },
+                {
+                  "icon": "fa-external-link",
+                  "title": "Replace existing Media",
+                  "href": "https://www.warpwire.com/support/media-options/replace-existing-media/"
+                },
+                {
+                  "icon": "fa-external-link",
+                  "title": "Upload and insert media in Sakai (Isidore)",
+                  "href": "https://www.warpwire.com/support/warpwire-in-sakai/upload-and-insert-media/"
+                },
+                {
+                  "icon": "fa-external-link",
+                  "title": "Understanding the Terminology of Warpwire Libraries",
+                  "href": "https://www.warpwire.com/support/organize/introduction/"
+                },
+                {
+                  "icon": "fa-external-link",
+                  "title": "Sorting your library",
+                  "href": "https://www.warpwire.com/support/organize/sort/"
+                }
+              ]
+            }
+          ],
+          "aside2title": "Potential Questions You May Have",
+          "aside2questions": [
+            {
+              "question": "If I sort my videos by tag will students also see my library in the way I have organized it?",
+              "answer": "Each individual user has complete control over how they sort their Warpwire library. That means, that even though you are the administrator of your own library, those with access to it will see it in the order they choose. The default order is by date added to the library.  We highly recommend embedding your videos within the lessons tool so that students access the correct videos at the correct time. See Lesson three on embedding videos in lessons."
+            },
+            {
+              "question": "Can I change my Videos thumbnail?",
+              "answer": "A Warpwire video automatically selects a screen capture from the video to use as its thumbnail image. Sometimes this selected image is not an ideal choice, or captures one’s image in a non-flattering view. Luckily this can be changed in the Settings menu, allowing you to pick any screen capture from the video."
+            },
+            {
+              "question": "How do I rename my video?",
+              "answer": "When uploading videos to Warpwire, they are often populated with the default title of the video file. Oftentimes  this can be a series of letters and numbers, especially with Zoom downloads. You have the opportunity to change the title at the time of upload, however, if you forget to make this change, or wish to re-title your video later; you have the option to do so in the settings menu. For ease of use, we recommend using a standardized naming convention, such as: Module 1, Lesson 1- Introduction or M1 L1 Intro. This makes embedding videos much easier."
+            }
+          ]
+        },
+        {
+          "title": "Sharing Warpwire Videos",
+          "anchor": "warpwire-sharing",
+          "icon": "fa-video",
+          "description": "Learn about the various ways you can embed Warpwire videos in Isidore.",
+          "videos": [
+            {
+              "title": "Sharing Videos: Embedding in Lessons and other tools",
+              "warpwire": "i8YDAA"
+            }
+          ],
+          "overviewcontent": "<h2 style=\"margin:0;\"><small>Embedding in Lessons and other tools</small></h2>If you use videos in your course on a weekly basis, embedding them into a weekly lesson plan is the best way to ensure your students find your videos easily at the right time. In fact, this allows you to embed them in context with application questions (see lesson four).Students appreciate finding their videos in context with the week’s topics, reading and resources.",
+          "section1title": "Embedding in Lessons and other tools",
+          "section1content": "This lesson steps you through the various ways to embed your videos in your lessons. We also discuss the importance of the settings for share and visibility in your Warpwire library.\n\n",
+          "section2title": "Practical Application",
+          "section2content": "Embed one video in a lessons page of a course site.",
+          "section2steps": [
+            {
+              "step": "Before completing this assignment, you will need to make sure you have a Lessons Tool included in your course site. If you do not, please <a href=\"https://ewiki.udayton.edu/isidore/Add_Multiple_Lessons_Tools\" target=\"_blank\">follow the directions found on this help page</a> to add Lessons. "
+            },
+            {
+              "step": "Go to Lessons in your course site."
+            },
+            {
+              "step": "Click the “Add Content” tab or click on the + sign at the top or bottom of a section on your lesson page."
+            },
+            {
+              "step": "Choose to add “text, video, or image”."
+            },
+            {
+              "step": "Click the circle icon with a W in the middle of it to the right of center in  the middle line of the editor. This will open your Warpwire library."
+            },
+            {
+              "step": "Click the circle next to the Warpwire video you want to embed on the page."
+            },
+            {
+              "step": "Click the “insert item” bar at the bottom of the window."
+            },
+            {
+              "step": "Click save on your text box."
+            },
+            {
+              "step": "Review your lessons page for your new embed."
+            }
+          ],
+          "section3title": "Let Us Check Your Work",
+          "section3content": "Please send us the address of your course site (or your course site name) along with the name of the lesson page on which you embedded your video.",
+          "lti": [
+            {
+              "header": "Quick Write",
+              "description": "Complete the following Quick Write task.",
+              "icon": "fa-pencil-square",
+              "title": "Embed a Warpwire Video in Lessons",
+              "launch": "mod/modquickwrite/",
+              "resource_link_id": "ww_embed_qw"
+            }
+          ],
+          "aside1title": "Additional Resources",
+          "aside1content": [
+            {
+              "header": "eLearning Support Resources",
+              "references": [
+                {
+                  "icon": "fa-link",
+                  "title": "Embed a Video",
+                  "href": "https://ewiki.udayton.edu/isidore/Embed_a_video"
+                },
+                {
+                  "icon": "fa-link",
+                  "title": "Share Settings in Warpwire",
+                  "href": "https://ewiki.udayton.edu/isidore/Share_a_video"
+                }
+              ]
+            }
+          ],
+          "aside2title": "Potential Questions You May Have",
+          "aside2questions": [
+            {
+              "question": "Why is it better to embed my videos in lessons rather than directing students to view my video in the Warpwire library?",
+              "answer": "Placing your videos in the order they are to be watched and in the week or module of lessons in which they occur will help to increase viewership and eliminate confusion on part of the student."
+            },
+            {
+              "question": "Should I embed my Warpwire videos as a link or an embed?",
+              "answer": "This is your preference. Use the format that works best for your course layout on the site. The feedback we hear from students and instructors indicates that the embed is the preferred method as it is clear that there is a video to be watched. Links can be overlooked easily."
+            },
+            {
+              "question": "What if I need to share just a portion of my video?",
+              "answer": "You can make a clip of a video  or audio. <a href='https://www.warpwire.com/support/media-options/clipping/' target='_blank'>Follow the directions in this document</a>."
+            }
+          ]
+        },
+        {
+          "title": "Increasing Interactivity with Videos",
+          "anchor": "warpwire-interactivity",
+          "icon": "fa-video",
+          "description": "Learn about the Interactive Video Learning App and explore analytics.",
+          "videos": [
+            {
+              "title": "Increasing Interactivity with Videos",
+              "warpwire": "mfYDAA"
+            }
+          ],
+          "overviewcontent": "<h2 style=\"margin:0\"><small>Interactive Video and Analytics</small></h1>Instructional videos are more effective when you include interactive components. You can do this with embedded questions within lessons or by using the interactive video tool. Instructors can check student analytics on video views through the Warpwire library as well.",
+          "section1title": "Increasing Interactivity with Videos",
+          "section1content": "In this video we will show you how to use the interactive video tool application, how to add questions within lessons associated with your video and how to check the analytics of viewership of your video lessons.\n\n",
+          "section2title": "Practical Application",
+          "section2content": "Using a video you uploaded to your site’s Warpwire library in Lesson One, embed the video within the lessons tool using the interactive video learning app.",
+          "aside1title": "Additional Resources",
+          "aside1content": [
+            {
+              "header": "eLearning Support Resources",
+              "references": [
+                {
+                  "icon": "fa-link",
+                  "title": "How to utilize the Interactive Video learning app",
+                  "href": "https://ewiki.udayton.edu/isidore/Interactive_Video"
+                },
+                {
+                  "icon": "fa-link",
+                  "title": "How to embed a question in lessons after a video to assess learning",
+                  "href": "https://ewiki.udayton.edu/isidore/Add/Edit/Delete_Text,_Video,_or_Image"
+                },
+                {
+                  "icon": "fa-link",
+                  "title": "Embed through a learning app: Pre/Post Reflection",
+                  "href": "https://ewiki.udayton.edu/isidore/Pre/Post_Reflection"
+                },
+                {
+                  "icon": "fa-link",
+                  "title": "Embed through a learning app: Quick Write",
+                  "href": "https://ewiki.udayton.edu/isidore/Quick_Write"
+                },
+                {
+                  "icon": "fa-link",
+                  "title": "Embed through a learning app: Quick Quiz",
+                  "href": "https://ewiki.udayton.edu/isidore/Quick_Quiz"
+                }
+              ]
+            }
+          ],
+          "aside2title": "Potential Questions You May Have",
+          "aside2questions": [
+            {
+              "question": "Can you grade the questions or interactive video and send them to the gradebook?",
+              "answer": "You can send grades from the interactive video to the gradebook. To learn more about interactive video and how to use it, please see our <a href='https://ewiki.udayton.edu/isidore/Interactive_Video' target='_blank'>eWiki help site</a>."
+            },
+            {
+              "question": "Can I use the interactive video tool with a YouTube video?",
+              "answer": "That is another yes! You will be able to select either Warpwire or YouTube when setting up your interactive video."
+            },
+            {
+              "question": "What types of questions can I ask using the Interactive Video tool?",
+              "answer": "You can ask multiple choice questions, including true/false. If you want to utilize open ended questions, we recommend embedding the quick write or pre/post write learning apps in conjunction with your video."
+            }
+          ]
+        },
+        {
+          "title": "Creating Central Course Libraries",
+          "anchor": "warpwire-centrallibraries",
+          "icon": "fa-video",
+          "description": "Create a central library for your course videos.",
+          "videos": [
+            {
+              "title": "",
+              "warpwire": ""
+            }
+          ],
+          "overviewcontent": "There can be some confusion about where your videos “live” once placed into a site and embedded into lessons. We recommend that if you plan on using the same or similar videos each term for the same course that you make a “Central Course Library” for your videos and use this each term for each course site. With this approach, you always know where to find your original video and can easily update any video without having to re-embed the video in your lessons tool of the site. This also makes checking the analytics for videos for all course sections at once a breeze!",
+          "section1title": "<span 'alert-warning'>NEED VIDEO</span>",
+          "section1content": "In this lesson we show you how to create a Master library for your course videos. We discuss how to embed videos from this library, update videos to newer versions, and check analytics for a specific date range.\n\n",
+          "section2title": "Practical Application",
+          "section2content": "Create a master library for a course you teach and upload all videos to this library.",
+          "aside1title": "Additional Resources",
+          "aside1content": [
+            {
+              "header": "Support Resources",
+              "references": [
+                {
+                  "icon": "fa-external-link",
+                  "title": "How to create a Media Library",
+                  "href": "https://www.warpwire.com/support/getting-started/"
+                },
+                {
+                  "icon": "fa-external-link",
+                  "title": "Searching for a Library",
+                  "href": "https://www.warpwire.com/support/organize/find/"
+                },
+                {
+                  "icon": "fa-link",
+                  "title": "Copy a video between Isidore sites",
+                  "href": "https://ewiki.udayton.edu/isidore/Copy_a_video_between_Isidore_sites"
+                },
+                {
+                  "icon": "fa-link",
+                  "title": "How to grant students access to upload videos to Warpwire",
+                  "href": "https://ewiki.udayton.edu/isidore/Allow_students_to_upload_videos_to_Warpwire"
+                }
+              ]
+            }
+          ],
+          "aside2title": "Potential Questions You May Have",
+          "aside2questions": [
+            {
+              "question": "Why do I need a central course video library?",
+              "answer": "A central course library will help to keep track of where your videos are located and maintain them in one location for all of your course sites. When a video needs to be added or updated, it only needs to be added to this one library and then linked in your course site.  Using a Central Course Library for your course site also frees up the Warpwire library in your own site for student uploads of video presentations."
+            },
+            {
+              "question": "Can I still check analytics on a video within a Central Course Library?",
+              "answer": "Yes you can. Analytics can be filtered by date, exported and then sorted by viewer. This will help to give you current information on the engagement with videos within the library."
+            },
+            {
+              "question": "Can I use videos in a central course library with the interactive video tool?",
+              "answer": "Yes you can!  Videos in the central course library can be selected when setting up the interactive video tool in a course site. How to do this is demonstrated in the video in this lesson."
+            }
+          ]
+        }
+      ]
     }
   ]
 }
