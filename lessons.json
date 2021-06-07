@@ -3150,6 +3150,17 @@
           "section1content": "In this video we will show you how to use the interactive video tool application, how to add questions within lessons associated with your video and how to check the analytics of viewership of your video lessons.\n\n",
           "section2title": "Practical Application",
           "section2content": "Using a video you uploaded to your site’s Warpwire library in Lesson One, embed the video within the lessons tool using the interactive video learning app.",
+          "section2steps": [
+            {
+              "step": "<a href='https://ewiki.udayton.edu/isidore/How_to_Install_Learning_Apps_in_Lessons' target='_blank'>Embed an Interactive Video Learning App into Your Lesson</a>"
+            },
+            {
+              "step": "<a href='https://ewiki.udayton.edu/isidore/Add/Edit/Delete_an_Interactive_Video' target='_blank'>Configure the Interactive Video</a>"
+            },
+            {
+              "step": "<a href='https://ewiki.udayton.edu/isidore/Preview_an_Interactive_Video' target='_blank'>Preview your Interactive Video</a>"
+            }
+          ],
           "aside1title": "Additional Resources",
           "aside1content": [
             {
@@ -3206,15 +3217,15 @@
           "description": "Create a central library for your course videos.",
           "videos": [
             {
-              "title": "",
-              "warpwire": ""
+              "title": "Creating Central Course Libraries",
+              "warpwire": "AfoDAA"
             }
           ],
           "overviewcontent": "There can be some confusion about where your videos “live” once placed into a site and embedded into lessons. We recommend that if you plan on using the same or similar videos each term for the same course that you make a “Central Course Library” for your videos and use this each term for each course site. With this approach, you always know where to find your original video and can easily update any video without having to re-embed the video in your lessons tool of the site. This also makes checking the analytics for videos for all course sections at once a breeze!",
-          "section1title": "<span 'alert-warning'>NEED VIDEO</span>",
-          "section1content": "In this lesson we show you how to create a Master library for your course videos. We discuss how to embed videos from this library, update videos to newer versions, and check analytics for a specific date range.\n\n",
+          "section1title": "Creating Central Course Libraries",
+          "section1content": "In this lesson we show you how to create a central library for your course videos. We discuss how to embed videos from this library, update videos to newer versions, and check analytics for a specific date range.\n\n",
           "section2title": "Practical Application",
-          "section2content": "Create a master library for a course you teach and upload all videos to this library.",
+          "section2content": "Create a Central Library and Copy Videos from a Previous Course Site to the Library.",
           "aside1title": "Additional Resources",
           "aside1content": [
             {
