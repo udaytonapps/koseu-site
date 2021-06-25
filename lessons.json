@@ -2920,7 +2920,7 @@
           "aside2questions": [
             {
               "question": "How do I create my own videos?",
-              "answer": "You can create your own videos using any video recording tool you have access to. Popular ways of doing this is by using <a href='https://ewiki.udayton.edu/isidore/SnagIt' target='_blank'>Snagit</a> which is a screen capture software that we are happy to provide faculty a license for. Other alternatives are to use your camera phone, a camera with video recording capabilities, or other software that came with your computer. For suggestions on creating quality lecture videos <a href='https://udayton.warpwire.com/w/8Q8CAA/' target='_blank'>please see this help video</a>."
+              "answer": "You can create your own videos using any video recording tool you have access to. Popular ways of doing this is by using <a href='https://learn.udayton.edu/lessons/templatesites-coursecontent-sharingvideos' target='_blank'>Snagit</a> which is a screen capture software that we are happy to provide faculty a license for. Other alternatives are to use your camera phone, a camera with video recording capabilities, or other software that came with your computer. For suggestions on creating quality lecture videos <a href='https://udayton.warpwire.com/w/8Q8CAA/' target='_blank'>please see this help video</a>."
             },
             {
               "question": "Do students view videos directly from the Warpwire tool?",
@@ -2928,7 +2928,7 @@
             },
             {
               "question": "How long can my videos be?",
-              "answer": "Videos up to 10 GB can be uploaded to the Warpwire tool. However we recommend chunking your instruction into shorter videos for both reasons of easier creation, management, and use by students."
+              "answer": "We recommend creating lecture videos that are no longer than 10-15 minutes, but acknowledge that sometimes it’s necessary for videos to be longer than this. The maximum file size that can be uploaded is 10 GB."
             },
             {
               "question": "Can students upload videos to the Library?",
@@ -2937,7 +2937,7 @@
           ]
         },
         {
-          "title": "Organizing Your Warpwire Videos",
+          "title": "Settings and Organization",
           "anchor": "warpwire-organizing",
           "icon": "fa-video",
           "description": "Learn how to rename, replace, tag, and sort the videos in your Warpwire libraries.",
@@ -2947,9 +2947,9 @@
               "warpwire": "TcIDAA"
             }
           ],
-          "overviewcontent": "Storing your videos in Warpwire is a great start, but you want your students to be able to view the videos as well. Ideally your videos are provided to students within the lessons tool in the week they should access the video. For more about this see lesson three. There are several ways you can keep your library organized to make finding your videos easier.",
-          "section1title": "Renaming, Replacing, Tagging, Sorting, and Changing the Thumbnail for Your Videos",
-          "section1content": "In this lesson we will review how to organize your Warpwire library by renaming videos, updating a video with a newer version, tagging videos with category names, and how to sort within the library.\n\n",
+          "overviewcontent": "Storing your videos in Warpwire is a great start, but there are many customization options in the settings of your library and in the settings of your individual videos.  Understanding the options and reasons behind different settings will help you make the most of your Warpwire library.",
+          "section1title": "Customization using Warpwire Settings",
+          "section1content": "In this lesson we will review how to organize and manage your Warpwire library by renaming videos, updating a video with a newer version, tagging videos with category names, and changing share and view settings.\n\n",
           "section2title": "Practical Application",
           "section2content": "<p>Let’s practice a couple of the organization techniques we reviewed in the video.</p><p>Add a tag to a video in your Warpwire library.</p>",
           "section2steps": [
@@ -3040,11 +3040,15 @@
             {
               "question": "How do I rename my video?",
               "answer": "When uploading videos to Warpwire, they are often populated with the default title of the video file. Oftentimes  this can be a series of letters and numbers, especially with Zoom downloads. You have the opportunity to change the title at the time of upload, however, if you forget to make this change, or wish to re-title your video later; you have the option to do so in the settings menu. For ease of use, we recommend using a standardized naming convention, such as: Module 1, Lesson 1- Introduction or M1 L1 Intro. This makes embedding videos much easier."
+            },
+            {
+              "question": "How do I update a setting on all my videos at once?",
+              "answer": "You can do a bulk update to videos by clicking on the open circle in the upper right corner of your Warpwire library, and then either click the  select all button underneath to select all videos in the library or  select few by clicking on the circle underneath the individual videos you wish to apply the setting to. Then in the batch actions drop down menu choose which action you would like to take."
             }
           ]
         },
         {
-          "title": "Sharing Warpwire Videos",
+          "title": "Embedding Videos in Isidore",
           "anchor": "warpwire-sharing",
           "icon": "fa-video",
           "description": "Learn about the various ways you can embed Warpwire videos in Isidore.",
@@ -3114,6 +3118,11 @@
                   "icon": "fa-link",
                   "title": "Share Settings in Warpwire",
                   "href": "https://ewiki.udayton.edu/isidore/Share_a_video"
+                },
+                {
+                  "icon": "fa-link",
+                  "title": "Insert a video into a forum post",
+                  "href": "https://ewiki.udayton.edu/isidore/Insert_a_video_into_a_forum_post"
                 }
               ]
             }
@@ -3131,6 +3140,10 @@
             {
               "question": "What if I need to share just a portion of my video?",
               "answer": "You can make a clip of a video  or audio. <a href='https://www.warpwire.com/support/media-options/clipping/' target='_blank'>Follow the directions in this document</a>."
+            },
+            {
+              "question": "What if I would like to hide my Warpwire Tool in the menu so that students do not see the tool at all?",
+              "answer": "To hide Warpwire from your tool menu, Click on Site Info, then Manage Tools. Next to Warpwire Video, click the tool settings icon on the right and choose to “Make Tool Invisible to Students”."
             }
           ]
         },
