@@ -3,6 +3,22 @@
   "description": "Below are a collection of videos on different topics. Some are introductions and some are deep-dives.",
   "topics": [
     {
+      "title": "Pruning Your Isidore Sites: Preparing for the Semester",
+      "description": "Start the semester off right by pruning your course site of extraneous tools, materials, or directions that were built for hybrid or flexible courses during the pandemic.",
+      "category": "Instructional Design",
+      "thumbnail": "pruning-your-sites.jpg",
+      "content": "During the pandemic, you likely created and posted instructions, activities and more in your Isidore sites to help students stay on pace, no matter their location or ability to attend class. This was meaningful and important work. As you duplicate your Isidore sites in preparation for returning to face-to-face teaching, though, some of these items could confuse students as they might be unsure if the activity is to be completed online or during your face-to-face class. This video will help guide you through the decision making process for what should be removed and what should stay in Isidore.",
+      "time": "Est. 10 min",
+      "author":  "Kent Darr, Office of eLearning",
+      "anchor": "pruning-your-sites",
+      "videos": [
+        {
+          "title": "Pruning Your Isidore Sites: Preparing for the Semester",
+          "warpwire": "0xYEAA"
+        }
+      ]
+    },
+    {
       "title": "Forming Faculty E-Learning Groups, Interview Dr. Andy Slade",
       "description": "Dr. Andy Slade, English Department Chair, shares the approach he established during the summer of 2020 to create faculty teams and maintain engagement.",
       "category": "Blended Teaching & Learning",
