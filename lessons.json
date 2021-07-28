@@ -2784,7 +2784,7 @@
               "warpwire": "p8QDAA"
             }
           ],
-          "overviewcontent": "Warpwire is a fairly simple tool to operate. You will want to take some time to explore the features of the tool to maximize use of its features. In this lesson you will learn how to add Warpwire to your course site, upload videos, copy videos to other sites, and manage your account and videos from the web portal.",
+          "overviewcontent": "Warpwire is a fairly simple tool to operate. Taking a bit of time to work through the lessons in this module will answer most questions that you might have or encounter as you use the tool. The main steps to use of Warpwire are to upload and share videos. Let’s learn how.",
           "section1title": "Adding Warpwire to your Course site and Uploading / Copying Videos",
           "section1content": "In this lesson we will cover how to install the Warpwire tool to your course site and upload your first video to Warpwire. We will show you how to copy your videos from one site to another.\n\n",
           "section2title": "Practical Application",
@@ -2951,7 +2951,7 @@
           "section1title": "Customization using Warpwire Settings",
           "section1content": "In this lesson we will review how to organize and manage your Warpwire library by renaming videos, updating a video with a newer version, tagging videos with category names, and changing share and view settings.\n\n",
           "section2title": "Practical Application",
-          "section2content": "<p>Let’s practice a couple of the organization techniques we reviewed in the video.</p><p>Add a tag to a video in your Warpwire library.</p>",
+          "section2content": "<p>Let’s practice a couple of the organization techniques we reviewed in the video.</p><h5>Add a tag to a video in your Warpwire library.</h5>",
           "section2steps": [
             {
               "step": "Navigate to the course site where you added Warpwire and uploaded a video in Lesson One."
@@ -2982,6 +2982,21 @@
             },
             {
               "step": "Choose to sort by tag."
+            },
+            {
+              "header": "Rename one of your videos.",
+            },
+            {
+              "step": "Navigate to the course site where you added Warpwire and uploaded a video in Lesson One."
+            },
+            {
+              "step": "Click on the circle with the three dots in the bottom right of the video and choose the menu option \"settings\"."
+            },
+            {
+              "step": "Highlight the current name listed under “Title” and hit delete or start typing the new name."
+            },
+            {
+              "step": "Close the Settings Menu"
             }
           ],
           "section3title": "Tell us about your experience",
@@ -3354,7 +3369,7 @@
             },
             {
               "question": "How do I know that my student watched the video while it played on their computer?",
-              "answer": "It is possible that even though a student’s analytics show that the student watched the full video, it is possible that they did not maintain full attention while watching the video. We recommend that if you are concerned with this possibility that you utilize the interactive video learning app discussed in Lesson 4."
+              "answer": "It is possible that even though a student’s analytics show that the student watched the full video, they may not have maintained full attention. We recommend that if you are concerned with this possibility you utilize the interactive video learning app discussed in Lesson 4."
             }
           ]
         }
