@@ -8,7 +8,7 @@ require "nav.php";
 echo '<div class="container">';
 $OUTPUT->pageTitle('Welcome to the LEARN Training Platform');
 ?>
-<p class="lead">Explore self-paced lessons on a variety of topics and technologies supported by the Office of eLearning.</p>
+<p class="lead">Explore self-paced lessons on a variety of topics and technologies supported by the Center for Online Learning.</p>
 <div class="row">
     <div class="col-sm-5 col-sm-push-7">
 <?php if ( isset($_SESSION['id']) ) { ?>

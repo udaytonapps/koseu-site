@@ -1,10 +1,10 @@
 {
-  "title": "<small>Office of eLearning</small><br />Isidore Training Modules",
-  "description": "Below are training modules and lessons developed by the Office of eLearning to help folks use Isidore, UD's learning management system.",
+  "title": "<small>Center for Online Learning</small><br />Isidore Training Modules",
+  "description": "Below are training modules and lessons developed by the Center for Online Learning to help folks use Isidore, UD's learning management system.",
   "badges": [
     {
       "title": "Participation Trophy",
-      "description": "Do you earn this badge for doing anything impressive? Nope. All you do is log into the system, and poof! You get the badge. You participated. Take your trophy. You are now prepared for your first steps in the Office of E-Learning's online training. DISCLAIMER: Always consult your physician before beginning any online training program. This is not intended to diagnose any medical condition or to replace your health care professional. If you experience any pain or shortness of breath with these online modules, stop and consult your physician.",
+      "description": "Do you earn this badge for doing anything impressive? Nope. All you do is log into the system, and poof! You get the badge. You participated. Take your trophy. You are now prepared for your first steps in the Center for Online Learning's online training. DISCLAIMER: Always consult your physician before beginning any online training program. This is not intended to diagnose any medical condition or to replace your health care professional. If you experience any pain or shortness of breath with these online modules, stop and consult your physician.",
       "image": "ParticipationTrophy.png",
       "anchor": "participationtrophy",
       "threshold": "1.0",
@@ -12,7 +12,7 @@
     },
     {
       "title": "Is-A-Door",
-      "description": "Isidore. If you know what it is and you know what it does, it will open all kinds of doors for your teaching career here at UD. The name of the badge will also serve as a reminder of the proper pronunciation. eLearning hears a lot of eyes-a-dore and Isadora type stuff. No good! You wouldn't want to bring dishonor on Saint Isidore of Seville, the patron saint of students and the Internet, would you? This badge is awarded for completing the What Is Isidore? lesson.",
+      "description": "Isidore. If you know what it is and you know what it does, it will open all kinds of doors for your teaching career here at UD. The name of the badge will also serve as a reminder of the proper pronunciation. The Center for Online Learning hears a lot of eyes-a-dore and Isadora type stuff. No good! You wouldn't want to bring dishonor on Saint Isidore of Seville, the patron saint of students and the Internet, would you? This badge is awarded for completing the What Is Isidore? lesson.",
       "image": "IsADoor.png",
       "anchor": "isadoor",
       "threshold": "1.0",
@@ -116,7 +116,7 @@
   "modules": [
     {
       "title": "Preparing Your Isidore Course Site for the Semester",
-      "description": "In an effort to support faculty, the Office of eLearning has provided a template with a set of standard tools and organization guided by best practices and student needs from which instructors can create their course sites for the new semester. With everyone learning how to use the same tools in Isidore, we can provide more effective training that will help guide you step-by-step through creating polished Isidore sites that are easy and consistent for students to navigate.<br /><br />Completing this training package should take no longer than an hour and a half. We recommend starting with the very first lesson, but you can also jump to the lessons you need by exploring the outline within this training package.",
+      "description": "In an effort to support faculty, the Center for Online Learning has provided a template with a set of standard tools and organization guided by best practices and student needs from which instructors can create their course sites for the new semester. With everyone learning how to use the same tools in Isidore, we can provide more effective training that will help guide you step-by-step through creating polished Isidore sites that are easy and consistent for students to navigate.<br /><br />Completing this training package should take no longer than an hour and a half. We recommend starting with the very first lesson, but you can also jump to the lessons you need by exploring the outline within this training package.",
       "time": "Est. 120 min",
       "anchor": "templatesites",
       "lessons": [
@@ -403,8 +403,8 @@
                 },
                 {
                   "icon": "fa-external-link",
-                  "title": "Email elearning@udayton.edu for a Snagit license",
-                  "href": "mailto:elearning@udayton.edu"
+                  "title": "Email onlinelearning@udayton.edu for a Snagit license",
+                  "href": "mailto:onlinelearning@udayton.edu"
                 },
                 {
                   "icon": "fa-external-link",
@@ -418,7 +418,7 @@
                 },
                 {
                   "icon": "fa-external-link",
-                  "title": "eLearning Video Editing Services",
+                  "title": "Online Learning Video Editing Services",
                   "href": "https://udayton.warpwire.com/w/8w8CAA/"
                 }
               ]
@@ -1006,7 +1006,7 @@
                 },
                 {
                   "icon": "fa-external-link",
-                  "title": "Why Open Source? - Written by eLearning Staff",
+                  "title": "Why Open Source? - Written by the Center for Online Learning Staff",
                   "href": "https://udayton.edu/0/elearning/learn/whyopensource.pdf"
                 },
                 {
@@ -1030,7 +1030,7 @@
             },
             {
               "question": "I have a feature request! How do I let you know?",
-              "answer": "Just call or email the Office of eLearning! We are available at (937) 229-5039 and elearning@udayton.edu. We'll make a ticket for you, and we'll be sure to let you know when the feature is added to Isidore."
+              "answer": "Just call or email the Center for Online Learning! We are available at (937) 229-5039 and onlinelearning@udayton.edu. We'll make a ticket for you, and we'll be sure to let you know when the feature is added to Isidore."
             },
             {
               "question": "How is 'Isidore' pronounced?",
@@ -1143,7 +1143,7 @@
           "aside2questions": [
             {
               "question": "I don't have a UD account yet. How can I log in?",
-              "answer": "Please contact the IT Service Center to obtain your credentials. You can reach them at itservicecenter@udayton.edu or (937) 229-3888. If your credentials are \"in-the-works\", contact eLearning to obtain a \"guest\" account."
+              "answer": "Please contact the IT Service Center to obtain your credentials. You can reach them at itservicecenter@udayton.edu or (937) 229-3888. If your credentials are \"in-the-works\", contact the Center for Online Learning support (onlinelearning@udayton.edu) to obtain a \"guest\" account."
             },
             {
               "question": "What browsers work best with Isidore?",
@@ -1176,7 +1176,7 @@
               "warpwire": "QxABAA"
             }
           ],
-          "overviewcontent": "In this lesson, you will learn how to cite a site at first sight. *ba dum tsh* Well, maybe not precisely, but you will learn what Isidore sites are and how to create, organize, and manage them. At UD, instructors are responsible for creating their own sites for their courses, but eLearning staff is always happy to help if you get stuck.",
+          "overviewcontent": "In this lesson, you will learn how to cite a site at first sight. *ba dum tsh* Well, maybe not precisely, but you will learn what Isidore sites are and how to create, organize, and manage them. At UD, instructors are responsible for creating their own sites for their courses, but the Center for Online Learning staff is always happy to help if you get stuck.",
           "section1title": "Step 1: See It, Learn It",
           "section1content": "Watch this 2 minute video to learn about Isidore sites.",
           "section2title": "Step 2: Try It",
@@ -1192,7 +1192,7 @@
               "step": "Let us know your site's title by completing the Quick Write below these steps."
             },
             {
-              "step": "An eLearning staff member will verify that you created a site, then, boom! You earned a Site Sighted badge!"
+              "step": "A Center for Online Learning staff member will verify that you created a site, then, boom! You earned a Site Sighted badge!"
             }
           ],
           "section3title": "Step 3: Test Your Knowledge",
@@ -1208,7 +1208,7 @@
             },
             {
               "header": "Quick Write",
-              "description": "Use the steps above to create a course site and then use the link below to submit your site to eLearning for credit.",
+              "description": "Use the steps above to create a course site and then use the link below to submit your site to the Center for Online Learning for credit.",
               "icon": "fa-pencil-square",
               "title": "Sight my Site!",
               "launch": "mod/modquickwrite/",
@@ -1264,11 +1264,11 @@
             },
             {
               "question": "I'm teaching this coming semester, but I don't see a roster available to me to create. What do I do?",
-              "answer": "It could be a number of things. You may have selected the wrong term when beginning the site creation process (most classes are in terms that are called something like \"Spring 2020\" or \"Fall 2020\"). More likely is that you are not listed as the instructor of record for the class. Don't worry, you can still create the Isidore site for your roster! You just have to request it, then eLearning will review the request and approve the roster once we determine that you are indeed the instructor."
+              "answer": "It could be a number of things. You may have selected the wrong term when beginning the site creation process (most classes are in terms that are called something like \"Spring 2020\" or \"Fall 2020\"). More likely is that you are not listed as the instructor of record for the class. Don't worry, you can still create the Isidore site for your roster! You just have to request it, then the Center for Online Learning will review the request and approve the roster once we determine that you are indeed the instructor."
             },
             {
               "question": "How soon before the term begins can I create my Isidore site?",
-              "answer": "The rosters for the upcoming term become available in Isidore ten weeks prior to the start of the semester. If you want to create the site before then, just contact eLearning - we can set it up."
+              "answer": "The rosters for the upcoming term become available in Isidore ten weeks prior to the start of the semester. If you want to create the site before then, just contact the Center for Online Learning - we can set it up."
             },
             {
               "question": "Oops! I goofed. How can I delete the site that I made?",
@@ -1370,7 +1370,7 @@
               "answer": "Sure thing! In fact, having too much color or crazy distractions is actually BAD for student learning. We do recommend adding pictures, at least, when they make sense to use (e.g. diagrams, pictures of the textbook, etc.)."
             }
           ],
-          "aside3title": "What's eLearning's favorite rich-text editor tool?",
+          "aside3title": "What's the Center for Online Learning's favorite rich-text editor tool?",
           "aside3content": "We all answered differently, so the author gets to answer on behalf of the team, mwahaha. Our favorite is the remove format button in the top row of the editor. This tool lets us remove all formatting from the text box, meaning we don't have to individually un-bold and un-italicize everything. Huge timesaver!"
         },
         {
@@ -1414,7 +1414,7 @@
             },
             {
               "header": "Quick Write",
-              "description": "Make your Overview page something different than the course descrpition, then use the link below to submit your site to eLearning for credit.",
+              "description": "Make your Overview page something different than the course descrpition, then use the link below to submit your site to the Center for Online Learning for credit.",
               "icon": "fa-pencil-square",
               "title": "Review my Overview",
               "launch": "mod/modquickwrite/",
@@ -1558,7 +1558,7 @@
             },
             {
               "question": "Copying and pasting my syllabus into Isidore messes up the formatting. How can I get it to look nice?",
-              "answer": "Really wish we had a snappy answer for this one. Like rocket science, maintaining formatting between things is just hard. But we can help. Shoot the Word Doc version of the Syllabus to elearning@udayton.edu, and we'll see what we can do."
+              "answer": "Really wish we had a snappy answer for this one. Like rocket science, maintaining formatting between things is just hard. But we can help. Shoot the Word Doc version of the Syllabus to onlinelearning@udayton.edu, and we'll see what we can do."
             },
             {
               "question": "If my syllabus is 32 pages long, is it really still okay to just paste in to Isidore?",
@@ -2067,7 +2067,7 @@
             }
           ],
           "aside3title": "Did you know?",
-          "aside3content": "The Office of eLearning has invited expert screen-reader users to evaluate Isidore. Additionally, Isidore is based on the open source LMS Sakai, which has accessibility as crucial foundation of the software."
+          "aside3content": "The Center for Online Learning has invited expert screen-reader users to evaluate Isidore. Additionally, Isidore is based on the open source LMS Sakai, which has accessibility as crucial foundation of the software."
         },
         {
           "title": "Auditory Disabilities",
@@ -2160,11 +2160,11 @@
           "aside2questions": [
             {
               "question": "Do I have to pay for captions?",
-              "answer": "Not if it's for a course. If you upload videos to Warpwire for the purpose of providing instructional content, the Office of eLearning will take care of the captions for you."
+              "answer": "Not if it's for a course. If you upload videos to Warpwire for the purpose of providing instructional content, the Center for Online Learning will take care of the captions for you."
             },
             {
               "question": "How can I ensure the captions are accurate?",
-              "answer": "You are still responsible for the accuracy of the captions, so please check them. If you find inaccuracies please contact the Office of eLearning."
+              "answer": "You are still responsible for the accuracy of the captions, so please check them. If you find inaccuracies please contact the Center for Online Learning."
             }
           ],
           "aside3title": "Did you know?",
@@ -2452,7 +2452,7 @@
             },
             {
               "question": "How can I ensure the captions are accurate?",
-              "answer": "You are still responsible for the accuracy of the captions, so please check them. If you find inaccuracies please contact the Office of eLearning."
+              "answer": "You are still responsible for the accuracy of the captions, so please check them. If you find inaccuracies please contact the Center for Online Learning."
             }
           ],
           "aside3title": "Did you know?",
@@ -2493,7 +2493,7 @@
               "references": [
                 {
                   "icon": "fa-link",
-                  "title": "Office of eLearning: Zoom Help",
+                  "title": "Center for Online Learning: Zoom Help",
                   "href": "https://ewiki.udayton.edu/isidore/Zoom"
                 },
                 {
@@ -2582,7 +2582,7 @@
           "section1title": "Zooming In!",
           "section1content": "Get ready to take flight in your online classroom. This video will explain all the basic tools you will need to facilitate a quality class or meeting.",
           "section2title": "Practical Application",
-          "section2content": "<h5>Try out your new skills as a Zoom facilitator.</h5><p>Schedule a meeting for Zoom and invite a friend. Record the session and review the recording afterward to identify any changes in approach you may need in your next use of Zoom. While in the session, ensure you can be heard and seen well with your webcam. Play around with the features and ensure that you feel comfortable using them. Alternatively, contact an eLearning representative (elearning@udyaton.edu) to schedule a test meeting.</p>",
+          "section2content": "<h5>Try out your new skills as a Zoom facilitator.</h5><p>Schedule a meeting for Zoom and invite a friend. Record the session and review the recording afterward to identify any changes in approach you may need in your next use of Zoom. While in the session, ensure you can be heard and seen well with your webcam. Play around with the features and ensure that you feel comfortable using them. Alternatively, contact Center for Online Learning support (onlinelearning@udyaton.edu) to schedule a test meeting.</p>",
           "aside1title": "Additional Resources",
           "aside1content": [
             {
@@ -2791,7 +2791,7 @@
           "section2content": "<h5>Add Warpwire to one of your course sites and upload a video.</h5><p>To complete this task, please follow the instructions below. To receive credit, please submit the quick write question after completing the task.</p>",
           "section2steps": [
             {
-              "step": "Choose one of your current or past course sites for this task. If you have not taught a course in Isidore before and need a demo site created for you, please email elearning@udayton.edu with a request for a site."
+              "step": "Choose one of your current or past course sites for this task. If you have not taught a course in Isidore before and need a demo site created for you, please email onlinelearning@udayton.edu with a request for a site."
             },
             {
               "step": "Click on “Add Tool” in the left hand menu of your course site under the “Site Info” heading."
@@ -2836,7 +2836,7 @@
           "aside1title": "Additional Resources",
           "aside1content": [
             {
-              "header": "eLearning Support Resources",
+              "header": "Online Learning Support Resources",
               "references": [
                 {
                   "icon": "fa-link",
@@ -3107,7 +3107,7 @@
           "aside1title": "Additional Resources",
           "aside1content": [
             {
-              "header": "eLearning Support Resources",
+              "header": "Online Learning Support Resources",
               "references": [
                 {
                   "icon": "fa-link",
@@ -3177,7 +3177,7 @@
           "aside1title": "Additional Resources",
           "aside1content": [
             {
-              "header": "eLearning Support Resources",
+              "header": "Online Learning Support Resources",
               "references": [
                 {
                   "icon": "fa-link",

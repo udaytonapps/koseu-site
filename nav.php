@@ -65,10 +65,10 @@ $set->addRight('Isidore <span class="fas fa-external-link-alt" aria-hidden="true
 
 $elearningMenu = new Menu();
 $elearningMenu->addLink('Keep Teaching <span class="fas fa-external-link-alt" aria-hidden="true"></span>', 'http://go.udayton.edu/keepteaching');
-$elearningMenu->addLink('Blog <span class="fas fa-external-link-alt" aria-hidden="true"></span>', 'https://udayton.edu/blogs/elearning/index.php');
+$elearningMenu->addLink('Blog <span class="fas fa-external-link-alt" aria-hidden="true"></span>', 'https://udayton.edu/blogs/onlinelearning/index.php');
 $elearningMenu->addLink('Contact Us', $R.'contact');
 
-$set->addRight('eLearning Resources', $elearningMenu);
+$set->addRight('Online Learning Resources', $elearningMenu);
 
 // Set the topNav for the session
 $OUTPUT->topNavSession($set);
