@@ -3282,6 +3282,52 @@
               "answer": "Yes you can!  Videos in the central course library can be selected when setting up the interactive video tool in a course site. How to do this is demonstrated in the video in this lesson."
             }
           ]
+        },
+        {
+          "title": "Analytics in Warpwire",
+          "anchor": "warpwire-analytics",
+          "icon": "fa-video",
+          "description": "Learn how to see which students are watching which parts of your videos.",
+          "videos": [
+            {
+              "title": "Analytics in Warpwire",
+              "warpwire": "oRIEAA"
+            }
+          ],
+          "overviewcontent": "When you publish a video as part of your lesson, you want to ensure that students have taken the time to watch the instruction. Detailed analytics are available within Warpwire both as a quick view and as a detailed export. Reports allow you to see which students are watching the videos and which parts of the videos they are watching.",
+          "section1title": "Analytics in Warpwire",
+          "section1content": "In this lesson we will demonstrate how to check student viewership of Warpwire videos within a course site and how to embed videos as graded activities based on views.\n\n",
+          "section2title": "Practical Application",
+          "section2content": "Embed a Warpwire video in a lessons tool in your course site using the procedure below to make it a graded activity. A video of this process is available for review.",
+          "aside1title": "Additional Resources",
+          "aside1content": [
+            {
+              "header": "Support Resources",
+              "references": [
+                {
+                  "icon": "fa-external-link",
+                  "title": "Warpwire Guide to Video Analytics",
+                  "href": "https://www.warpwire.com/support/analytics/introduction/"
+                },
+                {
+                  "icon": "fa-video",
+                  "title": "How to install a Warpwire video with the grading feature",
+                  "href": "https://udayton.warpwire.com/w/_RMEAA/"
+                }
+              ]
+            }
+          ],
+          "aside2title": "Potential Questions You May Have",
+          "aside2questions": [
+            {
+              "question": "How reliable are the analytics on Warpwire videos?",
+              "answer": "The analytics on Warpwire videos are very reliable if students access videos directly through the embedded link of your video in lessons. If you share your video externally and it has a public setting, viewers may be listed as “anonymous” so avoid having students access the video outside of Isidore."
+            },
+            {
+              "question": "How do I know that my student watched the video while it played on their computer?",
+              "answer": "It is possible that even though a student’s analytics show that the student watched the full video, it is possible that they did not maintain full attention while watching the video. We recommend that if you are concerned with this possibility that you utilize the interactive video learning app discussed in Lesson 4."
+            }
+          ]
         }
       ]
     }
