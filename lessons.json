@@ -51,7 +51,6 @@
       "assignments": [
         "101_ckeditor",
         "101_overview",
-        "101_syllabus",
         "101_announcements",
         "101_resources",
         "101_roster",
@@ -71,7 +70,6 @@
         "bn_sitecreation",
         "101_ckeditor",
         "101_overview",
-        "101_syllabus",
         "101_announcements",
         "101_resources",
         "101_roster",
@@ -114,6 +112,358 @@
     }
   ],
   "modules": [
+    {
+      "title": "Isidore Onboarding",
+      "description": "If you’re brand new to Isidore or just need a complete refresher, the lessons in this training module will help you understand everything you need to know to get started with UD’s learning management system (LMS). The topics covered include background information about Isidore, basic navigation and layout of the system, the site creation process, and brief overviews of the most essential tools to facilitate your classes.<br><br>Completing this training package should take no longer than 45 minutes. We recommend starting with the first lesson, but you can also jump to any topic to find the specific help you need.",
+      "video": {
+        "title": "Isidore Onboarding Teaser",
+        "warpwire": "mzkEAA"
+      },
+      "time": "Est. 45 min",
+      "anchor": "onboarding",
+      "lessons": [
+        {
+          "title": "What is Isidore?",
+          "anchor": "onboarding-what-is-isidore",
+          "icon": "fa-question",
+          "description": "Discover the history of Isidore.",
+          "overviewcontent": "Isidore is UD's open-source Learning Management System or LMS. Isidore is based on the Sakai LMS, but why did UD go this direction? Find out in this lesson.",
+          "videos": [
+            {
+              "title": "What is Isidore?",
+              "warpwire": "6TMEAA"
+            }
+          ],
+          "section2title": "Test Your Knowledge",
+          "section2content": "Now it's time to prove you watched the video. Complete the Quick Quiz below and earn a badge.",
+          "lti": {
+            "header": "Quick Quiz",
+            "description": "Complete the Quick Quiz below to earn a badge.",
+            "icon": "fa-list-ol",
+            "title": "What is Isidore? Quiz",
+            "launch": "mod/learnquiz/index.php?quiz=bn_whatisisidore",
+            "resource_link_id": "bn_whatisisidore"
+          },
+          "aside1title": "Additional Resources",
+          "aside1content": [
+            {
+              "header": "Related Lessons",
+              "references": [
+                {
+                  "icon": "fa-sign-in-alt",
+                  "title": "Getting Started with Isidore",
+                  "href": "/lessons/onboarding-getting-started"
+                },
+                {
+                  "icon": "fa-plus",
+                  "title": "Creating Course Sites",
+                  "href": "/lessons/onboarding-creating-sites"
+                }
+              ]
+            },
+            {
+              "header": "Additional Articles",
+              "references": [
+                {
+                  "icon": "fa-external-link",
+                  "title": "Wiki Page for St. Isidore of Seville",
+                  "href": "https://en.wikipedia.org/wiki/Isidore_of_Seville"
+                },
+                {
+                  "icon": "fa-external-link",
+                  "title": "The Sakai LMS Homepage",
+                  "href": "https://www.sakailms.org/"
+                },
+                {
+                  "icon": "fa-external-link",
+                  "title": "Isidore Releases",
+                  "href": "https://ewiki.udayton.edu/isidore/Isidore_releases"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Getting Started with Isidore",
+          "anchor": "onboarding-getting-started",
+          "icon": "fa-sign-in-alt",
+          "description": "Find out how to log in and use the homepage.",
+          "overviewcontent": "The Isidore homepage is designed to help you see summarized information about all of your classes on one page, similar to a dashboard. In this video, you’ll learn how to log in and about each of the components on your homepage.",
+          "videos": [
+            {
+              "title": "Getting Started with Isidore",
+              "warpwire": "MzQEAA"
+            }
+          ],
+          "section2title": "Test Your Knowledge",
+          "section2content": "Now it's time to prove you watched the video. Complete the Quick Quiz below and earn a badge.",
+          "lti": {
+            "header": "Quick Quiz",
+            "description": "Complete the Quick Quiz below to earn credit for completing this Lesson.",
+            "icon": "fa-list-ol",
+            "title": "Getting Started with Isidore Quiz",
+            "launch": "mod/learnquiz/index.php?quiz=bn_gettingstarted",
+            "resource_link_id": "bn_gettingstarted"
+          },
+          "aside1title": "Additional Resources",
+          "aside1content": [
+            {
+              "header": "Wiki Resources",
+              "references": [
+                {
+                  "icon": "fa-external-link",
+                  "title": "Manage Overview Help",
+                  "href": "https://ewiki.udayton.edu/isidore/Manage_Overview#Managing_Overview_on_your_Isidore_Home"
+                }
+              ]
+            },
+            {
+              "header": "Related Lessons",
+              "references": [
+                {
+                  "icon": "fa-plus",
+                  "title": "Creating Course Sites",
+                  "href": "/lessons/onboarding-creating-sites"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Setting Up Your Course Site",
+          "anchor": "onboarding-creating-sites",
+          "icon": "fa-chalkboard-teacher",
+          "description": "Learn how to create Isidore sites.",
+          "overviewcontent": "There are several different approaches for creating Isidore sites. In this Lesson, we’ll provide guidance on which site creation path you should take, as well as demonstrations of each workflow. We’ll then review how to create an attractive and informative landing page with an up-to-date syllabus and schedule."
+        },
+        {
+          "title": "Site Creation",
+          "sublesson": true,
+          "anchor": "onboarding-creating-sites-site-creation",
+          "icon": "fa-plus",
+          "description": "Create an Isidore site for your course sections.",
+          "overviewcontent": "As an instructor, you should create an Isidore site for each of your course sections. In this video, you’ll learn how to create a site from scratch, how to duplicate an existing site, and how to create a site from a template - and how to determine which option is best for your needs.",
+          "videos": [
+            {
+              "title": "Site Creation",
+              "warpwire": "gTYEAA"
+            }
+          ],
+          "section2title": "Try It",
+          "section2content": "You will now create your own Isidore site. If you would like to create a site for an actual course, you can follow the steps shown in the video.",
+          "section2steps": [
+            {
+              "step": "Log in to Isidore."
+            },
+            {
+              "step": "Create an Isidore site."
+            },
+            {
+              "step": "Let us know your site's title by completing the Quick Write below these steps."
+            },
+            {
+              "step": "A Center for Online Learning staff member will verify that you created a site, then, boom! You earned a Site Sighted badge!"
+            }
+          ],
+          "section3title": "Test Your Knowledge",
+          "section3content": "Once you have created a site, submit the site to the Quick Write below to earn your Site Sighted badge. Then put your knowledge to the test by taking the Quick Quiz.",
+          "lti": [
+            {
+              "header": "Quick Write",
+              "description": "Use the steps above to create a course site and then use the link below to submit your site to the Center for Online Learning for credit.",
+              "icon": "fa-pencil-square",
+              "title": "Sight my Site!",
+              "launch": "mod/modquickwrite/",
+              "resource_link_id": "bn_sitecreation2"
+            },
+            {
+              "header": "Quick Quiz",
+              "description": "Take the three question quiz below to show us you know how to create Isidore sites.",
+              "icon": "fa-list-ol",
+              "title": "Course Site Creation Quiz",
+              "launch": "mod/learnquiz/index.php?quiz=bn_sitecreation",
+              "resource_link_id": "bn_sitecreation"
+            }
+          ],
+          "aside1title": "Additional Resources",
+          "aside1content": [
+            {
+              "header": "Wiki Resources",
+              "references": [
+                {
+                  "icon": "fa-external-link",
+                  "title": "Site Creation Help",
+                  "href": "https://ewiki.udayton.edu/isidore/Site_Creation"
+                }
+              ]
+            },
+            {
+              "header": "Related Lessons",
+              "references": [
+                {
+                  "icon": "fa-sign-in-alt",
+                  "title": "Getting Started with Isidore",
+                  "href": "/lessons/onboarding-getting-started"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Overview",
+          "sublesson": true,
+          "anchor": "onboarding-creating-sites-overview",
+          "icon": "fa-list-ul",
+          "description": "Design an informative and interactive landing page.",
+          "overviewcontent": "The Overview page for your course is the page students will see every time they access your site. It should be organized and informative so students know exactly how to get started with your class.",
+          "videos": [
+            {
+              "title": "Overview",
+              "warpwire": "RzYEAA"
+            }
+          ],
+          "section3title": "Test Your Knowledge",
+          "section3content": "Prove you know the basics of the widgets on the Overview.",
+          "lti": [
+            {
+              "header": "Quick Quiz",
+              "description": "Take the three question quiz below to show us you know how to add the Cheer Cup widget to your Overview.",
+              "icon": "fa-list-ol",
+              "title": "Overview Quiz",
+              "launch": "mod/learnquiz/index.php?quiz=101_overview",
+              "resource_link_id": "101_overview"
+            }
+          ],
+          "aside1title": "Additional Resources",
+          "aside1content": [
+            {
+              "header": "Wiki Resources",
+              "references": [
+                {
+                  "icon": "fa-external-link",
+                  "title": "Homepage Builder",
+                  "href": "https://ewiki.udayton.edu/isidore/Homepage_Builder"
+                },
+                {
+                  "icon": "fa-external-link",
+                  "title": "Manage Overview",
+                  "href": "https://ewiki.udayton.edu/isidore/Manage_Overview"
+                },
+                {
+                  "icon": "fa-external-link",
+                  "title": "Commons",
+                  "href": "https://ewiki.udayton.edu/isidore/Commons"
+                }
+              ]
+            },
+            {
+              "header": "Related Lessons",
+              "references": [
+                {
+                  "icon": "fa-map",
+                  "title": "Syllabus and Schedule",
+                  "href": "/lessons/onboarding-syllabus-and-schedule"
+                }
+              ]
+            },
+            {
+              "header": "Additional Articles",
+              "references": [
+                {
+                  "icon": "fa-comments",
+                  "title": "Course Communication Guide",
+                  "href": "https://udayton.edu/0/onlinelearning/learn/Course%20Communication%20Guide.pdf"
+                },
+                {
+                  "icon": "fa-university",
+                  "title": "Blog: Common Uses of Commons in Isidore",
+                  "href": "https://udayton.edu/blogs/onlinelearning/2021/02_03_2021_commons.php"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Syllabus and Schedule",
+          "sublesson": true,
+          "anchor": "onboarding-creating-sites-syllabus-and-schedule",
+          "icon": "fa-map",
+          "description": "Modify the UD syllabus and schedule templates.",
+          "overviewcontent": "Use the syllabus and schedule templates to ensure you have the most up-to-date University policies, services, and dates.",
+          "videos": [
+            {
+              "title": "Syllabus and Schedule",
+              "warpwire": "QzYEAA"
+            }
+          ],
+          "aside1title": "Additional Resources",
+          "aside1content": [
+            {
+              "header": "Additional Articles",
+              "references": [
+                {
+                  "icon": "fa-external-link",
+                  "title": "Syllabus Template",
+                  "href": "https://udayton.edu/0/onlinelearning/learn/Accessible%20Syllabus%20Template.docx"
+                },
+                {
+                  "icon": "fa-external-link",
+                  "title": "Syllabus - Completed Example",
+                  "href": "https://udayton.edu/0/onlinelearning/Accessible%20Syllabus%20Template%20-%20Completed%20Example.pdf"
+                },
+                {
+                  "icon": "fa-external-link",
+                  "title": "Schedule Template",
+                  "href": "https://udayton.edu/0/onlinelearning/learn/Course%20Schedule%20Template.docx"
+                },
+                {
+                  "icon": "fa-external-link",
+                  "title": "Schedule - Completed Example",
+                  "href": "https://udayton.edu/0/onlinelearning/learn/Course%20Schedule%20-%20Completed%20Example.pdf"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Site Info",
+          "sublesson": true,
+          "anchor": "onboarding-creating-sites-site-info",
+          "icon": "fa-cog",
+          "description": "Manage your site settings and tools.",
+          "overviewcontent": "The Site Info tool allows you to add tools and manage participants in your Isidore course site. It provides other customizations and controls as well so you can make sure your site is dialed into your specifications.",
+          "videos": [
+            {
+              "title": "Site Info",
+              "warpwire": "RTYEAA"
+            }
+          ],
+          "aside1title": "Additional Resources",
+          "aside1content": [
+            {
+              "header": "Wiki Resources",
+              "references": [
+                {
+                  "icon": "fa-external-link",
+                  "title": "Site Info Help",
+                  "href": "https://ewiki.udayton.edu/isidore/Site_Info"
+                },
+                {
+                  "icon": "fa-external-link",
+                  "title": "Manage Groups Help",
+                  "href": "https://ewiki.udayton.edu/isidore/Manage_Groups"
+                },
+                {
+                  "icon": "fa-external-link",
+                  "title": "Importing from Other Sites",
+                  "href": "https://ewiki.udayton.edu/isidore/Import_from_Site"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
     {
       "title": "Preparing Your Isidore Course Site for the Semester",
       "description": "In an effort to support faculty, the Center for Online Learning has provided a template with a set of standard tools and organization guided by best practices and student needs from which instructors can create their course sites for the new semester. With everyone learning how to use the same tools in Isidore, we can provide more effective training that will help guide you step-by-step through creating polished Isidore sites that are easy and consistent for students to navigate.<br /><br />Completing this training package should take no longer than an hour and a half. We recommend starting with the very first lesson, but you can also jump to the lessons you need by exploring the outline within this training package.",
@@ -939,7 +1289,7 @@
       "title": "I'm Brand New! What Do I Do?",
       "description": "If you're brand new to Isidore, or just need a complete refresher, pop into any of the lessons below to learn the fundamentals. The topics covered include background information about Isidore, basic navigation and layout of the system, and the site creation process.",
       "time": "Est. 15 min",
-      "anchor": "onboarding",
+      "anchor": "onboarding-old",
       "video": {
         "title": "I'm Brand New! What Do I Do? Teaser",
         "warpwire": "sQ8BAA"
@@ -967,7 +1317,7 @@
             "icon": "fa-list-ol",
             "title": "What is Isidore? Quiz",
             "launch": "mod/learnquiz/index.php?quiz=bn_whatisisidore",
-            "resource_link_id": "bn_whatisisidore"
+            "resource_link_id": "bn_whatisisidore-old"
           },
           "aside1title": "Additional Resources",
           "aside1content": [
@@ -1083,7 +1433,7 @@
               "icon": "fa-list-ol",
               "title": "Getting Started with Isidore Quiz",
               "launch": "mod/learnquiz/index.php?quiz=bn_gettingstarted",
-              "resource_link_id": "bn_gettingstarted"
+              "resource_link_id": "bn_gettingstarted2"
             }
           ],
           "aside1title": "Additional Resources",
@@ -1204,7 +1554,7 @@
               "icon": "fa-list-ol",
               "title": "Course Site Creation Quiz",
               "launch": "mod/learnquiz/index.php?quiz=bn_sitecreation",
-              "resource_link_id": "bn_sitecreation"
+              "resource_link_id": "bn_sitecreation-old"
             },
             {
               "header": "Quick Write",
@@ -1212,7 +1562,7 @@
               "icon": "fa-pencil-square",
               "title": "Sight my Site!",
               "launch": "mod/modquickwrite/",
-              "resource_link_id": "bn_sitecreation2"
+              "resource_link_id": "bn_sitecreation2-old"
             }
           ],
           "aside1title": "Additional Resources",
@@ -1410,7 +1760,7 @@
               "icon": "fa-list-ol",
               "title": "Overview Quiz",
               "launch": "mod/learnquiz/index.php?quiz=101_overview",
-              "resource_link_id": "101_overview"
+              "resource_link_id": "101_overview-old"
             },
             {
               "header": "Quick Write",
