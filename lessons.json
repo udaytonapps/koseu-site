@@ -839,7 +839,7 @@
         {
           "title": "Common Isidore Tools",
           "anchor": "onboarding-common-tools",
-          "icon": "fa-question",
+          "icon": "fa-tools",
           "description": "Learn about Assignments, Tests & Quizzes, Lessons, and Gradebook.",
           "overviewcontent": "Some of the most commonly used tools are slightly  advanced as they involve more setup and require more engagement from students. In this Lesson, we’ll review how to use the Assignments, Tests & Quizzes, Lessons, and Gradebook tools."
         },
