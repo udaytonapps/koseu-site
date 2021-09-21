@@ -3,6 +3,22 @@
   "description": "Below are a collection of videos on different topics. Some are introductions and some are deep-dives.",
   "topics": [
     {
+      "title": "4 Ways to Use Study Questions for Exam Preparation",
+      "description": "Help students prepare for exams by facilitating studying exercises using the Study Questions tool.",
+      "category": "Instructional Design",
+      "thumbnail": "4-ways-study-questions.png",
+      "content": "Many students have not learned study skills and thus struggle with fatiguing all-nighters, poor exam performance, and test anxiety. All of these things can be somewhat mitigated if students learn the skills to study properly. Help students begin studying earlier for an upcoming exam by using the <a href=\"https://ewiki.udayton.edu/isidore/Study_Questions\" target=\"_blank\">Study Questions tool</a> to conduct studying activities. In this video, we share 4 strategies for using this tool that will motivate students to start their test preparation early.",
+      "time": "Est. 2 min",
+      "author":  "Julianne Morgan, Center for Online Learning",
+      "anchor": "4-ways-study-questions",
+      "videos": [
+        {
+          "title": "4 Ways to Use Study Questions for Exam Preparation",
+          "warpwire": "-X8EAA"
+        }
+      ]
+    },
+    {
       "title": "Pruning Your Isidore Sites: Preparing for the Semester",
       "description": "Start the semester off right by pruning your course site of extraneous tools, materials, or directions that were built for hybrid or flexible courses during the pandemic.",
       "category": "Instructional Design",
