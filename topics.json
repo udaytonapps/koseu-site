@@ -3,6 +3,22 @@
   "description": "Below are a collection of videos on different topics. Some are introductions and some are deep-dives.",
   "topics": [
     {
+      "title": "Teaching Using the Power of Storytelling",
+      "description": "Discover the power stories have to increase your students' buy-in, comprehension, and retention.",
+      "category": "Student Engagement",
+      "thumbnail": "storyTopicImage.jpg",
+      "content": "What differentiates your teaching from what students could learn on their own? Your personality, your experience, and your stories. This topic video will establish the power that stories have to increase your students' buy-in, comprehension, and retention. Learn about four levels of storytelling that each can progressively elevate your teaching.",
+      "time": "Est. 25 min",
+      "author":  "Paul Dagnall, Center for Online Learning",
+      "anchor": "storytelling",
+      "videos": [
+        {
+          "title": "Teaching Using the Power of Storytelling",
+          "warpwire": "ZZcEAA"
+        }
+      ]
+    },
+    {
       "title": "4 Ways to Use Study Questions for Exam Preparation",
       "description": "Help students prepare for exams by facilitating studying exercises using the Study Questions tool.",
       "category": "Instructional Design",
