@@ -17,32 +17,31 @@
           "warpwire": "PaAEAA"
         }
       ],
-      "references": [
-        {
-          "header": "Additional Resources",
-          "links": [
-            {
-              "icon": "fa-external-link",
-              "title": "Course Planning Guide",
-              "href": "https://isidore.udayton.edu/access/content/public/TeachingOnlineResources/Course%20Planning%20Guide-FULL.docx"
-            },
-            {
-              "icon": "fa-external-link",
-              "title": "Module Alignment Table",
-              "href": "https://isidore.udayton.edu/access/content/public/TeachingOnlineResources/Module%20Alignment%20Table.docx"
-            },
-            {
-              "icon": "fa-external-link",
-              "title": "Course Alignment Table",
-              "href": "https://isidore.udayton.edu/access/content/public/TeachingOnlineResources/Course%20Alignment%20Table.docx"
-            },
-            {
-              "icon": "fa-external-link",
-              "title": "Roundabout Design Plan",
-              "href": "https://isidore.udayton.edu/access/content/public/TeachingOnlineResources/Roundabout%20Design%20Plan.pdf"
-            }
-          ]
-        },
+      "references": {
+        "header": "Additional Resources",
+        "links": [
+          {
+            "icon": "fa-external-link",
+            "title": "Course Planning Guide",
+            "href": "https://isidore.udayton.edu/access/content/public/TeachingOnlineResources/Course%20Planning%20Guide-FULL.docx"
+          },
+          {
+            "icon": "fa-external-link",
+            "title": "Module Alignment Table",
+            "href": "https://isidore.udayton.edu/access/content/public/TeachingOnlineResources/Module%20Alignment%20Table.docx"
+          },
+          {
+            "icon": "fa-external-link",
+            "title": "Course Alignment Table",
+            "href": "https://isidore.udayton.edu/access/content/public/TeachingOnlineResources/Course%20Alignment%20Table.docx"
+          },
+          {
+            "icon": "fa-external-link",
+            "title": "Roundabout Design Plan",
+            "href": "https://isidore.udayton.edu/access/content/public/TeachingOnlineResources/Roundabout%20Design%20Plan.pdf"
+          }
+        ]
+      }
     },
     {
       "title": "Teaching Using the Power of Storytelling",
