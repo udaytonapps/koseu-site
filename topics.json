@@ -3,6 +3,47 @@
   "description": "Below are a collection of videos on different topics. Some are introductions and some are deep-dives.",
   "topics": [
     {
+      "title": "Using Roundabout Design to Develop your Course",
+      "description": "How is your course like a roundabout? Find out what traffic circles have to do with course design in this video.",
+      "category": "Instructional Design",
+      "thumbnail": "roundabout.png",
+      "content": "You may have heard of the phrase backward design, but most folks probably haven’t heard of roundabout design - at least not outside the context of traffic safety. <a href=\"https://www.facultyfocus.com/articles/online-education/online-course-design-and-preparation/planning-a-great-online-class-through-roundabout-design/\" target=\"_blank\">Roundabout design is a phrase coined by Flower Darby</a> as her response to backward design. She claims that thinking of your course as a roundabout is more realistic than the linear setup favored by backward design proponents. In this video, I compare roundabout design to backward design and offer my thoughts on where the value lies in each approach.",
+      "time": "Est. 8 min",
+      "author":  "Julianne Morgan, Center for Online Learning",
+      "anchor": "roundabout",
+      "videos": [
+        {
+          "title": "Using Roundabout Design to Develop your Course",
+          "warpwire": "PaAEAA"
+        }
+      ],
+      "references": {
+        "header": "Additional Resources",
+        "links": [
+          {
+            "icon": "fa-external-link",
+            "title": "Course Planning Guide",
+            "href": "https://isidore.udayton.edu/access/content/public/TeachingOnlineResources/Course%20Planning%20Guide-FULL.docx"
+          },
+          {
+            "icon": "fa-external-link",
+            "title": "Module Alignment Table",
+            "href": "https://isidore.udayton.edu/access/content/public/TeachingOnlineResources/Module%20Alignment%20Table.docx"
+          },
+          {
+            "icon": "fa-external-link",
+            "title": "Course Alignment Table",
+            "href": "https://isidore.udayton.edu/access/content/public/TeachingOnlineResources/Course%20Alignment%20Table.docx"
+          },
+          {
+            "icon": "fa-external-link",
+            "title": "Roundabout Design Plan",
+            "href": "https://isidore.udayton.edu/access/content/public/TeachingOnlineResources/Roundabout%20Design%20Plan.pdf"
+          }
+        ]
+      }
+    },
+    {
       "title": "Teaching Using the Power of Storytelling",
       "description": "Discover the power stories have to increase your students' buy-in, comprehension, and retention.",
       "category": "Student Engagement",
